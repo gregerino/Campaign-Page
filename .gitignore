@@ -1,0 +1,10 @@
+.DS_Store
+NPC Tokens (kopia)/
+*.zip
+*.html
+!site/**/*.html
+Faelaris Starwoven.jpeg
+Redbrand Ruffians.webp
+Sildar Hallwinter.jpg
+webpage background 6.jpg
+.claude/

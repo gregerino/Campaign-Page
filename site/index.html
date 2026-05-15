@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Phandelver and Below — The Shattered Obelisk</title>
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚔️</text></svg>">
+</head>
+<body>
+  <div class="page-bg"></div>
+
+  <nav class="main-nav">
+    <div class="nav-container">
+      <a href="index.html" class="nav-brand">Phandelver</a>
+      <ul class="nav-links">
+        <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+        <li><a href="sessions.html" data-i18n="nav.sessions">Session Log</a></li>
+        <li><a href="npcs.html" data-i18n="nav.npcs">NPCs</a></li>
+        <li><a href="locations.html" data-i18n="nav.locations">Locations</a></li>
+        <li><a href="goals.html" data-i18n="nav.quests">Quests</a></li>
+        <li><a href="factions.html" data-i18n="nav.factions">Factions</a></li>
+      </ul>
+      <div class="nav-right">
+        <button class="lang-toggle" title="Byt till svenska">SV</button>
+        <button class="nav-toggle" aria-label="Menu">☰</button>
+      </div>
+    </div>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h1 class="hero-title">
+        Phandelver and Below
+        <span>The Shattered Obelisk</span>
+      </h1>
+      <div class="hero-divider"></div>
+      <p class="hero-intro" data-i18n="home.intro">
+        Four adventurers — bound by fate, coin, and curiosity — travel the roads of the Sword Coast toward the mining town of Phandalin. What began as a simple escort job has pulled them into a web of goblin ambushes, criminal thugs, and a shadowy figure known only as The Spider.
+      </p>
+      <div class="hero-goal">
+        <span class="hero-goal-label" data-i18n="home.objective">Current Objective</span>
+        <span id="hero-goal-text" data-i18n="home.objective.text">We set out toward our next destination: The Dogwater Inn.</span>
+      </div>
+    </div>
+  </section>
+
+  <main class="page-wrapper">
+    <div class="content-area">
+
+      <div class="divider"><span class="divider-icon">✦</span></div>
+      <h2 class="section-title" data-i18n="home.party">The Party</h2>
+
+      <div class="party-grid" id="party-grid"></div>
+
+      <div class="divider"><span class="divider-icon">✦</span></div>
+
+      <div class="latest-session-preview">
+        <div class="latest-session-label" data-i18n="home.latest">Latest Entry</div>
+        <div class="latest-session-title">Session 5 — 4 Maj 2026</div>
+        <div class="latest-session-summary" id="latest-summary"></div>
+        <a href="sessions.html" class="btn-link" data-i18n="home.readmore">Read Full Session Log</a>
+      </div>
+
+      <div class="wax-seal">P</div>
+
+    </div>
+  </main>
+
+  <footer class="main-footer" data-i18n="home.footer">
+    A campaign chronicle from the Forgotten Realms — Phandalin, Sword Coast
+  </footer>
+
+  <button class="scroll-top" aria-label="Scroll to top">↑</button>
+
+  <script src="assets/js/data.js"></script>
+  <script src="assets/js/i18n.js"></script>
+  <script src="assets/js/app.js"></script>
+  <script>
+    // Render party cards with portraits
+    const partyGrid = document.getElementById('party-grid');
+    CAMPAIGN.party.forEach(pc => {
+      const card = document.createElement('div');
+      card.className = 'party-card fade-in';
+      card.innerHTML = `
+        <div class="party-portrait">
+          <img src="${pc.image}" alt="${pc.name}">
+        </div>
+        <div class="party-card-info">
+          <div class="card-name">${pc.name}</div>
+          <div class="card-detail">${pc.race} ${pc.class}</div>
+          <div class="card-player">${pc.player}</div>
+        </div>`;
+      partyGrid.appendChild(card);
+    });
+
+    // Latest session preview (bilingual)
+    function renderLatestSummary() {
+      const latest = CAMPAIGN.sessions[CAMPAIGN.sessions.length - 1];
+      const st = getSessionText(latest.id);
+      const whatText = st ? st.what : latest.what;
+      document.getElementById('latest-summary').innerHTML =
+        `<p>${whatText.split('. ').slice(0, 3).join('. ')}.</p>`;
+    }
+    renderLatestSummary();
+    window.addEventListener('langchange', renderLatestSummary);
+  </script>
+</body>
+</html>
