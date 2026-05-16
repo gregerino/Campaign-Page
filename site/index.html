@@ -98,9 +98,10 @@
     function renderLatestSummary() {
       const latest = CAMPAIGN.sessions[CAMPAIGN.sessions.length - 1];
       const st = getSessionText(latest.id);
-      const whatText = st ? st.what : latest.what;
+      const recapText = (st && st.recap) || latest.what;
+      const firstParagraph = recapText.split(/\n+/)[0];
       document.getElementById('latest-summary').innerHTML =
-        `<p>${whatText.split('. ').slice(0, 3).join('. ')}.</p>`;
+        `<p>${firstParagraph}</p>`;
     }
     renderLatestSummary();
     window.addEventListener('langchange', renderLatestSummary);

@@ -54,13 +54,6 @@
       container.innerHTML = '';
       const sessions = CAMPAIGN.sessions.slice().reverse();
 
-      const categoryConfig = [
-        { key: 'where', icon: '🗺️', i18nKey: 'cat.where' },
-        { key: 'who',   icon: '👤', i18nKey: 'cat.who' },
-        { key: 'what',  icon: '⚔️', i18nKey: 'cat.what' },
-        { key: 'learned', icon: '📖', i18nKey: 'cat.learned' }
-      ];
-
       sessions.forEach((s, idx) => {
         const isLatest = idx === 0;
         const entry = document.createElement('div');
@@ -68,44 +61,15 @@
 
         // Use bilingual session text from i18n.js
         const st = getSessionText(s.id);
+        const recapText = (st && st.recap) || [s.where, s.who, s.what, s.learned, s.goal].filter(Boolean).join('\n\n');
 
-        let categoriesHTML = '';
-        categoryConfig.forEach(cat => {
-          const content = st ? st[cat.key] : s[cat.key];
-          if (content) {
-            // Prose: render as paragraphs, splitting on double-sentence boundaries
-            const paragraphs = typeof content === 'string'
-              ? content.split(/(?<=\.) (?=[A-ZÅÄÖ])/).reduce((acc, sentence, i) => {
-                  const pIdx = Math.floor(i / 3);
-                  acc[pIdx] = (acc[pIdx] || '') + (acc[pIdx] ? ' ' : '') + sentence;
-                  return acc;
-                }, [])
-              : content;
+        // Split on newlines for paragraph breaks
+        const paragraphs = recapText.split(/\n+/).filter(p => p.trim());
 
-            categoriesHTML += `
-              <div class="session-category">
-                <div class="category-header">
-                  <span class="category-icon">${cat.icon}</span>
-                  <span class="category-title">${t(cat.i18nKey)}</span>
-                </div>
-                <div class="session-prose">
-                  ${Array.isArray(paragraphs)
-                    ? paragraphs.map(p => `<p>${p}</p>`).join('')
-                    : `<p>${paragraphs}</p>`}
-                </div>
-              </div>`;
-          }
-        });
-
-        const goalText = st ? st.goal : s.goal;
-        const goalHTML = goalText ? `
-          <div class="session-goal-box">
-            <div class="category-header">
-              <span class="category-icon">🎯</span>
-              <span class="category-title">${t('cat.goal')}</span>
-            </div>
-            <div class="session-goal-text">${goalText}</div>
-          </div>` : '';
+        const recapHTML = `
+          <div class="session-prose">
+            ${paragraphs.map(p => `<p>${p}</p>`).join('')}
+          </div>`;
 
         entry.innerHTML = `
           <div class="session-header">
@@ -120,8 +84,7 @@
           </div>
           <div class="session-body">
             <div class="session-content">
-              ${categoriesHTML}
-              ${goalHTML}
+              ${recapHTML}
             </div>
           </div>`;
 
