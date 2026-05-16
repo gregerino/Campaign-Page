@@ -30,13 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
     );
   }
 
-  // ── Session accordions ──
-  document.querySelectorAll('.session-header').forEach(header => {
-    header.addEventListener('click', () => {
-      const entry = header.closest('.session-entry');
-      entry.classList.toggle('open');
-    });
-  });
+  // Session accordions are handled in sessions.html's renderSessions()
 
   // ── Search/Filter NPCs ──
   const npcSearch = document.getElementById('npc-search');
