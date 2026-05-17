@@ -75,15 +75,33 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   }
 
-  // ── Search Locations ──
+  // ── Search & Filter Locations ──
   const locSearch = document.getElementById('location-search');
   if (locSearch) {
-    locSearch.addEventListener('input', () => {
-      const query = locSearch.value.toLowerCase();
-      document.querySelectorAll('.location-card').forEach(card => {
-        const text = card.textContent.toLowerCase();
-        card.style.display = !query || text.includes(query) ? '' : 'none';
-      });
+    locSearch.addEventListener('input', () => filterLocations());
+  }
+
+  document.querySelectorAll('[data-filter-loc-session]').forEach(btn => {
+    btn.addEventListener('click', () => {
+      document.querySelectorAll('[data-filter-loc-session]').forEach(b => b.classList.remove('active'));
+      btn.classList.toggle('active');
+      filterLocations();
+    });
+  });
+
+  function filterLocations() {
+    const query = (locSearch?.value || '').toLowerCase();
+    const activeFilter = document.querySelector('[data-filter-loc-session].active');
+    const sessionFilter = activeFilter ? activeFilter.dataset.filterLocSession : null;
+
+    document.querySelectorAll('.location-card').forEach(card => {
+      const text = card.textContent.toLowerCase();
+      const sessions = (card.dataset.sessions || '').split(',');
+
+      const matchesQuery = !query || text.includes(query);
+      const matchesSession = !sessionFilter || sessions.includes(sessionFilter);
+
+      card.style.display = matchesQuery && matchesSession ? '' : 'none';
     });
   }
 

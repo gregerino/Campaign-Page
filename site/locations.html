@@ -37,6 +37,11 @@
     <div class="content-area wide">
       <div class="search-bar">
         <input type="text" id="location-search" class="search-input" data-i18n-placeholder="loc.search" placeholder="Search locations...">
+        <button class="filter-btn" data-filter-loc-session="1">S1</button>
+        <button class="filter-btn" data-filter-loc-session="2">S2</button>
+        <button class="filter-btn" data-filter-loc-session="3">S3</button>
+        <button class="filter-btn" data-filter-loc-session="4">S4</button>
+        <button class="filter-btn" data-filter-loc-session="5">S5</button>
       </div>
       <div class="location-grid" id="location-grid"></div>
     </div>
@@ -56,6 +61,7 @@
         const events = getLocationEvents(loc.name) || loc.events;
         const card = document.createElement('div');
         card.className = 'location-card fade-in';
+        card.dataset.sessions = loc.sessions.join(',');
         card.innerHTML = `
           <div class="location-card-header">
             <div class="location-name">${loc.name}</div>
