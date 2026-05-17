@@ -262,7 +262,7 @@ const LOCATION_EVENTS = {
       "Mirna, Nars och Nirsa Dendrar räddades ur fängelset (S4).",
       "Ssarnak möttes i grottan (S4).",
       "Armory hittades; gruppen tog röda cloaks (S4).",
-      "Brevet från Nezznar \"The Spider\" till Glasstaff hittades (S4).",
+      "Brevet från \"The Spider\" till Glasstaff hittades (S4).",
       "Glasstaff jagades och tillfångatogs efter flykt (S5)."
     ],
     "Thistlebrook Remedies": [

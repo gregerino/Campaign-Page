@@ -9,6 +9,7 @@ const CAMPAIGN = {
       player: "Måns",
       race: "Halfling",
       class: "Rogue",
+      level: 3,
       motivation: "Sona misstaget som kostade någon livet",
       faction: "Zhentarim / Harpers",
       image: "assets/images/party/lior.png",
@@ -19,6 +20,7 @@ const CAMPAIGN = {
       player: "Olof",
       race: "Goliath",
       class: "Paladin",
+      level: 3,
       motivation: "Skydda människor som inte kan skydda sig själva",
       faction: "Order of the Gauntlet",
       image: "assets/images/party/brander.png",
@@ -29,6 +31,7 @@ const CAMPAIGN = {
       player: "Johan",
       race: "Human",
       class: "Wizard",
+      level: 3,
       motivation: "Bli mäktig nog att aldrig vara beroende av någon igen",
       faction: "Harpers / Lords Alliance",
       image: "assets/images/party/corvus.png",
@@ -39,6 +42,7 @@ const CAMPAIGN = {
       player: "Gustaf",
       race: "Elf",
       class: "Ranger",
+      level: 3,
       motivation: "Bevisa att han kan vara något annat än bara kungason",
       faction: "Harpers / Emerald Enclave",
       image: "assets/images/party/faelaris.jpeg",
@@ -84,7 +88,7 @@ const CAMPAIGN = {
       where: "After a night at Stonehill Inn, we made our way to Tresendar Manor and descended into the Redbrand Hideout, a sprawling underground complex hidden beneath the ruins.",
       who: "We checked in with Sildar Hallwinter and Harbin Wester before heading out. In the hideout, we rescued Mirna Dendrar and her children Nirsa and Nars from the Redbrand prison cells. We encountered Ssarnak, a grotesque one-eyed creature lurking in a cavern beneath the hideout. We fought Redbrand Ruffians, Skeletons, and found four Bugbears terrorizing a small goblin named Droop, who fainted the moment we entered the room.",
       what: "We climbed onto the roof of Stonehill Inn to look for light from Tresendar Manor; we saw nothing. After breakfast, we headed to the manor and found our way into the Redbrand Hideout. In the entrance cistern we discovered Glasstaff's emergency escape kit. Lior blocked a door with his Unbreakable Arrow to prevent Redbrands from flanking us. Faelaris fell into a trap in the corridor leading to the crypt, where we destroyed a group of skeletons. We found the prison cells and freed Mirna, Nars, and Nirsa, escorting them out safely. In the armory we donned red cloaks to disguise ourselves as Redbrands. We offered Ssarnak a dead Redbrand as food to cross his bridge unharmed. The disguise worked: Redbrands playing Knucklebones ignored us, and even the Bugbears let us pass. We reached Glasstaff's workshop and personal quarters, where we discovered the letter.",
-      learned: "We found Glasstaff's emergency kit hidden in the water cistern. Mirna Dendrar told us her family heirloom is in the Ruins of Thundertree, which she offered as a reward for freeing them. We took red cloaks from the armory and used them to move freely through the hideout. Ssarnak whispered our darkest secrets aloud: Mördare, Tjuv, Förrädare, Desertör. And we learned fragments of Lior's past: a ring, a defected agent, Thay. Most importantly, we found a letter from Nezznar \"The Spider\" addressed to Iarno \"Glasstaff\" Albrek, revealing that Iarno is Glasstaff.",
+      learned: "We found Glasstaff's emergency kit hidden in the water cistern. Mirna Dendrar told us her family heirloom is in the Ruins of Thundertree, which she offered as a reward for freeing them. We took red cloaks from the armory and used them to move freely through the hideout. Ssarnak whispered our darkest secrets aloud: Mördare, Tjuv, Förrädare, Desertör. And we learned fragments of Lior's past: a ring, a defected agent, Thay. Most importantly, we found a letter from \"The Spider\" addressed to Iarno \"Glasstaff\" Albrek, revealing that Iarno is Glasstaff.",
       goal: "Vart tog Glasstaff vägen? Han kan inte ha kommit långt."
     },
     {
@@ -240,7 +244,7 @@ const CAMPAIGN = {
         "Mirna, Nars and Nirsa Dendrar were rescued from prison (S4).",
         "Ssarnak was encountered in the cavern (S4).",
         "The armory was found; the party took red cloaks (S4).",
-        "The letter from Nezznar \"The Spider\" to Glasstaff was found (S4).",
+        "The letter from \"The Spider\" to Glasstaff was found (S4).",
         "Glasstaff was chased and captured after fleeing (S5)."
       ]
     },
