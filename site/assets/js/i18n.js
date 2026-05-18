@@ -145,12 +145,11 @@ const GOALS_TEXT = {
     "Capture Glasstaff.",
     "Find Reidoth the Druid in the Ruins of Thundertree.",
     "Investigate Old Owl Well to find out what is going on there.",
-    "Explore Wyvern Tor on behalf of Harbin Wester.",
     "Get to Conyberry.",
-    "Get to The Dogwater Inn."
+    "Explore Wyvern Tor on behalf of Harbin Wester."
   ],
   sv: [
-    "Nästa mål är Conyberry.",
+    "Ta oss till The Dogwater Inn.",
     "Hitta Gundren Rockseeker.",
     "Hitta Cragmaw Castle.",
     "Ge silverkammen till bansheen Agatha.",
@@ -161,9 +160,8 @@ const GOALS_TEXT = {
     "Tillfångata Glasstaff.",
     "Hitta Reidoth the Druid i Ruins of Thundertree.",
     "Undersök Old Owl Well för att ta reda på vad som pågår där.",
-    "Utforska Wyvern Tor på uppdrag av Harbin Wester.",
     "Ta oss till Conyberry.",
-    "Ta oss till The Dogwater Inn."
+    "Utforska Wyvern Tor på uppdrag av Harbin Wester."
   ]
 };
 
