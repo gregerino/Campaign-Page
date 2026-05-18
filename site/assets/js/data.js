@@ -100,6 +100,16 @@ const CAMPAIGN = {
       what: "We looted Glasstaff's chest and claimed his Staff of Defense. Faelaris heard Glasstaff trying to escape and we gave chase. Corvus cast a Scroll of Hold Person while Faelaris lassoed his feet, and Glasstaff crashed to the ground. Brander threw him over his shoulder and we sprinted out of the hideout. We interrogated Glasstaff outside Tresendar Manor, where Lior collapsed in pain from his ring and began telling the group about it. We locked Glasstaff in the Townmaster's Hall cells. A celebration was held in our honor at Stonehill Inn. Lior spoke with Sister Garaele about the Red Wizards of Thay, Corvus unwrapped the oilcloth to examine the black glass shard he carries and felt shame without understanding why, and Brander played Dragonchess with Sildar and won. We bought healing potions and Alchemist's Fire at Thistlebrook Remedies. Qelline Alderleaf gave us directions to Thundertree, Conyberry, and Old Owl Well. We stocked up at Barthen's Provisions and set out from Phandalin. Toblen stopped us at the town's edge and slipped Corvus a letter.",
       learned: "Lior's pain was caused by his ring. Daran Edermath gifted us Boots of Elvenkind as thanks for dealing with Glasstaff. From interrogating Glasstaff, we learned that \"The Spider\" is a Drow. \"The Spider\" sent four Bugbears to help Glasstaff keep Phandalin's residents in check, but the Redbrands managed without them so far. \"The Spider\" is searching for the Forge of Spells, a magical forge once used by dwarves and gnomes long ago to create magical weapons. No one else in The Lords' Alliance knows about Glasstaff's betrayal. It was Iarno \"Glasstaff\" Albrek's bag that lay in the pool in the entrance room; he had hidden it there in case he needed to flee. Reidoth the Druid is in the Ruins of Thundertree and knows the way to Cragmaw Castle. Sildar wants to restore order in the region and asked for our help with the problems around Phandalin; he wants the party to be his informants regarding progress in Phandalin. Sildar wants to bring Iarno \"Glasstaff\" Albrek to justice in Neverwinter, and asked the party to continue searching for Gundren Rockseeker while he is away. Qelline taught us the routes to Thundertree and Conyberry. Toblen Stonehill pressed a letter into Corvus's hands as we left Phandalin.",
       goal: "Vi begav oss mot nästa destination: The Dogwater Inn."
+    },
+    {
+      id: 6,
+      title: "Session 6",
+      date: "18 Maj 2026",
+      where: "We traveled the Triboar Trail from Phandalin toward Conyberry, stopping at The Dogwater Inn along the way. After a night at the inn, we continued east along the trail, passing through an ambush site, a destroyed wagon, and eventually making camp in the wilderness.",
+      who: "We encountered a squad of Hobgoblins carrying a bounty poster with Faelaris's likeness. At The Dogwater Inn we met Roscoe the barkeep and Fleurette Grubbfin, a halfling serving food and ale. On the trail the next day, we met Bramblewick Quickpocket, a traveling halfling merchant with a wagon full of wares.",
+      what: "Lior spotted birds fleeing a thicket and scouted ahead, discovering Hobgoblins lying in ambush. He used Disguise Self to pose as one of them and bought the group time before the fight broke out. After defeating the Hobgoblins, we found a bounty poster bearing Faelaris's face, sealed with a black spider web. At The Dogwater Inn, Brander won the Putrid Pint challenge. Roscoe gave Lior a knife. We bought supplies from Bramblewick's wagon. We found a destroyed wagon with goblin arrows and a dead body, which we buried and burned. That night at camp, each of us sat with something private: Lior watched his shadow move independently, Corvus studied the black glass shard, and Faelaris reflected on a vision of a black sky.",
+      learned: "The Hobgoblins carried a bounty on Faelaris, sealed with The Spider's mark. A hunting guide told us the goblins in Cragmaw Castle file their teeth to points and are extremely aggressive. A hunter named Gustaf, called Falcon, lives in Neverwinter Wood. There is a Loggers Camp at the Neverwinter River run by Tibor Wester. A ghost has been seen near Conyberry. Something enormous, the size of three warhorses with bat-like wings, attacked a shepherd's flock. Roscoe told Brander of sick people with rotting flesh near Old Owl Well. The destroyed wagon on the trail was attacked by goblins.",
+      goal: "Nästa mål är Conyberry."
     }
   ],
 
@@ -131,17 +141,24 @@ const CAMPAIGN = {
     { name: "Droop", appearance: "A small, scrawny goblin with greenish skin, large yellow eyes, and oversized pointed ears, wearing a tattered red vest and baggy pants, carrying a staff.", locations: ["Redbrand Hideout"], firstSession: 4, image: "assets/images/npcs/droop.webp" },
     { name: "Iarno \"Glasstaff\" Albrek", appearance: "A bearded human man in a long fur-collared white and gold coat, carrying a glowing multicolored staff and a book.", locations: ["Redbrand Hideout", "Tresendar Manor", "Townmaster's Hall"], firstSession: 4, image: "assets/images/npcs/glasstaff.png" },
     { name: "Qelline Alderleaf", appearance: "A dark-skinned halfling woman with voluminous curly brown hair, wearing a fur-collared cloak over a rust-orange tunic with a golden spiral necklace.", locations: ["Alderleaf Farm", "Phandalin"], firstSession: 5, image: "assets/images/npcs/qelline.png" },
-    { name: "Elara Thistlebrook", appearance: "A freckled human woman with red hair in a long braid, wearing a green shawl over a brown laced bodice, warmly smiling while holding a glowing blue potion bottle.", locations: ["Thistlebrook Remedies", "Phandalin"], firstSession: 5, image: "assets/images/npcs/elara.png" }
+    { name: "Elara Thistlebrook", appearance: "A freckled human woman with red hair in a long braid, wearing a green shawl over a brown laced bodice, warmly smiling while holding a glowing blue potion bottle.", locations: ["Thistlebrook Remedies", "Phandalin"], firstSession: 5, image: "assets/images/npcs/elara.png" },
+    { name: "Roscoe", appearance: "A broad, bald human man with a thick dark beard and a stern weathered face, wearing a brown leather apron over a plain shirt, holding a foaming tankard behind the bar.", locations: ["The Dogwater Inn"], firstSession: 6, image: "assets/images/npcs/roscoe.png" },
+    { name: "Fleurette Grubbfin", appearance: "A cheerful halfling woman with curly red hair pinned up with utensils, rosy cheeks, and a warm smile, wearing a yellow blouse under a brown leather apron, carrying a plate of stew and bread.", locations: ["The Dogwater Inn"], firstSession: 6, image: "assets/images/npcs/fleurette.png" },
+    { name: "Bramblewick Quickpocket", appearance: "A grinning halfling man with curly auburn hair and a mischievous glint in his eye, wearing a richly embroidered green and brown coat over a rust-colored vest, flipping a gold coin beside his merchant wagon.", locations: ["Triboar Trail"], firstSession: 6, image: "assets/images/npcs/bramblewick.png" }
   ],
 
   locations: [
     {
       name: "Triboar Trail",
-      sessions: [1, 2],
+      sessions: [1, 2, 6],
       events: [
         "Goblins were killed in an ambush (S1).",
         "A blood trail was found leading to Cragmaw Hideout (S1).",
-        "The party traveled along the trail toward Phandalin (S2)."
+        "The party traveled along the trail toward Phandalin (S2).",
+        "A Hobgoblin squad ambushed the party; Lior used Disguise Self to infiltrate them (S6).",
+        "A bounty poster with Faelaris's face, sealed with The Spider's mark, was found (S6).",
+        "Bramblewick Quickpocket's merchant wagon was encountered (S6).",
+        "A destroyed wagon with goblin arrows and a dead body was found and burned (S6)."
       ]
     },
     {
@@ -269,6 +286,16 @@ const CAMPAIGN = {
       events: [
         "The party spoke with Qelline and received directions to Thundertree, Conyberry and Old Owl Well (S5)."
       ]
+    },
+    {
+      name: "The Dogwater Inn",
+      sessions: [6],
+      events: [
+        "The party arrived after the Hobgoblin ambush on the Triboar Trail (S6).",
+        "Brander won the Putrid Pint drinking challenge (S6).",
+        "Roscoe gave Lior a knife as a gift (S6).",
+        "Rumors were gathered about Cragmaw Castle, Old Owl Well, a ghost near Conyberry, and a flying monster (S6)."
+      ]
     }
   ],
 
@@ -300,7 +327,7 @@ const CAMPAIGN = {
   ],
 
   goals: [
-    { id: 0, text: "Get to The Dogwater Inn.", session: 5, status: "active" },
+    { id: 11, text: "Get to Conyberry.", session: 6, status: "active" },
     { id: 1, text: "Find Gundren Rockseeker.", session: 2, status: "active" },
     { id: 2, text: "Find Cragmaw Castle.", session: 2, status: "active" },
     { id: 3, text: "Deliver the silver comb to the banshee Agatha.", session: 3, status: "active" },
@@ -310,6 +337,7 @@ const CAMPAIGN = {
     { id: 5, text: "Kill Klarg.", session: 1, status: "completed" },
     { id: 6, text: "Stop the Redbrand Ruffians.", session: 2, status: "completed" },
     { id: 7, text: "Find the Redbrand Hideout.", session: 3, status: "completed" },
-    { id: 8, text: "Capture Glasstaff.", session: 4, status: "completed" }
+    { id: 8, text: "Capture Glasstaff.", session: 4, status: "completed" },
+    { id: 0, text: "Get to The Dogwater Inn.", session: 5, status: "completed" }
   ]
 };
