@@ -454,6 +454,15 @@ body {
   font-weight: 400;
 }
 
+.party-card .card-subclass {
+  font-family: var(--font-ui);
+  color: var(--accent);
+  font-size: 0.7rem;
+  margin-top: 0.1rem;
+  font-weight: 500;
+  font-style: italic;
+}
+
 .party-card .card-player {
   font-family: var(--font-ui);
   font-size: 0.65rem;

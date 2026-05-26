@@ -57,7 +57,7 @@
 
       <div class="latest-session-preview">
         <div class="latest-session-label" data-i18n="home.latest">Latest Entry</div>
-        <div class="latest-session-title">Session 6, 18 Maj 2026</div>
+        <div class="latest-session-title">Session 7, 25 Maj 2026</div>
         <div class="latest-session-summary" id="latest-summary"></div>
         <a href="sessions.html" class="btn-link" data-i18n="home.readmore">Read Full Session Log</a>
       </div>
@@ -73,9 +73,9 @@
 
   <button class="scroll-top" aria-label="Scroll to top">↑</button>
 
-  <script src="assets/js/data.js?v=1779138314"></script>
-  <script src="assets/js/i18n.js?v=1779138314"></script>
-  <script src="assets/js/app.js?v=1779138314"></script>
+  <script src="assets/js/data.js?v=1779744316"></script>
+  <script src="assets/js/i18n.js?v=1779744316"></script>
+  <script src="assets/js/app.js?v=1779744316"></script>
   <script>
     // Render party cards with portraits
     const partyGrid = document.getElementById('party-grid');
@@ -89,6 +89,7 @@
         <div class="party-card-info">
           <div class="card-name">${pc.name}</div>
           <div class="card-detail">${pc.race} ${pc.class} (Lvl ${pc.level})</div>
+          ${pc.subclass ? `<div class="card-subclass">${pc.subclass}</div>` : ''}
           <div class="card-player">${pc.player}</div>
         </div>`;
       partyGrid.appendChild(card);

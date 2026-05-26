@@ -9,6 +9,7 @@ const CAMPAIGN = {
       player: "Måns",
       race: "Halfling",
       class: "Rogue",
+      subclass: "Arcane Trickster",
       level: 3,
       motivation: "Sona misstaget som kostade någon livet",
       faction: "Zhentarim / Harpers",
@@ -20,6 +21,7 @@ const CAMPAIGN = {
       player: "Olof",
       race: "Goliath",
       class: "Paladin",
+      subclass: "Oath of the Ancients",
       level: 3,
       motivation: "Skydda människor som inte kan skydda sig själva",
       faction: "Order of the Gauntlet",
@@ -31,6 +33,7 @@ const CAMPAIGN = {
       player: "Johan",
       race: "Human",
       class: "Wizard",
+      subclass: "Evoker",
       level: 3,
       motivation: "Bli mäktig nog att aldrig vara beroende av någon igen",
       faction: "Harpers / Lords Alliance",
@@ -42,6 +45,7 @@ const CAMPAIGN = {
       player: "Gustaf",
       race: "Elf",
       class: "Ranger",
+      subclass: "Gloomstalker",
       level: 3,
       motivation: "Bevisa att han kan vara något annat än bara kungason",
       faction: "Harpers / Emerald Enclave",
@@ -110,6 +114,16 @@ const CAMPAIGN = {
       what: "Lior spotted birds fleeing a thicket and scouted ahead, discovering Hobgoblins lying in ambush. He used Disguise Self to pose as one of them and bought the group time before the fight broke out. After defeating the Hobgoblins, we found a bounty poster bearing Faelaris's face, sealed with a black spider web. At The Dogwater Inn, Brander won the Putrid Pint challenge. Roscoe gave Lior a knife. We bought supplies from Bramblewick's wagon. We found a destroyed wagon with goblin arrows and a dead body, which we buried and burned. That night at camp, each of us sat with something private: Lior watched his shadow move independently, Corvus studied the black glass shard, and Faelaris reflected on a vision of a black sky.",
       learned: "The Hobgoblins carried a bounty on Faelaris, sealed with The Spider's mark. A hunting guide told us the goblins in Cragmaw Castle file their teeth to points and are extremely aggressive. A hunter named Gustaf, called Falcon, lives in Neverwinter Wood. There is a Loggers Camp at the Neverwinter River run by Tibor Wester. A ghost has been seen near Conyberry. Something enormous, the size of three warhorses with bat-like wings, attacked a shepherd's flock. Roscoe told Brander of sick people with rotting flesh near Old Owl Well. The destroyed wagon on the trail was attacked by goblins.",
       goal: "Nästa mål är Conyberry."
+    },
+    {
+      id: 7,
+      title: "Session 7",
+      date: "25 Maj 2026",
+      where: "We continued along the Triboar Trail toward Conyberry. On the way we arrived at Wyvern Tor, where we cleared a marauder camp. We traveled on and discovered Old Owl Well, encountering Hamun and his zombies. We made camp in the forest after each encounter.",
+      who: "We met Bramblewick Quickpocket on the trail. At Wyvern Tor we killed Brughor Axe-Biter, his ogre Gog, and two bugbears. At Old Owl Well we met Hamun, a Red Wizard of Thay surrounded by zombies, who turned out to be Lior's old protector.",
+      what: "We traveled the Triboar Trail and hunted a deer for supplies. Brander taught Lior Dragonchess and won his third straight game; Corvus tried to win but also lost. We arrived at Wyvern Tor and used stealth and deception to lure out the guards one by one. Corvus used a Flaming Sphere on Gog and Brander finished them off. In the cave we found coin, stolen goods, and a cave painting of an elf caught in a black spiderweb beside a strange goblin with an elongated head and crystal growth. Faelaris realized this was the place Harbin Wester had asked about. Corvus found a note on a dead bugbear mentioning Butterskull Ranch. That night, Lior found a Moon-Touched Sword on a skeleton in a hollow oak tree. The next day, we reached Old Owl Well where Brander sensed undead with Divine Sense. Hamun recognized Lior and confronted him about his past before vanishing through a Dimension Door. Lior's ring cracked and was replaced by a Netherese Ring of Protection.",
+      learned: "Wyvern Tor was the threat Harbin Wester asked us to deal with. A note on a dead bugbear mentioned Butterskull Ranch. Stolen cattle tracks in the camp led east, pointing toward the ranch. An ancient cave painting showed an elf in a black spiderweb and a goblin with an elongated head and crystal growth, the same kind of creature seen before. Lior found a Moon-Touched Sword marked by Selûne's power. The sick people at Old Owl Well are actually zombies. The red wizard at Old Owl Well is Hamun, Lior's old protector from the Red Wizards of Thay. Hamun cracked Lior's silver ring, turning it black with green necrotic flames and revealing the Red Wizards' sigil in its center. It was replaced by a Netherese Ring of Protection.",
+      goal: "Conyberry is still our next destination."
     }
   ],
 
@@ -144,13 +158,16 @@ const CAMPAIGN = {
     { name: "Elara Thistlebrook", appearance: "A freckled human woman with red hair in a long braid, wearing a green shawl over a brown laced bodice, warmly smiling while holding a glowing blue potion bottle.", locations: ["Thistlebrook Remedies", "Phandalin"], firstSession: 5, image: "assets/images/npcs/elara.png" },
     { name: "Roscoe", appearance: "A broad, bald human man with a thick dark beard and a stern weathered face, wearing a brown leather apron over a plain shirt, holding a foaming tankard behind the bar.", locations: ["The Dogwater Inn"], firstSession: 6, image: "assets/images/npcs/roscoe.png" },
     { name: "Fleurette Grubbfin", appearance: "A cheerful halfling woman with curly red hair pinned up with utensils, rosy cheeks, and a warm smile, wearing a yellow blouse under a brown leather apron, carrying a plate of stew and bread.", locations: ["The Dogwater Inn"], firstSession: 6, image: "assets/images/npcs/fleurette.png" },
-    { name: "Bramblewick Quickpocket", appearance: "A grinning halfling man with curly auburn hair and a mischievous glint in his eye, wearing a richly embroidered green and brown coat over a rust-colored vest, flipping a gold coin beside his merchant wagon.", locations: ["Triboar Trail"], firstSession: 6, image: "assets/images/npcs/bramblewick.png" }
+    { name: "Bramblewick Quickpocket", appearance: "A grinning halfling man with curly auburn hair and a mischievous glint in his eye, wearing a richly embroidered green and brown coat over a rust-colored vest, flipping a gold coin beside his merchant wagon.", locations: ["Triboar Trail"], firstSession: 6, image: "assets/images/npcs/bramblewick.png" },
+    { name: "Brughor Axe-Biter", appearance: "A scarred, battle-hardened bugbear chieftain with matted dark fur, a missing ear, and cruel yellow eyes, wearing dented chainmail and wielding a massive notched greataxe.", locations: ["Wyvern Tor"], firstSession: 7, image: "assets/images/npcs/brughor.png", dead: true },
+    { name: "Gog", appearance: "A towering, dim-witted ogre with grey-green skin, a jutting underbite, and small beady eyes, wearing crude hide armor stitched together from animal pelts.", locations: ["Wyvern Tor"], firstSession: 7, image: "assets/images/npcs/gog.png", dead: true },
+    { name: "Hamun", appearance: "A gaunt human man with sunken cheeks, a shaved head, and piercing dark eyes, draped in rich crimson robes bearing the arcane sigils of the Red Wizards of Thay, radiating an unsettling calm.", locations: ["Old Owl Well"], firstSession: 7, image: "assets/images/npcs/hamun.webp" }
   ],
 
   locations: [
     {
       name: "Triboar Trail",
-      sessions: [1, 2, 6],
+      sessions: [1, 2, 6, 7],
       events: [
         "Goblins were killed in an ambush (S1).",
         "A blood trail was found leading to Cragmaw Hideout (S1).",
@@ -158,7 +175,9 @@ const CAMPAIGN = {
         "A Hobgoblin squad ambushed the party; Lior used Disguise Self to infiltrate them (S6).",
         "A bounty poster with Faelaris's face, sealed with The Spider's mark, was found (S6).",
         "Bramblewick Quickpocket's merchant wagon was encountered (S6).",
-        "A destroyed wagon with goblin arrows and a dead body was found and burned (S6)."
+        "A destroyed wagon with goblin arrows and a dead body was found and burned (S6).",
+        "The party hunted a deer and played Dragonchess at camp (S7).",
+        "Lior found a Moon-Touched Sword on a skeleton in a hollow oak tree (S7)."
       ]
     },
     {
@@ -296,6 +315,30 @@ const CAMPAIGN = {
         "Roscoe gave Lior a knife as a gift (S6).",
         "Rumors were gathered about Cragmaw Castle, Old Owl Well, a ghost near Conyberry, and a flying monster (S6)."
       ]
+    },
+    {
+      name: "Wyvern Tor",
+      sessions: [7],
+      events: [
+        "The party arrived and found a marauder camp guarded by bugbears (S7).",
+        "Bugbear guards were lured out one by one using stealth and deception (S7).",
+        "Brughor Axe-Biter, his ogre Gog, and two bugbears were killed (S7).",
+        "Corvus used a Flaming Sphere on Gog; Brander finished the ogre (S7).",
+        "Stolen cattle tracks and a note mentioning Butterskull Ranch were found (S7).",
+        "A cave painting showed an elf in a black spiderweb and a strange goblin with an elongated head and crystal growth (S7).",
+        "A hoard of coins and valuables from raided caravans was found (S7)."
+      ]
+    },
+    {
+      name: "Old Owl Well",
+      sessions: [7],
+      events: [
+        "Brander used Divine Sense and discovered the sick people were actually zombies (S7).",
+        "The party met Hamun, a Red Wizard of Thay, surrounded by his undead (S7).",
+        "Hamun recognized Lior and confronted him about his past with the Red Wizards (S7).",
+        "Lior's ring cracked after magical contact with Hamun and was replaced by a Netherese Ring of Protection (S7).",
+        "Hamun vanished through a Dimension Door (S7)."
+      ]
     }
   ],
 
@@ -333,12 +376,13 @@ const CAMPAIGN = {
     { id: 3, text: "Deliver the silver comb to the banshee Agatha.", session: 3, status: "active" },
     { id: 4, text: "Find Mirna's heirloom in the Ruins of Thundertree.", session: 4, status: "active" },
     { id: 9, text: "Find Reidoth the Druid in the Ruins of Thundertree.", session: 5, status: "active" },
-    { id: 12, text: "Explore Wyvern Tor on behalf of Harbin Wester.", session: 3, status: "active" },
-    { id: 10, text: "Investigate Old Owl Well to find out what is going on there.", session: 3, status: "active" },
+    { id: 13, text: "Investigate Butterskull Ranch.", session: 7, status: "active" },
     { id: 5, text: "Kill Klarg.", session: 1, status: "completed" },
     { id: 6, text: "Stop the Redbrand Ruffians.", session: 2, status: "completed" },
     { id: 7, text: "Find the Redbrand Hideout.", session: 3, status: "completed" },
     { id: 8, text: "Capture Glasstaff.", session: 4, status: "completed" },
-    { id: 0, text: "Get to The Dogwater Inn.", session: 5, status: "completed" }
+    { id: 0, text: "Get to The Dogwater Inn.", session: 5, status: "completed" },
+    { id: 12, text: "Explore Wyvern Tor on behalf of Harbin Wester.", session: 3, status: "completed" },
+    { id: 10, text: "Investigate Old Owl Well to find out what is going on there.", session: 3, status: "completed" }
   ]
 };
