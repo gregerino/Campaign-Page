@@ -42,9 +42,9 @@
   <footer class="main-footer" data-i18n="home.footer">A campaign chronicle from the Forgotten Realms, Phandalin, Sword Coast</footer>
   <button class="scroll-top" aria-label="Scroll to top">↑</button>
 
-  <script src="assets/js/data.js?v=1779744316"></script>
-  <script src="assets/js/i18n.js?v=1779744316"></script>
-  <script src="assets/js/app.js?v=1779744316"></script>
+  <script src="assets/js/data.js?v=2"></script>
+  <script src="assets/js/i18n.js?v=2"></script>
+  <script src="assets/js/app.js?v=2"></script>
   <script>
     function renderFactions() {
       const grid = document.getElementById('faction-grid');
@@ -73,8 +73,10 @@
       });
     }
 
-    renderFactions();
-    window.addEventListener('langchange', renderFactions);
+    campaignReady.then(() => {
+      renderFactions();
+      window.addEventListener('langchange', renderFactions);
+    });
   </script>
 </body>
 </html>

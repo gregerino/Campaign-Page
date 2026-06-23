@@ -73,39 +73,39 @@
 
   <button class="scroll-top" aria-label="Scroll to top">↑</button>
 
-  <script src="assets/js/data.js?v=1779744316"></script>
-  <script src="assets/js/i18n.js?v=1779744316"></script>
-  <script src="assets/js/app.js?v=1779744316"></script>
+  <script src="assets/js/data.js?v=2"></script>
+  <script src="assets/js/i18n.js?v=2"></script>
+  <script src="assets/js/app.js?v=2"></script>
   <script>
-    // Render party cards with portraits
-    const partyGrid = document.getElementById('party-grid');
-    CAMPAIGN.party.forEach(pc => {
-      const card = document.createElement('div');
-      card.className = 'party-card fade-in';
-      card.innerHTML = `
-        <div class="party-portrait">
-          <img src="${pc.image}" alt="${pc.name}">
-        </div>
-        <div class="party-card-info">
-          <div class="card-name">${pc.name}</div>
-          <div class="card-detail">${pc.race} ${pc.class} (Lvl ${pc.level})</div>
-          ${pc.subclass ? `<div class="card-subclass">${pc.subclass}</div>` : ''}
-          <div class="card-player">${pc.player}</div>
-        </div>`;
-      partyGrid.appendChild(card);
-    });
+    campaignReady.then(() => {
+      const partyGrid = document.getElementById('party-grid');
+      CAMPAIGN.party.forEach(pc => {
+        const card = document.createElement('div');
+        card.className = 'party-card fade-in';
+        card.innerHTML = `
+          <div class="party-portrait">
+            <img src="${pc.image}" alt="${pc.name}">
+          </div>
+          <div class="party-card-info">
+            <div class="card-name">${pc.name}</div>
+            <div class="card-detail">${pc.race} ${pc.class} (Lvl ${pc.level})</div>
+            ${pc.subclass ? `<div class="card-subclass">${pc.subclass}</div>` : ''}
+            <div class="card-player">${pc.player}</div>
+          </div>`;
+        partyGrid.appendChild(card);
+      });
 
-    // Latest session preview (bilingual)
-    function renderLatestSummary() {
-      const latest = CAMPAIGN.sessions[CAMPAIGN.sessions.length - 1];
-      const st = getSessionText(latest.id);
-      const recapText = (st && st.recap) || latest.what;
-      const firstParagraph = recapText.split(/\n+/)[0];
-      document.getElementById('latest-summary').innerHTML =
-        `<p>${firstParagraph}</p>`;
-    }
-    renderLatestSummary();
-    window.addEventListener('langchange', renderLatestSummary);
+      function renderLatestSummary() {
+        const latest = CAMPAIGN.sessions[CAMPAIGN.sessions.length - 1];
+        const st = getSessionText(latest.id);
+        const recapText = (st && st.recap) || latest.what;
+        const firstParagraph = recapText.split(/\n+/)[0];
+        document.getElementById('latest-summary').innerHTML =
+          `<p>${firstParagraph}</p>`;
+      }
+      renderLatestSummary();
+      window.addEventListener('langchange', renderLatestSummary);
+    });
   </script>
 </body>
 </html>

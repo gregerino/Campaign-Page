@@ -41,13 +41,12 @@
   <footer class="main-footer" data-i18n="home.footer">A campaign chronicle from the Forgotten Realms, Phandalin, Sword Coast</footer>
   <button class="scroll-top" aria-label="Scroll to top">↑</button>
 
-  <script src="assets/js/data.js?v=1779744316"></script>
-  <script src="assets/js/i18n.js?v=1779744316"></script>
-  <script src="assets/js/app.js?v=1779744316"></script>
+  <script src="assets/js/data.js?v=2"></script>
+  <script src="assets/js/i18n.js?v=2"></script>
+  <script src="assets/js/app.js?v=2"></script>
   <script>
     function renderGoals() {
       const board = document.getElementById('goals-board');
-      const goalTexts = getGoalTexts();
       const active = CAMPAIGN.goals.filter(g => g.status === 'active').sort((a, b) => b.session - a.session);
       const completed = CAMPAIGN.goals.filter(g => g.status === 'completed').sort((a, b) => b.session - a.session);
       const fromLabel = t('goals.from');
@@ -57,7 +56,7 @@
         goals.forEach(g => {
           const cls = isCompleted ? ' completed' : '';
           const qi = isCompleted ? '☑' : '◇';
-          const text = goalTexts[g.id] || g.text;
+          const text = getGoalText(g.id) || g.text;
           html += `<div class="quest-card${cls} fade-in"><div class="quest-icon">${qi}</div><div class="quest-content"><div class="quest-text">${text}</div><div class="quest-meta">${fromLabel} ${g.session}</div></div></div>`;
         });
         return html + `</div></div>`;
@@ -68,8 +67,10 @@
         renderSection('goals.completed', '📜', completed, true);
     }
 
-    renderGoals();
-    window.addEventListener('langchange', renderGoals);
+    campaignReady.then(() => {
+      renderGoals();
+      window.addEventListener('langchange', renderGoals);
+    });
   </script>
 </body>
 </html>
