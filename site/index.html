@@ -57,7 +57,7 @@
 
       <div class="latest-session-preview">
         <div class="latest-session-label" data-i18n="home.latest">Latest Entry</div>
-        <div class="latest-session-title">Session 7, 25 Maj 2026</div>
+        <div class="latest-session-title" id="latest-session-title"></div>
         <div class="latest-session-summary" id="latest-summary"></div>
         <a href="sessions.html" class="btn-link" data-i18n="home.readmore">Read Full Session Log</a>
       </div>
@@ -97,6 +97,8 @@
 
       function renderLatestSummary() {
         const latest = CAMPAIGN.sessions[CAMPAIGN.sessions.length - 1];
+        document.getElementById('latest-session-title').textContent =
+          `${latest.title}, ${latest.date}`;
         const st = getSessionText(latest.id);
         const recapText = (st && st.recap) || latest.what;
         const firstParagraph = recapText.split(/\n+/)[0];
