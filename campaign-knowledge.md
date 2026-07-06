@@ -176,6 +176,72 @@ Brughor Axe-Biter was dead. Wyvern Tor was cleared. The tracks pointed toward Bu
 
 Conyberry awaits.
 
+### Session 8 (22 Juni 2026)
+
+Old Owl Well sat behind them like an open wound. The encounter with Hamun still hung in the air, thicker than smoke, each of them processing it differently. Lior stood at the edge of the ruined tower, staring at the Netherese Ring of Protection on his finger where the cracked silver band had been hours before. He tried to reach back, to remember the Red Wizards, the time before Phandalin, before the road. But the memories came in fragments: the man who died, the agent he had sent the wrong way, and then nothing. A wall of fog where his past should have been.
+
+Brander watched him from across the camp. The ring troubled the paladin. His oath to life, to the green and growing things of the world, sat uneasily beside the death-touched artifacts Lior carried. He said it plainly: should Lior keep it? A thing born from necromancy, from Thay, from a man who spoke of breaking children's minds? But Lior held the ring, and the question went unanswered.
+
+Before they left, Lior searched Hamun's tent. Inside he found a map with Old Owl Well marked, and another location circled roughly a hundred miles to the southwest. He also found a spell scroll of Darkness, which Corvus claimed without hesitation. Brander set fire to the tent. The crimson fabric caught quickly, and they watched it burn, the last physical trace of Hamun's presence reduced to ash and smoke on the wind.
+
+They made camp two hours south, in the shelter of the hills. The evening passed with each of them tending to something private. Corvus spent the hours studying the spell scroll, his quill scratching parchment as he worked to copy its arcane formula. Brander knelt in the grass and prayed. Not to a distant concept, but to Yalanis, the giant goddess of peace and mercy, asking her to watch over Lior, to shield him from the darkness that clung to his magic like a second shadow. Faelaris tended his weapons in silence, methodical and precise. Lior tried once more to reach into his past, failed, gave up, and then spent the rest of the evening pestering Corvus while the wizard worked. Eventually, Lior took first watch. Brander relieved him for the second.
+
+Morning came gray and quiet. Faelaris spotted Conyberry first, a cluster of ruined structures visible through the thinning trees. As they entered the town, the emptiness was total. No people, no animals, no sound but the wind through broken shutters. Corvus remembered something: Agatha, the banshee Sister Garaele had spoken of, was said to dwell north of the settlement. They pressed through the abandoned streets and found a path leading into the forest.
+
+Agatha's lair was unmistakable. The trees around it grew wrong, twisted inward as if recoiling from something. Faelaris knocked. Inside, the air was cold and still, heavy with the scent of old roses and dust. Brander activated his divine sense and felt it immediately: a presence, powerful and ancient, watching them from somewhere just beyond sight. Agatha was here.
+
+Then the dread struck. Brander felt it first, a cold wave that crawled up his spine and locked his breath in his chest. The air itself seemed to recoil, and from the shadows a face emerged, twisted and contorted, a banshee in her truest form, mouth stretched wide in a silent scream, eyes burning with spectral fury. The group froze. For a moment, no one moved. Then the fury softened, and Agatha allowed herself to be seen as something less terrible.
+
+Faelaris presented the silver comb. The banshee shifted, becoming a shimmering figure of terrible beauty, her translucent form flickering between the woman she had once been and the hollow fury she had become. She accepted the gift, and in return answered one question. Only one. They asked about Sister Garaele's book, Bowgentle's spellbook. Agatha's answer was precise: she had traded the book over a hundred years ago to a necromancer named Tsernoth, from the city of Iriaebor. The book was long gone from her possession.
+
+Faelaris, ever the opportunist, tried to search a cabinet in the lair. Agatha's expression shifted. Her spectral form flickered brighter, a warning that needed no words. Faelaris backed out slowly, hands raised, and the moment passed.
+
+But before they left, Agatha turned to Brander. Her voice changed, dropping to something older and colder, as though speaking from a place beyond the present. "I see thatched roofs glowing in the night's breath. Small hands carry fire like a toy. Their eyes burn green... and they laugh when the world catches flame."
+
+The words settled over Brander like a shroud. He said nothing. They left.
+
+In hopes of finding answers to the warning, the group returned to Conyberry to investigate. The town had been abandoned for decades, perhaps longer. Corvus searched the ruins methodically and found two things: a charred letter, barely legible, and an old skeleton buried under debris. The letter spoke of someone coming, and urged the reader to flee south. Was this why Conyberry was abandoned? Had something driven its people out, or worse? Corvus called Brander over. The paladin performed funeral rites, speaking quiet words over the bones before covering them with earth. A small mercy for someone who had been forgotten for a very long time.
+
+They decided to head for Butterskull Ranch. The note found on the dead bugbear at Wyvern Tor had mentioned it, and the stolen cattle tracks pointed in that direction. On the road, they ran into a familiar face: Bramblewick Quickpocket, the halfling merchant, his wagon somehow even more cluttered than the last time. He grinned wide and offered them owlbear leather armor, and then wagered a bag of holding over a game of Life and Death, a dice game the halfling played with the ease of someone who had won and lost fortunes at it before.
+
+Butterskull Ranch appeared ahead, a large homestead surrounded by fenced pastures. But something was wrong. Too quiet, like Conyberry, except this silence was fresh. Lior crept forward, slipping through the shadows toward the main house. When he scaled the upper floor, he found orcs. Several of them, armed and alert, occupying the building as if they owned it. A corridor of bedrooms, each one checked and rechecked. These were the same orcs from the raiding group at Wyvern Tor, or what was left of them.
+
+Downstairs, Faelaris tried to open the front door quietly. He was not as silent as he thought. The creak echoed through the still house, and heads turned. What followed was a fight that built like a rising tide. First one orc, then two, then more pouring in from adjoining rooms and the upper floor, each wave harder than the last. Steel rang against green skin, spells lit the darkened rooms, and bodies fell on both sides of the doorway. By the end, the group stood bloodied but victorious among the orc dead.
+
+But the question lingered in the silence that followed. What were these orcs doing here? They were not raiding, they were occupying. Stationed. Guarding. But guarding what?
+
+The ranch is cleared, but the answer remains hidden somewhere inside its walls.
+
+### Session 9 (6 Juli 2026)
+
+The blast echoed through the house before Lior even managed to draw his weapon. Corvus had hurled his shatter spell into the room below, and when the dust settled, the last orcs lay still on the floor. Lior came running down to see what had happened and was met with silence and splintered wood where the fight had just ended.
+
+One orc remained, alone on the upper floor, holed up behind a locked door. Faelaris tried speaking Orc through the wood, words picked up along the road, hoping to frighten a confession loose. But nothing came back, no fear, no answer, just silence from the other side, as if words from an elf meant nothing to a creature that had already decided to die fighting.
+
+Lior quietly picked the lock on the door without the orc noticing, and Brander seized the moment: he kicked the door open with all his strength, catching the orc square in the face before the fight had even properly begun. What followed was short and brutal. Faelaris caught him with an ensnaring strike, roots and rope biting into his legs and holding him fast, while Corvus lunged forward and got a solid grip on him. Lior tried to bind him within Corvus's grapple, but the orc slashed the rope with a quick motion before the knots could hold. It didn't matter. Faelaris stepped in and finished it with one final, precise blow, knocking him unconscious instead of dead.
+
+They dragged him through the corridor to a common room on the same floor, where a fireplace still burned, and tied him there for questioning. Words alone weren't enough, so Brander heated an iron in the coals and let the threat of it do the talking. It worked. The orc broke and admitted the orcs had been ordered to guard the ranch's owner, kept alive in the cellar below.
+
+With the confession still hanging in the air, the group went straight down and found him: Alfonse "Big Al" Kalazorn, the ranch's owner, chained and worn down but alive. They freed him and led him up to the dining hall, where he slowly gathered himself over bread and something to drink. Big Al told them that from his captivity he had overheard the orcs talking among themselves, about an orc in Phandalin who had paid them to stop the ranch's deliveries to the town. Grateful to still be alive, he fed the group from his own kitchen, and that night they slept at the ranch, the first calm hours in a long while.
+
+Morning came clear and quiet. The ranch lay behind them, cleared and saved, but the question of who in Phandalin had paid the orcs to stop the deliveries remained unanswered. Together the group turned toward the horizon and set out into Neverwinter Wood.
+
+The forest closed in around them, dense and green, and each of them settled into their own small routines along the way. Brander gathered seeds from the flowers they passed and tucked them carefully into his bag, a collection that grew with every mile. Lior tested his new boots, step by step, curious just how quietly he could actually move through the undergrowth. Faelaris kept watch as always, eyes searching for deer, orcs, goblins, anything moving between the trees. He found his deer, brought it down with a single sure shot, and that evening the group cooked the meat over the fire, the best meal they'd had in days.
+
+Later that night, once the fire had died down and the others slept, Faelaris walked a short distance from camp, alone, and searched the night sky until he found his father's face among the stars. Aelar Starwoven spoke to him, and the conversation ran long and heavy. There was little comfort in his father's voice, only disappointment and a sorrow that had clearly been sitting there a long time. His people missed him, Aelar said, and the halls felt emptier for his absence. Faelaris tried once more to explain that he needed to prove he was more than just a king's son, that this was something he had to finish. He promised he would come home once it was done. Aelar did not argue, only listened, his grief plain even across that impossible distance. Then the face faded from among the stars, and Faelaris stood alone in the dark a while longer before walking back to camp. Brander took over the watch without asking what had been said.
+
+Lior was up first the next morning, as usual, and asked how the night had gone. No problems, he was told. Brander had spent his watch burying the bones of the deer they'd eaten the night before, a small, quiet gesture of respect for what had fed them. Faelaris carried more than that. Doubt, grief, homesickness, and a question he couldn't set down: had he been right to leave home? But alongside the doubt sat the joy of the friends beside him, and an excitement for everything still to come, a feeling he wouldn't admit aloud but that was there all the same.
+
+They pressed on into Neverwinter Wood. Lior asked Faelaris how the first watch had gone, curious about what lay behind his silence, but Faelaris wouldn't answer. It had gone fine, was all he said, and left it there.
+
+On the road, they came across an androgynous elf, pinned beneath a fallen tree trunk, half buried in moss and broken branches. Brander rushed forward and threw his full strength against the trunk, lifting it, but couldn't hold it long enough for the elf to crawl free. The trunk slipped from his grip and fell back, straight across the elf, crushing him under its weight before anyone could react. A moment of silence followed, heavier than the trunk itself. Brander felt a deep, unrelenting regret for what had just happened, and immediately began preparing funeral rites, as if the ritual could undo it. Corvus, ever the opportunist, searched the body while Brander grieved, and found signs that the elf had come from Neverwinter. Then Brander carried out the rite in earnest: he gently lowered the body beneath the tree and covered it with earth and plants, a grave as simple as it was unexpected.
+
+After a while, a sound came from the brush, and before anyone could react, a man stood there with his bow already drawn on them. He demanded to know who they were, and his grip on the arrow didn't waver in the slightest. It took a while of calm words and careful movements before they managed to talk him into lowering his weapon. It was Falcon, the hunter they'd heard of long before, back at The Dogwater Inn, the man who lived deep in Neverwinter Wood under the name Gustaf. He pointed them toward Thundertree and told them the druid Reidoth could be found there, a woman belonging to the Emerald Enclave. He also mentioned the Emerald Tavern, built into the treetops at the edge of Neverwinter Wood. With that lead in hand, they pushed on toward the treeline, eager to leave the forest's shadow behind.
+
+At last they reached Thundertree, the overgrown ruined town they'd heard spoken of ever since Phandalin. Twig Blights stirred to life among the twisted plant growth and lunged at them, but fell easily to the group's combined weapons. They made their way into what had once been the town's tavern, now just a shell of rotten wood and dust, and there, among the fallen tables, Ash Zombies waited.
+
+The first went down under their attacks, just as expected. But before anyone could catch their breath, it rose again, as if death had only been a pause. At the same moment, from somewhere far off but uncomfortably close, a roar tore through the evening air. A dragon's roar, deep and hungry, a sound that froze everyone mid-fight. Thundertree held more secrets than they had guessed, and something enormous was stirring in its ruins.
+
 ## NPCs
 
 ### Klarg (DEAD)
@@ -348,9 +414,24 @@ Conyberry awaits.
 - **Locations:** Old Owl Well
 - **First appeared:** Session 7
 
+### Agatha
+- **Appearance:** A shimmering, translucent elven woman of terrible beauty, her spectral form flickering between the vain noblewoman she once was and the hollow, wrathful banshee she has become, surrounded by the scent of old roses.
+- **Locations:** Agatha's Lair, Conyberry
+- **First appeared:** Session 8
+
+### Alfonse "Big Al" Kalazorn
+- **Appearance:** A massive, broad-shouldered human man with wild grey hair, a thick grey beard, and a jovial weathered face, wearing a stained white apron branded with a cattle skull over rugged leather-strapped work clothes.
+- **Locations:** Butterskull Ranch
+- **First appeared:** Session 9
+
+### Falcon the Hunter
+- **Appearance:** A rugged human hunter with long dark hair, a trimmed beard, and piercing blue eyes, wearing fur-trimmed leather armor and a dark hooded cloak, a quiver of arrows on his back and a sword at his side.
+- **Locations:** Neverwinter Wood
+- **First appeared:** Session 9
+
 ## Locations
 
-### Triboar Trail (S1, S2, S6, S7)
+### Triboar Trail (S1, S2, S6, S7, S8)
 - Goblins were killed in an ambush (S1).
 - A blood trail was found leading to Cragmaw Hideout (S1).
 - The party traveled along the trail toward Phandalin (S2).
@@ -360,6 +441,7 @@ Conyberry awaits.
 - A destroyed wagon with goblin arrows and a dead body was found and burned (S6).
 - The party hunted a deer and played Dragonchess at camp (S7).
 - Lior found a Moon-Touched Sword on a skeleton in a hollow oak tree (S7).
+- Bramblewick Quickpocket was encountered again; he traded owlbear leather armor and a bag of holding (S8).
 
 ### Cragmaw Hideout (S1, S2)
 - The party entered and killed the goblin sentries (S1).
@@ -446,12 +528,52 @@ Conyberry awaits.
 - A cave painting showed an elf in a black spiderweb and a strange goblin with an elongated head and crystal growth (S7).
 - A hoard of coins and valuables from raided caravans was found (S7).
 
-### Old Owl Well (S7)
+### Old Owl Well (S7, S8)
 - Brander used Divine Sense and discovered the sick people were actually zombies (S7).
 - The party met Hamun, a Red Wizard of Thay, surrounded by his undead (S7).
 - Hamun recognized Lior and confronted him about his past with the Red Wizards (S7).
 - Lior's ring cracked after magical contact with Hamun and was replaced by a Netherese Ring of Protection (S7).
 - Hamun vanished through a Dimension Door (S7).
+- Lior searched Hamun's tent and found a map and a spell scroll of Darkness (S8).
+- Brander burned Hamun's tent (S8).
+
+### Conyberry (S8)
+- The party arrived and found the town completely abandoned (S8).
+- Corvus found a charred letter urging someone to flee south and an old skeleton under debris (S8).
+- Brander performed funeral rites over the forgotten skeleton (S8).
+
+### Agatha's Lair (S8)
+- The party found Agatha's lair north of Conyberry (S8).
+- Faelaris gave Agatha the silver comb from Sister Garaele (S8).
+- Agatha revealed that Bowgentle's book was traded to the necromancer Tsernoth from Iriaebor over 100 years ago (S8).
+- Agatha gave Brander a cryptic warning about burning thatch and green-eyed children (S8).
+
+### Butterskull Ranch (S8, S9)
+- The party arrived and found orcs from the Wyvern Tor raiding group occupying the ranch (S8).
+- Lior scouted the upper floor and found armed orcs stationed in bedrooms (S8).
+- Faelaris accidentally alerted the orcs when opening the front door (S8).
+- The party defeated all orcs in a tough escalating fight (S8).
+- The orcs appeared to be guarding something unknown at the ranch (S8).
+- The last orc, holed up behind a locked door, was captured and dragged to a common room down the corridor (S9).
+- The orc was threatened with a heated fire iron until he revealed the orcs were guarding the ranch's owner in the cellar (S9).
+- Alfonse "Big Al" Kalazorn, the ranch's owner, was found and freed from the cellar (S9).
+- Big Al revealed an orc in Phandalin had paid the orcs to stop the ranch's deliveries to the town (S9).
+- The party rested overnight at the ranch (S9).
+
+### Neverwinter Wood (S9)
+- The party traveled through the forest toward Thundertree (S9).
+- Brander collected wildflower seeds along the way (S9).
+- Lior tested his new boots (S9).
+- Faelaris hunted and killed a deer for the evening meal (S9).
+- Faelaris walked away from camp and spoke with his father Aelar Starwoven through the stars; Aelar was disappointed and sorrowful that his son had left, and said his people missed him (S9).
+- An androgynous elf was accidentally crushed while the party tried to free him from beneath a fallen tree (S9).
+- Corvus found the dead elf was from Neverwinter, and Brander performed funeral rites (S9).
+- The party met Falcon the Hunter, who directed them toward Thundertree and mentioned the Emerald Tavern, built into the treetops at the edge of the wood (S9).
+
+### Ruins of Thundertree (S9)
+- The party arrived and defeated a group of Twig Blights (S9).
+- Ash Zombies were encountered in the old tavern; one rose again after being killed (S9).
+- A dragon's roar was heard near the ruins (S9).
 
 ## Factions
 
@@ -467,18 +589,24 @@ A coalition of rulers from cities across the Sword Coast who band together to en
 A devoted group of faithful and vigilant seekers of justice who protect others from the depredations of evildoers. Members are driven by their oath to smite evil wherever it is found.
 - **Known contacts:** Daran Edermath
 
+### 🍃 Emerald Enclave
+A loose alliance of druids, rangers, and wardens dedicated to preserving the balance of the natural world against those who would despoil or exploit it.
+- **Known contacts:** Reidoth
+
 ## Quests
 
 ### Active
-- Get to Conyberry. (from Session 6)
+- Find out which orc in Phandalin is paying to stop deliveries to Butterskull Ranch. (from Session 9)
+- Investigate the location on Hamun's map, 100 miles southwest of Old Owl Well. (from Session 8)
 - Find Gundren Rockseeker. (from Session 2)
 - Find Cragmaw Castle. (from Session 2)
-- Deliver the silver comb to the banshee Agatha. (from Session 3)
 - Find Mirna's heirloom in the Ruins of Thundertree. (from Session 4)
 - Find Reidoth the Druid in the Ruins of Thundertree. (from Session 5)
-- Investigate Butterskull Ranch. (from Session 7)
 
 ### Completed
+- ~~Find out what the orcs were guarding at Butterskull Ranch.~~ (from Session 8)
+- ~~Deliver the silver comb to the banshee Agatha.~~ (from Session 3)
+- ~~Investigate Butterskull Ranch.~~ (from Session 7)
 - ~~Kill Klarg.~~ (from Session 1)
 - ~~Stop the Redbrand Ruffians.~~ (from Session 2)
 - ~~Find the Redbrand Hideout.~~ (from Session 3)
@@ -486,3 +614,4 @@ A devoted group of faithful and vigilant seekers of justice who protect others f
 - ~~Get to The Dogwater Inn.~~ (from Session 5)
 - ~~Explore Wyvern Tor on behalf of Harbin Wester.~~ (from Session 3)
 - ~~Investigate Old Owl Well to find out what is going on there.~~ (from Session 3)
+- ~~Get to Conyberry.~~ (from Session 6)
