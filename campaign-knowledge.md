@@ -596,7 +596,7 @@ A loose alliance of druids, rangers, and wardens dedicated to preserving the bal
 ## Quests
 
 ### Active
-- Find out which orc in Phandalin is paying to stop deliveries to Butterskull Ranch. (from Session 9)
+- Find out who is paying to stop deliveries from Butterskull Ranch to Phandalin. (from Session 9)
 - Investigate the location on Hamun's map, 100 miles southwest of Old Owl Well. (from Session 8)
 - Find Gundren Rockseeker. (from Session 2)
 - Find Cragmaw Castle. (from Session 2)

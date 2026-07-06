@@ -1065,10 +1065,10 @@
       },
       {
         "id": 18,
-        "text": "Find out which orc in Phandalin is paying to stop deliveries to Butterskull Ranch.",
+        "text": "Find out who is paying to stop deliveries from Butterskull Ranch to Phandalin.",
         "session": 9,
         "status": "active",
-        "textSv": "Ta reda på vilken orch i Phandalin som betalar för att stoppa leveranser till Butterskull Ranch."
+        "textSv": "Ta reda på vem som betalar för att stoppa leveranser från Butterskull Ranch till Phandalin."
       },
       {
         "id": 17,
