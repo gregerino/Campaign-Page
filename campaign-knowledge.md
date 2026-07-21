@@ -242,6 +242,36 @@ At last they reached Thundertree, the overgrown ruined town they'd heard spoken 
 
 The first went down under their attacks, just as expected. But before anyone could catch their breath, it rose again, as if death had only been a pause. At the same moment, from somewhere far off but uncomfortably close, a roar tore through the evening air. A dragon's roar, deep and hungry, a sound that froze everyone mid-fight. Thundertree held more secrets than they had guessed, and something enormous was stirring in its ruins.
 
+### Session 10 (20 Juli 2026)
+
+The fight in the tavern wasn't over. Faelaris put an arrow through the zombie that had already fallen once, certain that would be the end of it, but the thing rose to its feet again, ash sifting from its joints, as if death itself had forgotten to take hold.
+
+Brander called on his channel divinity, and in the flash of insight that followed, the truth of these creatures surfaced in his mind: Ash Zombies could only be put down for good by radiant light or fire. Armed with that, the fight turned brutal and final. One by one the zombies fell and stayed fallen, until the tavern floor was littered with unmoving bodies and a fine grey cloud of ash hung thick in the air over the room.
+
+Corvus flinched at the sound of something roaring nearby, deep, hungry, unmistakably alive, but strain his ears as he might, he couldn't tell if it was drawing closer. Brander took his own cloak to the room and beat the ash out of the air, coughing it from his lungs along with everyone else's. Lior lit a candle and searched the tavern's second room for anything worth finding. He came back empty-handed.
+
+Faelaris was the one who placed the roar at last: somewhere to the east, he told the others, certain of the direction if nothing else. The group pressed on, deeper into the ruins of Thundertree, until a sliver of lamplight through a cracked window stopped them in the dark. Corvus crept close enough to peer through the gap and made out a shadowy figure moving inside, though he couldn't tell who, or what, it was.
+
+Brander knocked. Reidoth opened the door without knowing anything about the paladin standing on her step, but before suspicion could settle in, Faxon, the fox at her side, leaned in and murmured something in her ear: that Brander had sworn the Oath of the Ancients, same as her own kind might recognize. Whatever passed between fox and druid was enough. She let them in, all but Faelaris, who stayed outside on watch.
+
+Inside, Reidoth told them of the dragon lurking somewhere in the ruins, and of the Ash Zombies: not monsters from nowhere, she explained, but the town's own dead, residents who'd never left after Mount Hotenow buried Thundertree in ash decades ago. Brander, in a lighter moment, challenged Faxon to a game of Dragonchess by the fire. He won.
+
+Reidoth's news turned darker from there. The dragon had nested itself firmly into Thundertree, and a cult devoted to serving it, the Cult of the Dragon, had made the ruins their base as well. In exchange for help driving the dragon out, she offered something the party had wanted since Phandalin: the location of Cragmaw Castle.
+
+Night fell over the ruins, and the group slept under Reidoth's roof. Before they set out again, she gave them one piece of counsel to carry with them: deal with the cultists first, then the dragon.
+
+Deeper into Thundertree, near the remains of an old shop, a nest of giant spiders lunged out of the wreckage looking for a meal. The fight was short but vicious: Lior cut Corvus free from a spider's cocoon before it could finish wrapping him, and once the last spider dropped, Faelaris tended to his own wounds while Lior handed Corvus a potion of healing to steady him.
+
+They found the old apothecary not long after. Lior recognized a dried herb sitting in a jar on the shelf and put it together at once: this had to be the shop Mirna Dendar had spoken of back in Phandalin. A little more searching turned up exactly what she'd asked them to find: her heirloom, a silver necklace set with a large emerald pendant, still waiting in the ruins after all this time.
+
+The cultists' hideout was easy enough to find after that. Brander knocked and asked, innocently, for directions to the tavern; the cultists pointed the way and shut the door on him without a second thought, not realizing Brander had already tossed Lior up onto the roof beforehand. Once the conversation ended, Lior poured oil across the shingles and lit them, then barred the front door shut with his unbreakable arrow so no one inside could get out the easy way.
+
+With the house sealed and burning, Lior cast a minor illusion to convince the cultists inside that their own dragon had turned against them. It worked. The cultists hammered on the barred door, desperate to get out, only to find it wouldn't budge. Lior slipped the unbreakable arrow free without anyone inside noticing, and the moment the door gave, the cultists came pouring out in a panic, begging for help; they wanted, they said, to help the dragon find somewhere else to live. The party offered to help and fell in alongside them, glad for the opening.
+
+Favric, the cult's leader, led them through the ruins toward an old tower, telling them they'd arrived. He stepped forward alone and began speaking in Draconic to the empty air, and only then did the truth show itself. Favric hadn't been leading them to safety. He'd been delivering them, gift-wrapped, as an offering to the dragon.
+
+The green dragon named Venomfang dropped from the tower's heights as though the ruins themselves were collapsing, slamming into the ground hard enough to shake the group where they stood. The dragon managed to wound the group brutally and fast, roaring loudly as he stood before them, and speaking to them in Common: they should never have woken him. Can Lior, Corvus, Brander, and Faelaris find a way to defeat the dragon, or make it leave?
+
 ## NPCs
 
 ### Klarg (DEAD)
@@ -429,6 +459,16 @@ The first went down under their attacks, just as expected. But before anyone cou
 - **Locations:** Neverwinter Wood
 - **First appeared:** Session 9
 
+### Reidoth
+- **Appearance:** A weathered, watchful elder druid with sun-browned skin, grey-streaked hair pulled back, and sharp knowing eyes, wearing simple earth-toned robes and furs, accompanied everywhere by a fox named Faxon.
+- **Locations:** Ruins of Thundertree
+- **First appeared:** Session 10
+
+### Favric
+- **Appearance:** A tall, hooded figure clad entirely in black draconic-styled armor, his face hidden behind a jagged, horned mask, wielding a wickedly curved dagger, his cloak and robes marked with dragon sigils.
+- **Locations:** Ruins of Thundertree
+- **First appeared:** Session 10
+
 ## Locations
 
 ### Triboar Trail (S1, S2, S6, S7, S8)
@@ -570,10 +610,16 @@ The first went down under their attacks, just as expected. But before anyone cou
 - Corvus found the dead elf was from Neverwinter, and Brander performed funeral rites (S9).
 - The party met Falcon the Hunter, who directed them toward Thundertree and mentioned the Emerald Tavern, built into the treetops at the edge of the wood (S9).
 
-### Ruins of Thundertree (S9)
+### Ruins of Thundertree (S9, S10)
 - The party arrived and defeated a group of Twig Blights (S9).
 - Ash Zombies were encountered in the old tavern; one rose again after being killed (S9).
 - A dragon's roar was heard near the ruins (S9).
+- The party destroyed the resurgent Ash Zombies for good using radiant light and fire (S10).
+- The party met Reidoth the druid, who lives in hiding in the ruins with her fox companion Faxon (S10).
+- Reidoth revealed that a green dragon, Venomfang, and a Cult of the Dragon cell had made Thundertree their home (S10).
+- The party fought off a nest of giant spiders near an old shop (S10).
+- Mirna Dendar's heirloom was recovered from the ruined apothecary (S10).
+- The party burned out a cultist hideout and was led into an ambush by the cult leader Favric, who offered them as a sacrifice to Venomfang (S10).
 
 ## Factions
 
@@ -593,6 +639,10 @@ A devoted group of faithful and vigilant seekers of justice who protect others f
 A loose alliance of druids, rangers, and wardens dedicated to preserving the balance of the natural world against those who would despoil or exploit it.
 - **Known contacts:** Reidoth
 
+### 🐉 Cult of the Dragon
+A fanatical sect devoted to serving dragons and, ultimately, to raising them as undead dracoliches. Cult cells attach themselves to living dragons, doing their bidding in exchange for protection and promises of power.
+- **Known contacts:** Favric
+
 ## Quests
 
 ### Active
@@ -600,12 +650,13 @@ A loose alliance of druids, rangers, and wardens dedicated to preserving the bal
 - Investigate the location on Hamun's map, 100 miles southwest of Old Owl Well. (from Session 8)
 - Find Gundren Rockseeker. (from Session 2)
 - Find Cragmaw Castle. (from Session 2)
-- Find Mirna's heirloom in the Ruins of Thundertree. (from Session 4)
-- Find Reidoth the Druid in the Ruins of Thundertree. (from Session 5)
+- Survive Venomfang's ambush at the tower. (from Session 10)
 
 ### Completed
 - ~~Find out what the orcs were guarding at Butterskull Ranch.~~ (from Session 8)
 - ~~Deliver the silver comb to the banshee Agatha.~~ (from Session 3)
+- ~~Find Mirna's heirloom in the Ruins of Thundertree.~~ (from Session 4)
+- ~~Find Reidoth the Druid in the Ruins of Thundertree.~~ (from Session 5)
 - ~~Investigate Butterskull Ranch.~~ (from Session 7)
 - ~~Kill Klarg.~~ (from Session 1)
 - ~~Stop the Redbrand Ruffians.~~ (from Session 2)
