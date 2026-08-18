@@ -13,7 +13,7 @@
 ### Brander (Goliath Paladin, Level 3)
 - **Player:** Olof
 - **Motivation:** Skydda människor som inte kan skydda sig själva
-- **Faction:** Order of the Gauntlet
+- **Faction:** Order of the Gauntlet / Emerald Enclave (Springwarden)
 - **Appearance:** A powerfully built man with grey skin, a dark mohawk, tribal tattoos covering his arms and torso, wearing fur-lined leather armor with a greatsword strapped to his back.
 
 ### Corvus Blackwell (Human Wizard, Level 3)
@@ -272,6 +272,38 @@ Favric, the cult's leader, led them through the ruins toward an old tower, telli
 
 The green dragon named Venomfang dropped from the tower's heights as though the ruins themselves were collapsing, slamming into the ground hard enough to shake the group where they stood. The dragon managed to wound the group brutally and fast, roaring loudly as he stood before them, and speaking to them in Common: they should never have woken him. Can Lior, Corvus, Brander, and Faelaris find a way to defeat the dragon, or make it leave?
 
+### Session 11 (17 Augusti 2026)
+
+The tower loomed over them, and so did the dragon. While the others scrambled for footing, Corvus looked past Venomfang and up at the stonework: the wall was ruined, half of it already gone, and the blocks that remained sat loose in their courses. Bring those down at the right moment, and several tons of masonry would land on the dragon instead of on them.
+
+Brander was working a different angle, and remembered something worth more than a weapon in that moment: dragons are vain. Gold, flattery, a well-timed piece of charm; any of it might turn Venomfang's head, and a turned head was a head not breathing poison at them.
+
+Lior went digging through his pack and came up with a fistful of gems. He waved them where the dragon could see them glitter, then hurled them in a shining arc toward the tower to draw Venomfang away from the party. The dragon's eyes followed every stone, and he muttered, almost to himself, that he could always take those later.
+
+Brander tried his own version of the trick, holding up a sack of coins and threatening to set it alight. Venomfang was not so easily fooled. Gold does not burn, and the dragon knew it as well as any creature alive.
+
+So Brander went at the problem with his shoulder instead, charging the ruined wall to bring the loose stones down. The impact rang through the tower and shook dust from every crack, but the wall held. Not enough.
+
+Corvus had watched both attempts fail, and he had a spell for exactly this. He hurled a shatter at the wall, and the thunder of it caught dragon and stone together. The wall came apart in a roar of collapsing rubble, and Venomfang took the worst of it, wounded badly enough that the fight went out of him. Faelaris put an arrow into the dragon as he tore himself loose from the wreckage, and that settled it. The green dragon rose out of the rubble and fled into the sky above Thundertree.
+
+With the dragon gone, the group could finally breathe out, at least for a little while. Lior went to work on the locked doors. Behind them lay what Venomfang had been brooding over all this time: the hoard of the old wizard who had built the tower. Coin, the battleaxe Hew, a handful of spell scrolls, and four goblets.
+
+Their next goal needed no discussion, because it was personal. Somewhere out in the ruins were the cultists who had handed them over as an offering. Brander walked over to Corvus, clapped him on the shoulder for a job well done, and laid a healing hand on him. The group took a short rest inside the tower, gathered themselves, and set out to find Favric and the rest of the cult.
+
+Lior and Faelaris picked up the trail and followed it, and when they found the cultists the reckoning was brutal and personal. Twig Blights came scrabbling out of the undergrowth alongside them to join the fight and went down like pick-up sticks, scattered across the ground. Afterward Lior searched Favric's body feverishly, hunting for a mark. He knows the Cult of the Dragon has its roots in Thay, and he is chasing answers about his own background wherever that trail might lead. There was nothing on the man. No mark, no Thay. Brander crouched over the fallen blights, trying to learn more about what they were. Faelaris walked out to recover an arrow he had spent.
+
+They went back to Reidoth to tell her how it had ended. She thanked them for driving the dragon out of Thundertree and for ridding the ruins of the cultists, and she kept her word: she gave them the road to Cragmaw Castle. She sent them off with a few magical items to help them on the way as well. Then she made Brander an offer, a place among the Emerald Enclave, and he accepted. He left Thundertree named Springwarden of the Emerald Enclave. From there the group turned toward the Emerald Tavern, to rest before the road to Cragmaw Castle.
+
+On the way they came across a glade, and Brander began to hear voices in it. He walked in toward them and the words came clear: monster, goblins, the future, danger. He channeled his power to learn what was speaking, and understood that the voices belonged to the past, echoes still talking in that place. He asked them what they wanted. Nothing answered. With that, he walked back out.
+
+At last they saw light in the treetops, warm and steady, the Emerald Tavern glowing somewhere above the branches. Brander started climbing the trunk toward it. Corvus found the hollow worked into another tree and called for him to come back down.
+
+Inside, they met Elarion Thalanil, and two elves who bowed to Faelaris as he entered. They talked over the adventures of the past weeks, and of helping Reidoth in Thundertree. One of the elves sat down to a game of Dragonchess with Brander and lost it, though hardly through any fault of his own: Brander was so eager to get playing that he never managed to explain the rules properly. Elarion had news of his own: word had reached him of goblins with long, elongated skulls moving through the region. He also spoke briefly of Logger's Camp and its goblin troubles, and of Tibor Wester, Harbin's half-brother, who was not managing to run the place on his own. The group was given ale, food, and beds for the night. Before everyone turned in, Corvus sat with his new scrolls and studied them, one in particular: a scroll of misty step.
+
+Elarion sent them off with breakfast in the morning. Out in Neverwinter Wood they ran into Bramblewick and played a round of Life or Death over the dice. Corvus bought a scale from a red dragon, Faelaris bought arrows, and then they left the wood behind and set out for Cragmaw Castle.
+
+The castle finally rose in front of them, a great ruined thing sprawled across the ground, and the group began to move in. Faelaris took up a position in a bush outside to watch the walls. Lior slipped in quietly while Corvus and Brander walked in openly. The moment those two came within reach, arrows came whistling out of the arrow slits in the stonework. The battle for Cragmaw Castle had begun. Can Lior, Corvus, Brander, and Faelaris fight their way through the goblins' stronghold and finally find Gundren Rockseeker?
+
 ## NPCs
 
 ### Klarg (DEAD)
@@ -469,6 +501,11 @@ The green dragon named Venomfang dropped from the tower's heights as though the 
 - **Locations:** Ruins of Thundertree
 - **First appeared:** Session 10
 
+### Elarion Thalanil
+- **Appearance:** A warm, easy-smiling elf tavernkeeper with long auburn hair, green eyes, and a trimmed beard, wearing a cream shirt under a worn brown leather apron with a green cloak over one shoulder and an emerald pendant at his throat, an owl perched on the shelves of bottles behind him.
+- **Locations:** Emerald Tavern
+- **First appeared:** Session 11
+
 ## Locations
 
 ### Triboar Trail (S1, S2, S6, S7, S8)
@@ -600,7 +637,7 @@ The green dragon named Venomfang dropped from the tower's heights as though the 
 - Big Al revealed an orc in Phandalin had paid the orcs to stop the ranch's deliveries to the town (S9).
 - The party rested overnight at the ranch (S9).
 
-### Neverwinter Wood (S9)
+### Neverwinter Wood (S9, S11)
 - The party traveled through the forest toward Thundertree (S9).
 - Brander collected wildflower seeds along the way (S9).
 - Lior tested his new boots (S9).
@@ -609,8 +646,10 @@ The green dragon named Venomfang dropped from the tower's heights as though the 
 - An androgynous elf was accidentally crushed while the party tried to free him from beneath a fallen tree (S9).
 - Corvus found the dead elf was from Neverwinter, and Brander performed funeral rites (S9).
 - The party met Falcon the Hunter, who directed them toward Thundertree and mentioned the Emerald Tavern, built into the treetops at the edge of the wood (S9).
+- The party found a glade where Brander heard voices from the past speaking of monsters, goblins, the future, and danger; they gave no answer when he asked what they wanted (S11).
+- The party met Bramblewick Quickpocket again and played a round of Life or Death; Corvus bought a scale from a red dragon and Faelaris bought arrows (S11).
 
-### Ruins of Thundertree (S9, S10)
+### Ruins of Thundertree (S9, S10, S11)
 - The party arrived and defeated a group of Twig Blights (S9).
 - Ash Zombies were encountered in the old tavern; one rose again after being killed (S9).
 - A dragon's roar was heard near the ruins (S9).
@@ -620,6 +659,26 @@ The green dragon named Venomfang dropped from the tower's heights as though the 
 - The party fought off a nest of giant spiders near an old shop (S10).
 - Mirna Dendar's heirloom was recovered from the ruined apothecary (S10).
 - The party burned out a cultist hideout and was led into an ambush by the cult leader Favric, who offered them as a sacrifice to Venomfang (S10).
+- Corvus's shatter collapsed the tower's ruined wall onto Venomfang, wounding the green dragon badly enough that he fled Thundertree (S11).
+- The hoard of the wizard who built the tower was claimed: coin, the battleaxe Hew, spell scrolls, and four goblets (S11).
+- Favric and the remaining Cult of the Dragon cultists were tracked down and killed in the ruins, along with Twig Blights that joined the fight (S11).
+- No mark was found on Favric's body and nothing tied him to Thay; Lior searched for one because he knows the Cult of the Dragon has its roots in Thay, and is chasing answers about his own background (S11).
+- Reidoth revealed the road to Cragmaw Castle and gave the party magic items for the journey (S11).
+- Brander was accepted into the Emerald Enclave and named Springwarden (S11).
+
+### Emerald Tavern (S11)
+- A tavern built into the treetops at the edge of Neverwinter Wood, reached through a hollow worked into one of the trees (S11).
+- The party met the tavernkeeper Elarion Thalanil, along with two elves who bowed to Faelaris (S11).
+- One of the elves lost a game of Dragonchess to Brander, who was too eager to play to explain the rules properly (S11).
+- Elarion shared word of goblins with long, elongated skulls moving through the region (S11).
+- Elarion spoke of Logger's Camp and its goblin troubles, and of Tibor Wester, Harbin's half-brother, who cannot run the place on his own (S11).
+- The party was given ale, food, and beds for the night, and breakfast before setting out (S11).
+- Corvus studied his new spell scrolls before sleeping, in particular a scroll of misty step (S11).
+
+### Cragmaw Castle (S11)
+- The party arrived at the great ruined castle after Reidoth revealed its location (S11).
+- Faelaris took up watch in a bush outside the walls while Lior slipped in quietly and Corvus and Brander walked in openly (S11).
+- Arrows came out of the castle's arrow slits at Corvus and Brander, opening the battle (S11).
 
 ## Factions
 
@@ -637,7 +696,7 @@ A devoted group of faithful and vigilant seekers of justice who protect others f
 
 ### 🍃 Emerald Enclave
 A loose alliance of druids, rangers, and wardens dedicated to preserving the balance of the natural world against those who would despoil or exploit it.
-- **Known contacts:** Reidoth
+- **Known contacts:** Reidoth, Brander (Springwarden)
 
 ### 🐉 Cult of the Dragon
 A fanatical sect devoted to serving dragons and, ultimately, to raising them as undead dracoliches. Cult cells attach themselves to living dragons, doing their bidding in exchange for protection and promises of power.
@@ -649,11 +708,13 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 - Find out who is paying to stop deliveries from Butterskull Ranch to Phandalin. (from Session 9)
 - Investigate the location on Hamun's map, 100 miles southwest of Old Owl Well. (from Session 8)
 - Find Gundren Rockseeker. (from Session 2)
-- Find Cragmaw Castle. (from Session 2)
-- Survive Venomfang's ambush at the tower. (from Session 10)
+- Fight through Cragmaw Castle. (from Session 11)
+- Help Logger's Camp with their goblin problem. (from Session 11)
+- Find out more about the goblins with elongated skulls moving through the region. (from Session 11)
 
 ### Completed
 - ~~Find out what the orcs were guarding at Butterskull Ranch.~~ (from Session 8)
+- ~~Find Cragmaw Castle.~~ (from Session 2)
 - ~~Deliver the silver comb to the banshee Agatha.~~ (from Session 3)
 - ~~Find Mirna's heirloom in the Ruins of Thundertree.~~ (from Session 4)
 - ~~Find Reidoth the Druid in the Ruins of Thundertree.~~ (from Session 5)
@@ -666,3 +727,4 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 - ~~Explore Wyvern Tor on behalf of Harbin Wester.~~ (from Session 3)
 - ~~Investigate Old Owl Well to find out what is going on there.~~ (from Session 3)
 - ~~Get to Conyberry.~~ (from Session 6)
+- ~~Survive Venomfang's ambush at the tower.~~ (from Session 10)

@@ -29,7 +29,7 @@
         "subclass": "Oath of the Ancients",
         "level": 3,
         "motivation": "Skydda människor som inte kan skydda sig själva",
-        "faction": "Order of the Gauntlet",
+        "faction": "Order of the Gauntlet / Emerald Enclave (Springwarden)",
         "image": "assets/images/party/brander.png",
         "appearance": "A powerfully built man with grey skin, a dark mohawk, tribal tattoos covering his arms and torso, wearing fur-lined leather armor with a greatsword strapped to his back."
       },
@@ -178,6 +178,18 @@
         "goal": "Survive Venomfang's ambush at the tower.",
         "recap_en": "The fight in the tavern wasn't over. Faelaris put an arrow through the zombie that had already fallen once, certain that would be the end of it, but the thing rose to its feet again, ash sifting from its joints, as if death itself had forgotten to take hold.\n\nBrander called on his channel divinity, and in the flash of insight that followed, the truth of these creatures surfaced in his mind: Ash Zombies could only be put down for good by radiant light or fire. Armed with that, the fight turned brutal and final. One by one the zombies fell and stayed fallen, until the tavern floor was littered with unmoving bodies and a fine grey cloud of ash hung thick in the air over the room.\n\nCorvus flinched at the sound of something roaring nearby, deep, hungry, unmistakably alive, but strain his ears as he might, he couldn't tell if it was drawing closer. Brander took his own cloak to the room and beat the ash out of the air, coughing it from his lungs along with everyone else's. Lior lit a candle and searched the tavern's second room for anything worth finding. He came back empty-handed.\n\nFaelaris was the one who placed the roar at last: somewhere to the east, he told the others, certain of the direction if nothing else. The group pressed on, deeper into the ruins of Thundertree, until a sliver of lamplight through a cracked window stopped them in the dark. Corvus crept close enough to peer through the gap and made out a shadowy figure moving inside, though he couldn't tell who, or what, it was.\n\nBrander knocked. Reidoth opened the door without knowing anything about the paladin standing on her step, but before suspicion could settle in, Faxon, the fox at her side, leaned in and murmured something in her ear: that Brander had sworn the Oath of the Ancients, same as her own kind might recognize. Whatever passed between fox and druid was enough. She let them in, all but Faelaris, who stayed outside on watch.\n\nInside, Reidoth told them of the dragon lurking somewhere in the ruins, and of the Ash Zombies: not monsters from nowhere, she explained, but the town's own dead, residents who'd never left after Mount Hotenow buried Thundertree in ash decades ago. Brander, in a lighter moment, challenged Faxon to a game of Dragonchess by the fire. He won.\n\nReidoth's news turned darker from there. The dragon had nested itself firmly into Thundertree, and a cult devoted to serving it, the Cult of the Dragon, had made the ruins their base as well. In exchange for help driving the dragon out, she offered something the party had wanted since Phandalin: the location of Cragmaw Castle.\n\nNight fell over the ruins, and the group slept under Reidoth's roof. Before they set out again, she gave them one piece of counsel to carry with them: deal with the cultists first, then the dragon.\n\nDeeper into Thundertree, near the remains of an old shop, a nest of giant spiders lunged out of the wreckage looking for a meal. The fight was short but vicious: Lior cut Corvus free from a spider's cocoon before it could finish wrapping him, and once the last spider dropped, Faelaris tended to his own wounds while Lior handed Corvus a potion of healing to steady him.\n\nThey found the old apothecary not long after. Lior recognized a dried herb sitting in a jar on the shelf and put it together at once: this had to be the shop Mirna Dendar had spoken of back in Phandalin. A little more searching turned up exactly what she'd asked them to find: her heirloom, a silver necklace set with a large emerald pendant, still waiting in the ruins after all this time.\n\nThe cultists' hideout was easy enough to find after that. Brander knocked and asked, innocently, for directions to the tavern; the cultists pointed the way and shut the door on him without a second thought, not realizing Brander had already tossed Lior up onto the roof beforehand. Once the conversation ended, Lior poured oil across the shingles and lit them, then barred the front door shut with his unbreakable arrow so no one inside could get out the easy way.\n\nWith the house sealed and burning, Lior cast a minor illusion to convince the cultists inside that their own dragon had turned against them. It worked. The cultists hammered on the barred door, desperate to get out, only to find it wouldn't budge. Lior slipped the unbreakable arrow free without anyone inside noticing, and the moment the door gave, the cultists came pouring out in a panic, begging for help; they wanted, they said, to help the dragon find somewhere else to live. The party offered to help and fell in alongside them, glad for the opening.\n\nFavric, the cult's leader, led them through the ruins toward an old tower, telling them they'd arrived. He stepped forward alone and began speaking in Draconic to the empty air, and only then did the truth show itself. Favric hadn't been leading them to safety. He'd been delivering them, gift-wrapped, as an offering to the dragon.\n\nThe green dragon named Venomfang dropped from the tower's heights as though the ruins themselves were collapsing, slamming into the ground hard enough to shake the group where they stood. The dragon managed to wound the group brutally and fast, roaring loudly as he stood before them, and speaking to them in Common: they should never have woken him. Can Lior, Corvus, Brander, and Faelaris find a way to defeat the dragon, or make it leave?",
         "recap_sv": "Striden i tavernan var inte över än. Faelaris sköt en pil rakt in i zombien som redan fallit en gång, övertygad om att det skulle vara slutet, men varelsen reste sig igen, aska sipprande ur sina leder, som om döden själv glömt att ta tag i den.\n\nBrander kallade fram sin channel divinity, och i den plötsliga insikten som följde klarnade sanningen om varelserna i hans huvud: Ash Zombies gick bara att döda för gott med radiant ljus eller eld. Med den kunskapen blev striden brutal och definitiv. En efter en föll zombierna och blev liggande, tills tavernans golv var täckt av orörliga kroppar och ett fint, grått askmoln hängde tungt i luften över rummet.\n\nCorvus ryckte till av ett rytande någonstans i närheten, djupt, hungrigt, obestridligt levande, men hur mycket han än ansträngde sig kunde han inte avgöra om det kom närmare. Brander tog sin egen kappa och vevade bort askan ur luften, hostade den ur lungorna tillsammans med alla andra. Lior tände ett ljus och sökte igenom tavernans andra rum efter något värt att hitta. Han kom tillbaka tomhänt.\n\nDet var Faelaris som till sist kunde placera ljudet: någonstans österut, sa han till de andra, säker på riktningen om inget annat. Gruppen fortsatte djupare in i ruinerna av Thundertree, tills en strimma ljus genom en spricka i ett fönster fick dem att stanna upp i mörkret. Corvus smög sig tillräckligt nära för att kika genom springan och kunde urskilja en skugglik gestalt därinne, men kunde inte se vem, eller vad, det var.\n\nBrander knackade på. Reidoth öppnade dörren utan att veta något om paladinen som stod på hennes tröskel, men innan misstanken hann sätta sig viskade Faxon, räven vid hennes sida, något i hennes öra: att Brander svurit Oath of the Ancients, samma ed som hennes eget folk skulle känna igen. Vad som än utväxlades mellan räv och druid räckte. Hon släppte in dem, alla utom Faelaris, som stannade kvar utanför på vakt.\n\nInne berättade Reidoth om draken som höll till någonstans i ruinerna, och om Ash Zombies: inte monster från ingenstans, förklarade hon, utan stadens egna döda, invånare som aldrig lämnat efter att Mount Hotenow begravde Thundertree i aska för flera decennier sedan. Brander utmanade, i ett lättare ögonblick, Faxon på ett parti Dragonchess vid elden. Han vann.\n\nReidoths nyheter blev mörkare därefter. Draken hade grävt ner sig ordentligt i Thundertree, och en kult som tjänade den, Cult of the Dragon, hade också gjort ruinerna till sin bas. I utbyte mot hjälp att jaga bort draken erbjöd hon något gruppen velat ha sedan Phandalin: platsen för Cragmaw Castle.\n\nNatten föll över ruinerna, och gruppen sov under Reidoths tak. Innan de gav sig av igen gav hon dem ett råd att bära med sig: ta hand om kultisterna först, sedan draken.\n\nDjupare in i Thundertree, vid resterna av en gammal butik, kastade sig ett bo av jättespindlar ut ur bråten på jakt efter ett mål. Striden var kort men våldsam: Lior skar loss Corvus ur en spindelkokong innan den hann svepa in honom helt, och när den sista spindeln föll tog Faelaris hand om sina egna sår medan Lior räckte Corvus en potion of healing för att stabilisera honom.\n\nInte långt därefter hittade de det gamla apoteket. Lior kände igen en torkad ört i en burk på hyllan och satte genast ihop bitarna: det här måste vara butiken Mirna Dendar talat om tillbaka i Phandalin. Lite mer sökande gav precis det hon bett dem hitta: hennes arvegods, ett silverhalsband med en stor smaragdpendant, som fortfarande väntade i ruinerna efter all denna tid.\n\nKultisternas gömställe var lätt att hitta efter det. Brander knackade på och frågade oskyldigt efter vägen till tavernan; kultisterna pekade ut riktningen och stängde dörren utan en tanke till mer, utan att inse att Brander redan slängt upp Lior på taket innan dess. När samtalet var över hällde Lior olja över spånen och tände eld på dem, och barrikaderade sedan ytterdörren med sin unbreakable arrow så att ingen därinne skulle komma ut den enkla vägen.\n\nMed huset förseglat och brinnande drog Lior en minor illusion för att övertyga kultisterna därinne om att deras egen drake hade vänt sig mot dem. Det fungerade. Kultisterna bankade desperat på den barrikaderade dörren för att ta sig ut, men den ville inte ge vika. Lior drog bort sin unbreakable arrow utan att någon därinne märkte det, och så fort dörren gav med sig kom kultisterna forsande ut i panik och bad om hjälp: de ville, sa de, hjälpa draken hitta någon annanstans att bo. Gruppen erbjöd sig att hjälpa till och slog följe med dem, glada över öppningen.\n\nFavric, kultens ledare, ledde dem genom ruinerna mot ett gammalt torn och sa att de var framme. Han klev fram ensam och började tala Draconic till den tomma luften, och först då visade sig sanningen. Favric hade inte lett dem i säkerhet. Han hade levererat dem, prydligt paketerade, som ett offer åt draken.\n\nDen gröna draken vid namn Venomfang kom ner från tornets höjd som om ruinerna själva rasade samman, och slog ner i marken med sådan kraft att gruppen skakade där de stod. Draken lyckades skada gruppen brutalt och snabbt, och vrålade högt när de stod framför dem, och talade till dem på common om att de inte skulle ha väckt honom. Kan Lior, Corvus, Brander och Faelaris hitta ett sätt att besegra draken, eller att få den att lämna?"
+      },
+      {
+        "id": 11,
+        "title": "Session 11",
+        "date": "17 Augusti 2026",
+        "where": "We drove Venomfang out of the cultists' tower in Thundertree, hunted the cultists down in the ruins, returned to Reidoth, and travelled through Neverwinter Wood to the Emerald Tavern in the treetops before setting out for Cragmaw Castle.",
+        "who": "We met Elarion Thalanil at the Emerald Tavern, along with two elves who bowed to Faelaris. We saw Reidoth the druid again, took our revenge on Favric and his Cult of the Dragon cell, and ran into Bramblewick Quickpocket once more in Neverwinter Wood.",
+        "what": "Corvus spotted that the tower's ruined wall held loose stone blocks that could be dropped on the dragon, and Brander realized that dragons are vain enough that gold, flattery, and charm might lure Venomfang away. Lior waved gems from his pack at the dragon and threw them toward the tower to pull him off the party; Venomfang tracked them and muttered that he could take those later. Brander threatened to burn a sack of coins, but the dragon was not fooled. Brander then charged the ruined wall without bringing it down, and Corvus finished the job with a shatter that caught both wall and dragon, collapsing the stone and wounding Venomfang badly enough that he fled, with a parting arrow from Faelaris in him. Lior unlocked the tower doors and the party claimed the hoard the dragon had been brooding over: coin, the battleaxe Hew, spell scrolls, and four goblets. After a short rest, they tracked down Favric and the remaining cultists and killed them brutally, along with Twig Blights that joined the fight from the undergrowth. Reidoth thanked them for driving off the dragon and clearing out the cult, gave them the road to Cragmaw Castle and several magic items, and offered Brander a place in the Emerald Enclave, naming him Springwarden. On the road the party found a glade where Brander heard voices from the past speaking of monsters, goblins, the future, and danger. At the Emerald Tavern they met Elarion Thalanil, heard his news, and rested for the night; one of the elves there lost a game of Dragonchess to Brander, who had been too eager to play to explain the rules properly, and Corvus studied a scroll of misty step before sleeping. After breakfast they met Bramblewick in Neverwinter Wood, played Life or Death, and bought a red dragon scale and arrows before reaching Cragmaw Castle, where arrows from the castle's arrow slits opened the battle.",
+        "learned": "Venomfang could be driven off, and the tower's hoard belonged to the old wizard who built it: coin, the battleaxe Hew, spell scrolls, and four goblets. Favric and his Cult of the Dragon cell are dead; there was no mark on his body and nothing to suggest he came from Thay. Lior searched for one because he knows the Cult of the Dragon has its roots in Thay, and he is chasing answers about his own background. Reidoth kept her promise and revealed the road to Cragmaw Castle, and gave the party magic items for the journey. Brander was accepted into the Emerald Enclave and named Springwarden. A glade in the woods carries voices from the past, speaking of monsters, goblins, the future, and danger. Elarion Thalanil has had word of goblins with long, elongated skulls moving through the region. Logger's Camp is troubled by goblins, and Tibor Wester, Harbin Wester's half-brother, cannot run the place on his own.",
+        "goal": "Fight through Cragmaw Castle and find Gundren Rockseeker.",
+        "recap_en": "The tower loomed over them, and so did the dragon. While the others scrambled for footing, Corvus looked past Venomfang and up at the stonework: the wall was ruined, half of it already gone, and the blocks that remained sat loose in their courses. Bring those down at the right moment, and several tons of masonry would land on the dragon instead of on them.\n\nBrander was working a different angle, and remembered something worth more than a weapon in that moment: dragons are vain. Gold, flattery, a well-timed piece of charm; any of it might turn Venomfang's head, and a turned head was a head not breathing poison at them.\n\nLior went digging through his pack and came up with a fistful of gems. He waved them where the dragon could see them glitter, then hurled them in a shining arc toward the tower to draw Venomfang away from the party. The dragon's eyes followed every stone, and he muttered, almost to himself, that he could always take those later.\n\nBrander tried his own version of the trick, holding up a sack of coins and threatening to set it alight. Venomfang was not so easily fooled. Gold does not burn, and the dragon knew it as well as any creature alive.\n\nSo Brander went at the problem with his shoulder instead, charging the ruined wall to bring the loose stones down. The impact rang through the tower and shook dust from every crack, but the wall held. Not enough.\n\nCorvus had watched both attempts fail, and he had a spell for exactly this. He hurled a shatter at the wall, and the thunder of it caught dragon and stone together. The wall came apart in a roar of collapsing rubble, and Venomfang took the worst of it, wounded badly enough that the fight went out of him. Faelaris put an arrow into the dragon as he tore himself loose from the wreckage, and that settled it. The green dragon rose out of the rubble and fled into the sky above Thundertree.\n\nWith the dragon gone, the group could finally breathe out, at least for a little while. Lior went to work on the locked doors. Behind them lay what Venomfang had been brooding over all this time: the hoard of the old wizard who had built the tower. Coin, the battleaxe Hew, a handful of spell scrolls, and four goblets.\n\nTheir next goal needed no discussion, because it was personal. Somewhere out in the ruins were the cultists who had handed them over as an offering. Brander walked over to Corvus, clapped him on the shoulder for a job well done, and laid a healing hand on him. The group took a short rest inside the tower, gathered themselves, and set out to find Favric and the rest of the cult.\n\nLior and Faelaris picked up the trail and followed it, and when they found the cultists the reckoning was brutal and personal. Twig Blights came scrabbling out of the undergrowth alongside them to join the fight and went down like pick-up sticks, scattered across the ground. Afterward Lior searched Favric's body feverishly, hunting for a mark. He knows the Cult of the Dragon has its roots in Thay, and he is chasing answers about his own background wherever that trail might lead. There was nothing on the man. No mark, no Thay. Brander crouched over the fallen blights, trying to learn more about what they were. Faelaris walked out to recover an arrow he had spent.\n\nThey went back to Reidoth to tell her how it had ended. She thanked them for driving the dragon out of Thundertree and for ridding the ruins of the cultists, and she kept her word: she gave them the road to Cragmaw Castle. She sent them off with a few magical items to help them on the way as well. Then she made Brander an offer, a place among the Emerald Enclave, and he accepted. He left Thundertree named Springwarden of the Emerald Enclave. From there the group turned toward the Emerald Tavern, to rest before the road to Cragmaw Castle.\n\nOn the way they came across a glade, and Brander began to hear voices in it. He walked in toward them and the words came clear: monster, goblins, the future, danger. He channeled his power to learn what was speaking, and understood that the voices belonged to the past, echoes still talking in that place. He asked them what they wanted. Nothing answered. With that, he walked back out.\n\nAt last they saw light in the treetops, warm and steady, the Emerald Tavern glowing somewhere above the branches. Brander started climbing the trunk toward it. Corvus found the hollow worked into another tree and called for him to come back down.\n\nInside, they met Elarion Thalanil, and two elves who bowed to Faelaris as he entered. They talked over the adventures of the past weeks, and of helping Reidoth in Thundertree. One of the elves sat down to a game of Dragonchess with Brander and lost it, though hardly through any fault of his own: Brander was so eager to get playing that he never managed to explain the rules properly. Elarion had news of his own: word had reached him of goblins with long, elongated skulls moving through the region. He also spoke briefly of Logger's Camp and its goblin troubles, and of Tibor Wester, Harbin's half-brother, who was not managing to run the place on his own. The group was given ale, food, and beds for the night. Before everyone turned in, Corvus sat with his new scrolls and studied them, one in particular: a scroll of misty step.\n\nElarion sent them off with breakfast in the morning. Out in Neverwinter Wood they ran into Bramblewick and played a round of Life or Death over the dice. Corvus bought a scale from a red dragon, Faelaris bought arrows, and then they left the wood behind and set out for Cragmaw Castle.\n\nThe castle finally rose in front of them, a great ruined thing sprawled across the ground, and the group began to move in. Faelaris took up a position in a bush outside to watch the walls. Lior slipped in quietly while Corvus and Brander walked in openly. The moment those two came within reach, arrows came whistling out of the arrow slits in the stonework. The battle for Cragmaw Castle had begun. Can Lior, Corvus, Brander, and Faelaris fight their way through the goblins' stronghold and finally find Gundren Rockseeker?",
+        "recap_sv": "Tornet reste sig över dem, och så gjorde draken. Medan de andra kämpade för att få fotfäste tittade Corvus förbi Venomfang och upp mot stenarbetet: väggen var raserad, halva den redan borta, och de block som fanns kvar satt löst i sina skift. Fälla ner dem i rätt ögonblick, och flera ton murverk skulle landa på draken istället för på dem.\n\nBrander arbetade på en annan vinkel, och kom ihåg något som var värt mer än ett vapen just då: drakar är fåfänga. Guld, smicker, en väl tidsatt charmoffensiv; vad som helst av det kunde vända Venomfangs blick, och en vänd blick var en blick som inte andades gift mot dem.\n\nLior grävde i sin väska och fick fram en handfull gems. Han viftade med dem där draken kunde se dem glittra, och kastade dem sedan i en glänsande båge mot tornet för att dra Venomfang bort från gruppen. Drakens ögon följde varje sten, och han muttrade, nästan för sig själv, att dem kunde han ta sedan.\n\nBrander försökte med sin egen version av tricket och höll upp en säck med pengar och hotade med att bränna upp den. Venomfang lät sig inte luras så lätt. Guld brinner inte, och draken visste det lika väl som någon levande varelse.\n\nSå Brander gick på problemet med axeln istället, och sprang rakt in i den raserade väggen för att fälla de lösa stenarna. Smällen ekade genom tornet och skakade damm ur varje spricka, men väggen höll. Inte tillräckligt.\n\nCorvus hade sett båda försöken misslyckas, och han hade en spell för precis det här. Han kastade en shatter mot väggen, och dess dån träffade drake och sten på samma gång. Väggen rasade i ett brak av fallande stenmassor, och Venomfang tog det värsta av det, så illa skadad att stridsviljan gick ur honom. Faelaris satte en pil i draken medan han slet sig loss ur bråten, och det avgjorde saken. Den gröna draken lyfte ur stenmassorna och flydde upp i himlen över Thundertree.\n\nMed draken borta kunde gruppen äntligen pusta ut, iallafall en liten stund. Lior gick på de låsta dörrarna. Bakom dem låg det som Venomfang ruvat på hela tiden: den gamla trollkarlens hoard, han som en gång byggt tornet. Mynt, battleaxen Hew, några spell scrolls och fyra bägare.\n\nDeras nästa mål behövde ingen diskussion, för det var personligt. Någonstans ute i ruinerna fanns kultisterna som lämnat ut dem som ett offer. Brander gick fram till Corvus, dunkade honom på axeln för ett väl utfört jobb och lade en helande hand på honom. Gruppen tog en kort paus inne i tornet, samlade sig, och gav sig ut för att hitta Favric och resten av kulten.\n\nLior och Faelaris tog upp spåret och följde det, och när de hittade kultisterna blev uppgörelsen brutal och personlig. Twig Blights kom krafsande ur buskaget intill för att ansluta till striden och föll som plockepinn till marken. Efteråt sökte Lior febrilt igenom Favrics kropp efter ett märke. Han vet att Cult of the Dragon härstammar från Thay, och han jagar svar om sin egen bakgrund vart det spåret än leder. Det fanns ingenting på mannen. Inget märke, inget Thay. Brander satte sig på hälarna över de fallna blightsen och försökte lära sig mer om vad de var. Faelaris gick ut för att hämta en pil han skjutit.\n\nDe tog sig tillbaka till Reidoth för att förklara hur det slutat. Hon tackade dem för att de fått draken att fly från Thundertree och för att de gjort sig av med kultisterna, och hon höll sitt ord: hon gav dem vägen till Cragmaw Castle. Hon skickade dem också iväg med några magiska föremål som kunde hjälpa dem på vägen. Sedan gav hon Brander ett erbjudande, en plats bland Emerald Enclave, och han tackade ja. Han lämnade Thundertree som Springwarden av Emerald Enclave. Därifrån vände gruppen mot Emerald Tavern, för att vila ut inför resan mot Cragmaw Castle.\n\nPå vägen kom de fram till en glänta, och Brander började höra röster i den. Han gick in mot dem och orden blev tydliga: monster, goblins, framtiden, fara. Han kanaliserade sin kraft för att ta reda på vad det var som talade, och förstod att rösterna tillhörde det förflutna, ekon som fortfarande talade på den platsen. Han frågade dem vad de ville. Inget svarade. Med det gick han ut därifrån igen.\n\nTill sist såg de ljuset i trädkronorna, varmt och stadigt, Emerald Tavern som lyste någonstans ovanför grenverket. Brander började klättra uppför stammen mot det. Corvus hittade ihåligheten inbyggd i ett annat träd och ropade åt honom att komma ner igen.\n\nInne träffade de Elarion Thalanil, och två alver som bugade åt Faelaris när han kom in. De pratade om äventyren de senaste veckorna, och om att de hjälpt Reidoth i Thundertree. En av alverna satte sig ner för ett parti Dragonchess med Brander och förlorade, dock knappast av eget fel: Brander var så ivrig att komma igång att han aldrig lyckades förklara reglerna ordentligt. Elarion hade nyheter av sitt eget: han hade fått information om goblins med långa, utdragna skallar som rört sig i området. Han berättade också kort om Logger's Camp och deras problem med goblins, och om Tibor Wester, Harbins halvbror, som inte lyckades driva stället på egen hand. Gruppen blev bjuden på öl, mat och sängplats för natten. Innan alla gick och la sig satt Corvus med sina nya scrolls och studerade dem, en i synnerhet: en scroll of misty step.\n\nElarion skickade iväg dem med frukost på morgonen. Ute i Neverwinter Wood stötte de på Bramblewick och spelade en runda Life or Death med tärningarna. Corvus köpte en scale från en red dragon, Faelaris köpte pilar, och sedan lämnade de skogen bakom sig och gav sig av mot Cragmaw Castle.\n\nSlottet reste sig äntligen framför dem, en stor ruinerad sak utbredd över marken, och gruppen började bege sig inåt. Faelaris tog plats i en buske utanför för att spana på murarna. Lior smög in tyst medan Corvus och Brander gick in öppet. I samma stund som de två kom inom räckhåll kom pilar vinande ur skottgluggarna i stenarbetet. Striden om Cragmaw Castle hade börjat. Kan Lior, Corvus, Brander och Faelaris slå sig igenom goblinernas fäste och till sist hitta Gundren Rockseeker?"
       }
     ],
     "npcs": [
@@ -595,6 +607,16 @@
         "firstSession": 10,
         "image": "assets/images/npcs/favric.webp",
         "appearanceSv": "En lång, huvbeklädd gestalt helt klädd i svart drakinspirerad rustning, ansiktet dolt bakom en taggig, hornprydd mask, beväpnad med en ondskefullt böjd dolk, hans kappa och kåpor märkta med drakensymboler."
+      },
+      {
+        "name": "Elarion Thalanil",
+        "appearance": "A warm, easy-smiling elf tavernkeeper with long auburn hair, green eyes, and a trimmed beard, wearing a cream shirt under a worn brown leather apron with a green cloak over one shoulder and an emerald pendant at his throat, an owl perched on the shelves of bottles behind him.",
+        "appearanceSv": "En varm, lättsamt leende alvvärdshusvärd med långt kastanjebrunt hår, gröna ögon och ett kortklippt skägg, klädd i en gräddvit skjorta under ett nött brunt läderförkläde med en grön mantel över ena axeln och en smaragdpendant vid halsen, med en uggla sittande på flaskhyllorna bakom sig.",
+        "locations": [
+          "Emerald Tavern"
+        ],
+        "firstSession": 11,
+        "image": "assets/images/npcs/elarion.png"
       }
     ],
     "locations": [
@@ -1004,7 +1026,8 @@
       {
         "name": "Neverwinter Wood",
         "sessions": [
-          9
+          9,
+          11
         ],
         "events": [
           "The party traveled through the forest toward Thundertree (S9).",
@@ -1014,7 +1037,9 @@
           "Faelaris walked away from camp and spoke with his father Aelar Starwoven through the stars; Aelar was disappointed and sorrowful that his son had left, and said his people missed him (S9).",
           "An androgynous elf was accidentally crushed while the party tried to free him from beneath a fallen tree (S9).",
           "Corvus found the dead elf was from Neverwinter, and Brander performed funeral rites (S9).",
-          "The party met Falcon the Hunter, who directed them toward Thundertree and mentioned the Emerald Tavern, built into the treetops at the edge of the wood (S9)."
+          "The party met Falcon the Hunter, who directed them toward Thundertree and mentioned the Emerald Tavern, built into the treetops at the edge of the wood (S9).",
+          "The party found a glade where Brander heard voices from the past speaking of monsters, goblins, the future, and danger; they gave no answer when he asked what they wanted (S11).",
+          "The party met Bramblewick Quickpocket again and played a round of Life or Death; Corvus bought a scale from a red dragon and Faelaris bought arrows (S11)."
         ],
         "eventsSv": [
           "Gruppen färdades genom skogen mot Thundertree (S9).",
@@ -1024,14 +1049,17 @@
           "Faelaris gick bort från lägret och talade med sin far Aelar Starwoven genom stjärnorna; Aelar var besviken och sorgsen över att hans son gett sig av, och sa att hans folk saknade honom (S9).",
           "En androgyn alv krossades av misstag när gruppen försökte befria honom från en nedfallen trädstam (S9).",
           "Corvus fann att den döda alven var från Neverwinter, och Brander utförde begravningsriter (S9).",
-          "Gruppen mötte Falcon the Hunter, som gav dem riktning mot Thundertree och nämnde Emerald Tavern, byggd i trädtopparna vid skogens kant (S9)."
+          "Gruppen mötte Falcon the Hunter, som gav dem riktning mot Thundertree och nämnde Emerald Tavern, byggd i trädtopparna vid skogens kant (S9).",
+          "Gruppen hittade en glänta där Brander hörde röster från det förflutna som talade om monster, goblins, framtiden och fara; de svarade inte när han frågade vad de ville (S11).",
+          "Gruppen träffade Bramblewick Quickpocket igen och spelade en runda Life or Death; Corvus köpte en scale från en red dragon och Faelaris köpte pilar (S11)."
         ]
       },
       {
         "name": "Ruins of Thundertree",
         "sessions": [
           9,
-          10
+          10,
+          11
         ],
         "events": [
           "The party arrived and defeated a group of Twig Blights (S9).",
@@ -1042,7 +1070,13 @@
           "Reidoth revealed that a green dragon, Venomfang, and a Cult of the Dragon cell had made Thundertree their home (S10).",
           "The party fought off a nest of giant spiders near an old shop (S10).",
           "Mirna Dendar's heirloom was recovered from the ruined apothecary (S10).",
-          "The party burned out a cultist hideout and was led into an ambush by the cult leader Favric, who offered them as a sacrifice to Venomfang (S10)."
+          "The party burned out a cultist hideout and was led into an ambush by the cult leader Favric, who offered them as a sacrifice to Venomfang (S10).",
+          "Corvus's shatter collapsed the tower's ruined wall onto Venomfang, wounding the green dragon badly enough that he fled Thundertree (S11).",
+          "The hoard of the wizard who built the tower was claimed: coin, the battleaxe Hew, spell scrolls, and four goblets (S11).",
+          "Favric and the remaining Cult of the Dragon cultists were tracked down and killed in the ruins, along with Twig Blights that joined the fight (S11).",
+          "No mark was found on Favric's body and nothing tied him to Thay; Lior searched for one because he knows the Cult of the Dragon has its roots in Thay, and is chasing answers about his own background (S11).",
+          "Reidoth revealed the road to Cragmaw Castle and gave the party magic items for the journey (S11).",
+          "Brander was accepted into the Emerald Enclave and named Springwarden (S11)."
         ],
         "eventsSv": [
           "Gruppen anlände och besegrade en grupp Twig Blights (S9).",
@@ -1053,7 +1087,53 @@
           "Reidoth avslöjade att en grön drake, Venomfang, och en cell av Cult of the Dragon hade gjort Thundertree till sitt hem (S10).",
           "Gruppen bekämpade ett bo av jättespindlar vid en gammal butik (S10).",
           "Mirna Dendars arvegods återfanns i det förfallna apoteket (S10).",
-          "Gruppen brände ut ett kultistgömställe och lurades in i ett bakhåll av kultledaren Favric, som offrade dem åt Venomfang (S10)."
+          "Gruppen brände ut ett kultistgömställe och lurades in i ett bakhåll av kultledaren Favric, som offrade dem åt Venomfang (S10).",
+          "Corvus shatter fällde tornets raserade vägg över Venomfang, och skadade den gröna draken så illa att han flydde från Thundertree (S11).",
+          "Hoarden som tillhört trollkarlen som byggt tornet togs om hand: mynt, battleaxen Hew, spell scrolls och fyra bägare (S11).",
+          "Favric och de kvarvarande kultisterna ur Cult of the Dragon spårades upp och dödades i ruinerna, tillsammans med Twig Blights som anslöt till striden (S11).",
+          "Inget märke hittades på Favrics kropp och inget knöt honom till Thay; Lior letade efter ett eftersom han vet att Cult of the Dragon härstammar från Thay, och söker svar om sin egen bakgrund (S11).",
+          "Reidoth avslöjade vägen till Cragmaw Castle och gav gruppen magiska föremål för resan (S11).",
+          "Brander togs upp i Emerald Enclave och utnämndes till Springwarden (S11)."
+        ]
+      },
+      {
+        "name": "Emerald Tavern",
+        "sessions": [
+          11
+        ],
+        "events": [
+          "A tavern built into the treetops at the edge of Neverwinter Wood, reached through a hollow worked into one of the trees (S11).",
+          "The party met the tavernkeeper Elarion Thalanil, along with two elves who bowed to Faelaris (S11).",
+          "One of the elves lost a game of Dragonchess to Brander, who was too eager to play to explain the rules properly (S11).",
+          "Elarion shared word of goblins with long, elongated skulls moving through the region (S11).",
+          "Elarion spoke of Logger's Camp and its goblin troubles, and of Tibor Wester, Harbin's half-brother, who cannot run the place on his own (S11).",
+          "The party was given ale, food, and beds for the night, and breakfast before setting out (S11).",
+          "Corvus studied his new spell scrolls before sleeping, in particular a scroll of misty step (S11)."
+        ],
+        "eventsSv": [
+          "En taverna byggd i trädkronorna vid kanten av Neverwinter Wood, nådd genom en ihålighet inbyggd i ett av träden (S11).",
+          "Gruppen träffade värdshusvärden Elarion Thalanil, tillsammans med två alver som bugade åt Faelaris (S11).",
+          "En av alverna förlorade ett parti Dragonchess mot Brander, som var för ivrig att spela för att förklara reglerna ordentligt (S11).",
+          "Elarion delade information om goblins med långa, utdragna skallar som rört sig i området (S11).",
+          "Elarion berättade om Logger's Camp och deras problem med goblins, och om Tibor Wester, Harbins halvbror, som inte klarar av att driva stället på egen hand (S11).",
+          "Gruppen blev bjuden på öl, mat och sängplats för natten, samt frukost innan de gav sig av (S11).",
+          "Corvus studerade sina nya spell scrolls innan han la sig, i synnerhet en scroll of misty step (S11)."
+        ]
+      },
+      {
+        "name": "Cragmaw Castle",
+        "sessions": [
+          11
+        ],
+        "events": [
+          "The party arrived at the great ruined castle after Reidoth revealed its location (S11).",
+          "Faelaris took up watch in a bush outside the walls while Lior slipped in quietly and Corvus and Brander walked in openly (S11).",
+          "Arrows came out of the castle's arrow slits at Corvus and Brander, opening the battle (S11)."
+        ],
+        "eventsSv": [
+          "Gruppen anlände till det stora ruinerade slottet efter att Reidoth avslöjat dess plats (S11).",
+          "Faelaris tog plats på vakt i en buske utanför murarna medan Lior smög in tyst och Corvus och Brander gick in öppet (S11).",
+          "Pilar kom ut ur slottets skottgluggar mot Corvus och Brander, och striden var igång (S11)."
         ]
       }
     ],
@@ -1096,7 +1176,8 @@
         "description": "A loose alliance of druids, rangers, and wardens dedicated to preserving the balance of the natural world against those who would despoil or exploit it.",
         "descriptionSv": "En löst sammansatt allians av druider, rangers och väktare som ägnar sig åt att bevara naturens balans mot dem som skulle vilja skövla eller utnyttja den.",
         "contacts": [
-          "Reidoth"
+          "Reidoth",
+          "Brander (Springwarden)"
         ]
       },
       {
@@ -1143,7 +1224,7 @@
         "id": 2,
         "text": "Find Cragmaw Castle.",
         "session": 2,
-        "status": "active",
+        "status": "completed",
         "textSv": "Hitta Cragmaw Castle."
       },
       {
@@ -1234,8 +1315,29 @@
         "id": 19,
         "text": "Survive Venomfang's ambush at the tower.",
         "session": 10,
-        "status": "active",
+        "status": "completed",
         "textSv": "Överlev Venomfang."
+      },
+      {
+        "id": 20,
+        "text": "Fight through Cragmaw Castle.",
+        "session": 11,
+        "status": "active",
+        "textSv": "Slå er igenom Cragmaw Castle."
+      },
+      {
+        "id": 21,
+        "text": "Help Logger's Camp with their goblin problem.",
+        "session": 11,
+        "status": "active",
+        "textSv": "Hjälp Logger's Camp med deras problem med goblins."
+      },
+      {
+        "id": 22,
+        "text": "Find out more about the goblins with elongated skulls moving through the region.",
+        "session": 11,
+        "status": "active",
+        "textSv": "Ta reda på mer om goblinerna med långa skallar som rör sig i området."
       }
     ]
   }
