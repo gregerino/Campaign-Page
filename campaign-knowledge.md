@@ -304,6 +304,38 @@ Elarion sent them off with breakfast in the morning. Out in Neverwinter Wood the
 
 The castle finally rose in front of them, a great ruined thing sprawled across the ground, and the group began to move in. Faelaris took up a position in a bush outside to watch the walls. Lior slipped in quietly while Corvus and Brander walked in openly. The moment those two came within reach, arrows came whistling out of the arrow slits in the stonework. The battle for Cragmaw Castle had begun. Can Lior, Corvus, Brander, and Faelaris fight their way through the goblins' stronghold and finally find Gundren Rockseeker?
 
+### Session 12 (11 September 2026)
+
+The memory came to Corvus unbidden, sharp as if no time had passed at all: Elowen Marsh's study, three goblets set out on the table between them, one of them poisoned. He told him to choose, and to drink whichever he chose. Corvus reached out and took the one directly in front of him, no hesitation, no thought given to which cup might kill him. He drank.
+
+Elowen watched him do it, and his disappointment was plain on his face. He had not wanted a coin flip. He had wanted Corvus to question the game itself, to think before he acted rather than simply act, and take the outcome for granted. Corvus said nothing to that. He crossed to Elowen's study to fetch the book he had been asked to bring back to the library, and as he reached it he noticed a small wooden box sitting open on the desk, a stone resting inside. He took the stone as well as the book, slipped it into his coat, and carried both back to the library, where he sat down across from Elowen once more.
+
+The memory faded, and the castle came rushing back. Cragmaw Castle's entrance hall lay ahead of them, and Lior went in first alone to scout, easing up until he could see the hall was full of goblins. Only then did he throw on a disguise self, wearing a goblin's face over his own, and used it to slip in among them, drag one of the real goblins aside, and put a blade in its back before anyone noticed. The goblin did not go down quietly. It fought back hard enough that Lior's disguise shredded away mid-fight, and for one bad moment he was standing there as nothing more than a halfling in a room full of goblins who had just watched their friend get stabbed. More of them came boiling out to answer the noise, goblin after goblin pouring into the hall.
+
+Lior finished the one in front of him and threw open a door at his back, shouting for the others to fall in behind him and take cover. They did. Moments later another door in that same room burst open, and hobgoblins came pouring out of it, driven into a frenzy by the echo of Corvus's thunderwave rolling through the castle's stone halls. The party dug in and started working through them, goblin and hobgoblin alike, one after another, the fight grinding on until the room finally went quiet and the party had won it.
+
+Brander wiped the blood off his blade and pushed on into the room where the others had regrouped. Corvus picked through the wreckage scattered around it and turned up Sildar's old equipment among the debris, along with a bottle of emboldening brandy tucked in a box. He tried a taste of it before moving on.
+
+Brander searched the room the hobgoblins had come from and found a handful of weapons mounted on brackets along the wall, nothing else worth taking. The party held up in the adjoining room to talk through how to keep moving through the castle. Lior crept ahead to scout and found an altar room beyond, three goblins kneeling there in prayer. He reported back on how they were positioned, and the plan was simple: take them out as quietly as possible.
+
+Quiet did not last. Lior's approach was not soft enough, and one of the goblins, Lhupo, spotted them before the ambush could land. The fight broke out in the open instead. Two of the three goblins went down fast, but Lhupo slipped free of everything thrown at him: Brander's grapple, a tangle of ensnaring vines, and Faelaris's attempt to pin him to the floor all failed to hold him. He bolted out of the room screaming for help from something the party only knew as a grick, a name that meant nothing to any of them yet. Corvus finally caught up to him with a volley of magic missiles and dropped him for good.
+
+The party allowed themselves a second to catch their breath while Lior slipped down into a chapel below the altar room. Brander studied the statue standing behind the altar and recognized it: Maglubiyet, the goblin god, watching over whatever this castle's garrison had been praying for.
+
+Lior looked up and spotted it clinging to the ceiling above them: the grick Lhupo had screamed for. He held still, careful not to draw its attention. Corvus and Faelaris moved toward a set of heavy drapes on the far side of the room. From where he crouched, Lior sent a potion of growth across the room with mage hand, floating it into Brander's grip. Brander drank it down and felt himself grow larger by the second. Faelaris pulled the drapes aside, saw the grick fixed to the ceiling, and called the warning back to Corvus and Brander.
+
+Brander rolled his shoulders and walked in to meet it. The grick dropped from the ceiling the instant he crossed into the room, and the fight was on, the whole party converging on it at once. It caught Brander in its grip and tore into him badly enough that he had to fall back and heal himself before he could keep fighting. Faelaris ended it: one arrow, straight into its mouth, and the grick convulsed once and went still on the floor.
+
+Faelaris moved ahead alone to scout, quiet as ever, and came back with more than he expected. He had found a knot of hobgoblins standing guard, and past them, what looked like quarters built for something much larger: a bugbear's headquarters. He told the others what he had seen: a bugbear, and a drow standing with it. He had also caught sight of a dwarf slumped near a table, badly beaten. It did not take long to put the pieces together. That dwarf could only be Gundren Rockseeker, and the bugbear waiting in that room could only be King Grol himself.
+
+The party gathered once more to talk tactics before going after Grol. They climbed to the chamber and stood outside its door. Brander and Lior each drank down a potion of invisibility and slipped inside unseen. What they heard was a transaction already underway: Grol and the drow haggling over a map.
+
+Brander crept down toward the wolf pacing the room and cast speak with animals, trying to talk it into turning on the drow and tearing into her instead. The wolf would not be convinced. It did let one thing slip, though: whatever stood beside Grol wearing a drow's shape, it was not truly a drow at all. Brander lunged at the wolf anyway, and the moment he struck, his invisibility broke apart around him. Grol's head came up, his eyes found Brander, and the fight was on. In the same breath, the drow tore the map out of Grol's grip and used the chaos she had just made room for to slip away.
+
+Grol closed the distance fast and got a fist around Lior, holding him locked in one massive hand while he swung his morningstar at him and at Faelaris with the other. It was a short, ugly fight, but it ended the way the party needed it to: one last arrow from Faelaris found its mark, and King Grol went down hard and did not get back up.
+
+By the time the fighting ended, the drow was gone, and the map with her. Whoever, or whatever, she truly was, no one had thought to stop her before she slipped away. The party turned their attention to Gundren instead, gathering him up as gently as they could and carrying him out of Cragmaw Castle at last. Behind them lay a dead goblin king and a castle finally silent. Ahead of them lay Neverwinter Wood, and beyond it, the long road home to Phandalin.
+
 ## NPCs
 
 ### Klarg (DEAD)
@@ -506,6 +538,26 @@ The castle finally rose in front of them, a great ruined thing sprawled across t
 - **Locations:** Emerald Tavern
 - **First appeared:** Session 11
 
+### King Grol (DEAD)
+- **Appearance:** A towering bugbear clad in heavier, more decorated armor than his underlings, wielding a spiked morningstar, with a trained wolf pacing at his side.
+- **Locations:** Cragmaw Castle
+- **First appeared:** Session 12
+
+### Elowen Marsh
+- **Appearance:** A stern, watchful wizard glimpsed only in memory, presiding over his study and library with quiet, exacting patience, testing his students as much as teaching them.
+- **Locations:** 
+- **First appeared:** Session 12
+
+### Gundren Rockseeker
+- **Appearance:** A dwarf prospector, bruised and bloodied nearly beyond recognition, found alive but barely conscious in King Grol's chamber.
+- **Locations:** Cragmaw Castle
+- **First appeared:** Session 12
+
+### Unknown Drow
+- **Appearance:** A striking figure with a drow's dark skin, white hair, and cold bearing, met in Grol's chamber mid-bargain over a map, which she tore from his grasp the instant the fighting began. The chieftain's own wolf swore she was no true drow at all, and no one has learned what she truly is.
+- **Locations:** Cragmaw Castle
+- **First appeared:** Session 12
+
 ## Locations
 
 ### Triboar Trail (S1, S2, S6, S7, S8)
@@ -637,7 +689,7 @@ The castle finally rose in front of them, a great ruined thing sprawled across t
 - Big Al revealed an orc in Phandalin had paid the orcs to stop the ranch's deliveries to the town (S9).
 - The party rested overnight at the ranch (S9).
 
-### Neverwinter Wood (S9, S11)
+### Neverwinter Wood (S9, S11, S12)
 - The party traveled through the forest toward Thundertree (S9).
 - Brander collected wildflower seeds along the way (S9).
 - Lior tested his new boots (S9).
@@ -648,6 +700,7 @@ The castle finally rose in front of them, a great ruined thing sprawled across t
 - The party met Falcon the Hunter, who directed them toward Thundertree and mentioned the Emerald Tavern, built into the treetops at the edge of the wood (S9).
 - The party found a glade where Brander heard voices from the past speaking of monsters, goblins, the future, and danger; they gave no answer when he asked what they wanted (S11).
 - The party met Bramblewick Quickpocket again and played a round of Life or Death; Corvus bought a scale from a red dragon and Faelaris bought arrows (S11).
+- The party carried Gundren Rockseeker out of Cragmaw Castle and back through the wood on the road toward Phandalin (S12).
 
 ### Ruins of Thundertree (S9, S10, S11)
 - The party arrived and defeated a group of Twig Blights (S9).
@@ -675,10 +728,13 @@ The castle finally rose in front of them, a great ruined thing sprawled across t
 - The party was given ale, food, and beds for the night, and breakfast before setting out (S11).
 - Corvus studied his new spell scrolls before sleeping, in particular a scroll of misty step (S11).
 
-### Cragmaw Castle (S11)
+### Cragmaw Castle (S11, S12)
 - The party arrived at the great ruined castle after Reidoth revealed its location (S11).
 - Faelaris took up watch in a bush outside the walls while Lior slipped in quietly and Corvus and Brander walked in openly (S11).
 - Arrows came out of the castle's arrow slits at Corvus and Brander, opening the battle (S11).
+- The party fought through the entrance hall, a shrine to Maglubiyet, and a nest housing a grick, before reaching King Grol's chamber (S12).
+- Gundren Rockseeker was found alive, badly beaten, in King Grol's chamber (S12).
+- King Grol was killed after Brander and Lior slipped in invisible and overheard him haggling over a map with a drow who, by the testimony of his own wolf, was not truly a drow at all; she tore the map free and vanished the instant the fight broke out (S12).
 
 ## Factions
 
@@ -707,13 +763,12 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 ### Active
 - Find out who is paying to stop deliveries from Butterskull Ranch to Phandalin. (from Session 9)
 - Investigate the location on Hamun's map, 100 miles southwest of Old Owl Well. (from Session 8)
-- Find Gundren Rockseeker. (from Session 2)
-- Fight through Cragmaw Castle. (from Session 11)
-- Help Logger's Camp with their goblin problem. (from Session 11)
 - Find out more about the goblins with elongated skulls moving through the region. (from Session 11)
+- Escort Gundren Rockseeker safely back to Phandalin. (from Session 12)
 
 ### Completed
 - ~~Find out what the orcs were guarding at Butterskull Ranch.~~ (from Session 8)
+- ~~Find Gundren Rockseeker.~~ (from Session 2)
 - ~~Find Cragmaw Castle.~~ (from Session 2)
 - ~~Deliver the silver comb to the banshee Agatha.~~ (from Session 3)
 - ~~Find Mirna's heirloom in the Ruins of Thundertree.~~ (from Session 4)
@@ -728,3 +783,4 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 - ~~Investigate Old Owl Well to find out what is going on there.~~ (from Session 3)
 - ~~Get to Conyberry.~~ (from Session 6)
 - ~~Survive Venomfang's ambush at the tower.~~ (from Session 10)
+- ~~Fight through Cragmaw Castle.~~ (from Session 11)
