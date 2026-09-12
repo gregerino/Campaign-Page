@@ -54,10 +54,10 @@ document.addEventListener('DOMContentLoaded', () => {
     document.querySelectorAll('.npc-card').forEach(card => {
       const name = (card.dataset.name || '').toLowerCase();
       const location = (card.dataset.locations || '').toLowerCase();
-      const session = parseInt(card.dataset.firstSession);
+      const sessions = (card.dataset.sessions || '').split(',').map(s => parseInt(s));
 
       const matchesQuery = !query || name.includes(query) || location.includes(query);
-      const matchesSession = !sessionFilter || session === sessionFilter;
+      const matchesSession = !sessionFilter || sessions.includes(sessionFilter);
 
       card.style.display = matchesQuery && matchesSession ? '' : 'none';
     });

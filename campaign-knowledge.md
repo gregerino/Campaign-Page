@@ -336,6 +336,28 @@ Grol closed the distance fast and got a fist around Lior, holding him locked in 
 
 By the time the fighting ended, the drow was gone, and the map with her. Whoever, or whatever, she truly was, no one had thought to stop her before she slipped away. The party turned their attention to Gundren instead, gathering him up as gently as they could and carrying him out of Cragmaw Castle at last. Behind them lay a dead goblin king and a castle finally silent. Ahead of them lay Neverwinter Wood, and beyond it, the long road home to Phandalin.
 
+### Session 13 (12 September 2026)
+
+Back in the trees outside Cragmaw Castle, the party made camp and turned their attention to Gundren. Brander coaxed food into him, spooning what little the dwarf could keep down and checking the wounds beneath the bandages, hoping food and rest together might be enough to start the healing. Gundren was breathing, but nowhere near strong enough to speak, not that night and probably not for days yet. Faelaris took the first watch. He sat with his bow across his knees, tending the string and the fletching while his mind kept circling back to the fight in Grol's chamber, to the drow who had torn the map free and vanished the instant the fighting started. Was she The Spider herself, or only one of their creatures? He turned the question over and over without an answer.
+
+Then he heard footsteps in the dark. He doused the fire on instinct and listened until he could make out shapes moving through the trees: four goblins and two bugbears, patrolling in a loose formation that was drifting closer to the camp with every step. Faelaris climbed into a tree to get eyes on them, then dropped back down to circle in closer. He hit the ground harder than he meant to, and the noise carried in the dark. The patrol heard it and broke into a dead run straight at the camp. Faelaris sprinted back to the others and screamed for everyone to wake up. What followed was a fight in near-total darkness, blades and spells swinging at shapes barely glimpsed before they closed. Lior fought one of the goblins to the ground and did something to it that none of them had words for afterward: he drew the soul out of the thing, and when it was done the goblin's corpse lay gaunt and bone-white, drained of whatever had been left in it. Brander came upon the body once the fighting had settled and stopped cold at the sight of it. The last goblin fell soon after, and Brander suggested they put the fire out for good, to keep from drawing anything else through the trees.
+
+Lior could not sleep after what he had done, and took the watch on himself rather than lie awake beside the others. He worked the ring off his finger, set it down on a stone in front of him, and sat there looking at it for a long while. Eventually he laid a hand on himself and spoke the words for invisibility, and simply sat, unseen, in the dark.
+
+Brander woke first and found Lior exactly where they had left him the night before, still sitting by the stone. He stepped out of camp and tried to feel for whatever new thread now connected him to the wild since Reidoth had named him Springwarden. Corvus woke soon after and sat in the tent poring over his spellbook. Lior, once he rejoined them, asked whether Corvus had made any headway with the spell scrolls they had found. "One of them," Corvus said, "the other I'm still working on." Gundren stirred, opened his eyes for a moment, and slipped back under almost immediately. With nothing more to be done for him there, the party broke camp and turned back toward Phandalin.
+
+On the Triboar Trail they came across a farmer's wagon guarded by three men with spears, and the men lowered those spears the moment they saw the party approaching. Brander talked the farmer down, and got the guards to stand easy. The farmer gave his name as Owynn and explained they were only passing through the area. Brander asked if he had any seeds to spare; Owynn had none to give, but pressed half an apple, core and all, and a corn cob into his hands instead, whatever use Brander could find for them. They carried on down the trail toward The Dogwater Inn. Faelaris watched the treeline out of habit as they walked, Lior kept working the ring in his pocket between his fingers, and Brander, who had carried Gundren the whole way, stopped more than once to rest. Corvus walked the last stretch buried in his own thoughts. The afternoon was fading into evening by the time the inn came into view.
+
+Roscoe and Fleurette Grubbfin met them at the door, and Fleurette took one look at Gundren and had him settled into a room and a bed before anyone had to ask. The party told Roscoe everything that had happened in the ten days since they had last passed through; Roscoe had his own news in return, an oliphant had come through the area, and Logger's Camp had been overrun by goblins. Lior sank happily into the crowd for a while, glad to be just another face in a room for once. Brander tried to feed scraps to one of Roscoe's dogs and got roped into another Putrid Pint challenge by the same man he had beaten the last time through. Roscoe asked who the dwarf was that they had carried in, and they told him about Gundren. Lior slipped off for a bath in the inn's bathhouse and was asleep almost before he had dried off.
+
+Brander and Corvus sat up a while longer, talking over what they hoped Gundren might be able to tell them once he was well enough to speak. Faelaris turned in early. Brander and Corvus each took their own baths before finally giving in to sleep themselves, worn thin by everything the last few days had put them through.
+
+In the morning the party made their way down into the tavern, Brander checking on Gundren on the way. They left The Dogwater Inn behind and set out for Phandalin, and on the road they ran into Bramblewick Quickpocket once more. Corvus bought a small diamond off him, and Faelaris lost himself in a round of dice, before they pressed on toward town.
+
+Phandalin came into view, and there in the street stood Sildar Hallwinter, Elmina Barthen, and Daran Edermath, caught up in a conversation of their own with no idea the party was about to walk in. The moment Sildar saw who they were carrying, he broke off mid-sentence and ran alongside them, straight for Stonehill Inn, and asked Toblen for a bed. Toblen and Trilena took Gundren in hand while Sildar poured four beers and sat down with the party to hear the whole story. Sister Garaele sat close by, quiet as ever, listening as much as watching, and across the room a visitor with curly dark hair and ink-marked arms pored over a stack of books of her own: Gwyn Oresong, Elsa's sister, in town for a visit.
+
+They told him everything: King Grol was dead, and Cragmaw Castle cleared out behind them. They had also learned, on the road, that it was Krusk who had been paying the orcs to choke off deliveries into Phandalin. Sildar had news of his own to trade. A murder had taken place in Phandalin while they were away, serious enough that a detective from Waterdeep had come to help the Lords' Alliance with the investigation, and Daran Edermath was still wrestling with whatever he called the Orchard Ghost, something that kept interfering with his work on the apple farm. They were still talking it through when the door to Stonehill Inn swung open. A portly, elephantine figure filled the doorway, immaculate in a black top hat and tailcoat, a brass-rimmed monocle fixed over one eye, small feathered wings folding neatly at his back as he stepped inside. Detective Du'Pont, he announced with a flourish of his trunk, and said they had a murder to solve. Until Gundren was well enough to tell his own story, Sildar asked the party to lend him a hand with everything else weighing on Phandalin in the meantime.
+
 ## NPCs
 
 ### Klarg (DEAD)
@@ -410,7 +432,7 @@ By the time the fighting ended, the drow was gone, and the map with her. Whoever
 
 ### Sister Garaele
 - **Appearance:** An elven woman with long dark hair, pale skin, and pointed ears, wearing an elegant blue and silver clerical robe with ornate embroidery.
-- **Locations:** Shrine of Luck, Phandalin
+- **Locations:** Shrine of Luck, Phandalin, Stonehill Inn
 - **First appeared:** Session 3
 
 ### Halia Thornton
@@ -550,7 +572,7 @@ By the time the fighting ended, the drow was gone, and the map with her. Whoever
 
 ### Gundren Rockseeker
 - **Appearance:** A dwarf prospector, bruised and bloodied nearly beyond recognition, found alive but barely conscious in King Grol's chamber.
-- **Locations:** Cragmaw Castle
+- **Locations:** Cragmaw Castle, Neverwinter Wood, The Dogwater Inn, Phandalin, Stonehill Inn
 - **First appeared:** Session 12
 
 ### Unknown Drow
@@ -558,9 +580,19 @@ By the time the fighting ended, the drow was gone, and the map with her. Whoever
 - **Locations:** Cragmaw Castle
 - **First appeared:** Session 12
 
+### Detective Du'Pont
+- **Appearance:** A portly, elephantine gentleman in a black top hat and tailcoat, a brass-rimmed monocle fixed over one eye, small feathered wings folded neatly at his back, examining clues through a magnifying glass held in his trunk.
+- **Locations:** Stonehill Inn, Phandalin
+- **First appeared:** Session 13
+
+### Gwyn Oresong
+- **Appearance:** A young scholar with curly dark hair and round wire-frame glasses, wearing blue and white traveling robes, arcane script tattooed down one forearm, an open book in hand and a satchel of scrolls slung across her back.
+- **Locations:** Stonehill Inn, Phandalin
+- **First appeared:** Session 13
+
 ## Locations
 
-### Triboar Trail (S1, S2, S6, S7, S8)
+### Triboar Trail (S1, S2, S6, S7, S8, S13)
 - Goblins were killed in an ambush (S1).
 - A blood trail was found leading to Cragmaw Hideout (S1).
 - The party traveled along the trail toward Phandalin (S2).
@@ -571,6 +603,7 @@ By the time the fighting ended, the drow was gone, and the map with her. Whoever
 - The party hunted a deer and played Dragonchess at camp (S7).
 - Lior found a Moon-Touched Sword on a skeleton in a hollow oak tree (S7).
 - Bramblewick Quickpocket was encountered again; he traded owlbear leather armor and a bag of holding (S8).
+- The party met the farmer Owynn and his three spear-armed guards on the road, and Owynn gave Brander half an apple and a corn cob in place of seeds (S13).
 
 ### Cragmaw Hideout (S1, S2)
 - The party entered and killed the goblin sentries (S1).
@@ -581,7 +614,7 @@ By the time the fighting ended, the drow was gone, and the map with her. Whoever
 - Unbreakable Arrow, longsword, shield and longbow were found (S2).
 - Stolen goods from Lionshield Coster were found (S2).
 
-### Phandalin (S2, S3, S4, S5)
+### Phandalin (S2, S3, S4, S5, S13)
 - The party arrived after rescuing Sildar (S2).
 - First encounter with the Redbrand Ruffians (S2).
 - The party investigated the town and spoke with residents (S3).
@@ -589,12 +622,17 @@ By the time the fighting ended, the drow was gone, and the map with her. Whoever
 - Glasstaff was imprisoned in Townmaster's Hall (S5).
 - A celebration was held in the party's honor at Stonehill Inn (S5).
 - The party shopped and prepared for further travels (S5).
+- The party arrived carrying Gundren Rockseeker and were met by Sildar Hallwinter, Elmina Barthen, and Daran Edermath (S13).
+- Sildar revealed that Krusk had been paying orcs to stop deliveries to Phandalin, and that a murder had taken place in town, bringing the detective Du'Pont from Waterdeep to assist the Lords' Alliance (S13).
 
-### Stonehill Inn (S2, S3, S4, S5)
+### Stonehill Inn (S2, S3, S4, S5, S13)
 - The party gathered information about the Redbrands and the town (S2).
 - Overnight stay before infiltrating the Redbrand Hideout (S4).
 - Celebration in the party's honor after Glasstaff was captured (S5).
 - Brander played Dragonchess with Sildar and Corvus (S5).
+- Toblen and Trilena Stonehill gave Gundren Rockseeker a bed while Sildar poured drinks and heard the party's account of Cragmaw Castle (S13).
+- Detective Du'Pont arrived at the inn and announced that Phandalin had a murder to solve (S13).
+- Sister Garaele and Gwyn Oresong, Elsa's visiting sister, were also at the inn (S13).
 
 ### Lionshield Coster (S3)
 - The party met Linene Graywind and asked about Harbin Wester (S3).
@@ -642,11 +680,14 @@ By the time the fighting ended, the drow was gone, and the map with her. Whoever
 ### Alderleaf Farm (S5)
 - The party spoke with Qelline and received directions to Thundertree, Conyberry and Old Owl Well (S5).
 
-### The Dogwater Inn (S6)
+### The Dogwater Inn (S6, S13)
 - The party arrived after the Hobgoblin ambush on the Triboar Trail (S6).
 - Brander won the Putrid Pint drinking challenge (S6).
 - Roscoe gave Lior a knife as a gift (S6).
 - Rumors were gathered about Cragmaw Castle, Old Owl Well, a ghost near Conyberry, and a flying monster (S6).
+- The party returned carrying Gundren Rockseeker; Fleurette Grubbfin put him straight to bed (S13).
+- Roscoe reported that an oliphant had passed through the area and that Logger's Camp had been overrun by goblins (S13).
+- Brander was challenged to the Putrid Pint again by the same man he had beaten before (S13).
 
 ### Wyvern Tor (S7)
 - The party arrived and found a marauder camp guarded by bugbears (S7).
@@ -689,7 +730,7 @@ By the time the fighting ended, the drow was gone, and the map with her. Whoever
 - Big Al revealed an orc in Phandalin had paid the orcs to stop the ranch's deliveries to the town (S9).
 - The party rested overnight at the ranch (S9).
 
-### Neverwinter Wood (S9, S11, S12)
+### Neverwinter Wood (S9, S11, S12, S13)
 - The party traveled through the forest toward Thundertree (S9).
 - Brander collected wildflower seeds along the way (S9).
 - Lior tested his new boots (S9).
@@ -701,6 +742,7 @@ By the time the fighting ended, the drow was gone, and the map with her. Whoever
 - The party found a glade where Brander heard voices from the past speaking of monsters, goblins, the future, and danger; they gave no answer when he asked what they wanted (S11).
 - The party met Bramblewick Quickpocket again and played a round of Life or Death; Corvus bought a scale from a red dragon and Faelaris bought arrows (S11).
 - The party carried Gundren Rockseeker out of Cragmaw Castle and back through the wood on the road toward Phandalin (S12).
+- The party camped in the wood and fought off a patrol of four goblins and two bugbears that found their fire in the night; Lior drained the soul from a fallen goblin, leaving it gaunt and bone-white (S13).
 
 ### Ruins of Thundertree (S9, S10, S11)
 - The party arrived and defeated a group of Twig Blights (S9).
@@ -761,13 +803,15 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 ## Quests
 
 ### Active
-- Find out who is paying to stop deliveries from Butterskull Ranch to Phandalin. (from Session 9)
 - Investigate the location on Hamun's map, 100 miles southwest of Old Owl Well. (from Session 8)
 - Find out more about the goblins with elongated skulls moving through the region. (from Session 11)
-- Escort Gundren Rockseeker safely back to Phandalin. (from Session 12)
+- Help Detective Du'Pont solve the murder in Phandalin. (from Session 13)
+- Find out who or what the Orchard Ghost is that keeps troubling Daran Edermath. (from Session 13)
+- Wait for Gundren Rockseeker to recover. (from Session 13)
 
 ### Completed
 - ~~Find out what the orcs were guarding at Butterskull Ranch.~~ (from Session 8)
+- ~~Find out who is paying to stop deliveries from Butterskull Ranch to Phandalin.~~ (from Session 9)
 - ~~Find Gundren Rockseeker.~~ (from Session 2)
 - ~~Find Cragmaw Castle.~~ (from Session 2)
 - ~~Deliver the silver comb to the banshee Agatha.~~ (from Session 3)
@@ -784,3 +828,4 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 - ~~Get to Conyberry.~~ (from Session 6)
 - ~~Survive Venomfang's ambush at the tower.~~ (from Session 10)
 - ~~Fight through Cragmaw Castle.~~ (from Session 11)
+- ~~Escort Gundren Rockseeker safely back to Phandalin.~~ (from Session 12)
