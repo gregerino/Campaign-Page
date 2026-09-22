@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.querySelectorAll('[data-filter-session]').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('[data-filter-session]').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('[data-filter-session]').forEach(b => { if (b !== btn) b.classList.remove('active'); });
       btn.classList.toggle('active');
       filterNPCs();
     });
@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   document.querySelectorAll('[data-filter-loc-session]').forEach(btn => {
     btn.addEventListener('click', () => {
-      document.querySelectorAll('[data-filter-loc-session]').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('[data-filter-loc-session]').forEach(b => { if (b !== btn) b.classList.remove('active'); });
       btn.classList.toggle('active');
       filterLocations();
     });
