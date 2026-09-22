@@ -358,6 +358,46 @@ Phandalin came into view, and there in the street stood Sildar Hallwinter, Elmin
 
 They told him everything: King Grol was dead, and Cragmaw Castle cleared out behind them. They had also learned, on the road, that it was Krusk who had been paying the orcs to choke off deliveries into Phandalin. Sildar had news of his own to trade. A murder had taken place in Phandalin while they were away, serious enough that a detective from Waterdeep had come to help the Lords' Alliance with the investigation, and Daran Edermath was still wrestling with whatever he called the Orchard Ghost, something that kept interfering with his work on the apple farm. They were still talking it through when the door to Stonehill Inn swung open. A portly, elephantine figure filled the doorway, immaculate in a black top hat and tailcoat, a brass-rimmed monocle fixed over one eye, small feathered wings folding neatly at his back as he stepped inside. Detective Du'Pont, he announced with a flourish of his trunk, and said they had a murder to solve. Until Gundren was well enough to tell his own story, Sildar asked the party to lend him a hand with everything else weighing on Phandalin in the meantime.
 
+### Session 14 (12 September 2026)
+
+Detective Du'Pont sat with the party at Stonehill Inn and told them more of himself: an investigator sent from Waterdeep at the request of the Lords' Alliance, called in because a killing in a town this small demanded outside eyes. A woman named Thora Coalbreaker had been found dead at the Miner's Exchange, and Halia Thornton, running the Exchange, had already begun rounding up everyone who might have had a hand in it. Du'Pont led the party to the scene himself.
+
+The body told its own story to those willing to look closely: a single blow struck from behind, no struggle, no warning. Nearby, blood was smeared across the leaves of a potted plant, as if the killer had wiped their hands clean in a hurry before slipping away. Whoever had done this had been close enough to Thora to catch her off guard, and rattled enough afterward to leave a trace.
+
+The party carried what they'd found to Halia Thornton. Faelaris stepped forward first, but Halia wanted nothing to do with him, still furious that the party had wrecked her scheme to bring the Redbrands under her control. Corvus fared better; Halia recognized where he'd trained, The Ninth Quill, and pulled him aside into a back room. She handed him a list of names, people she suspected, but no addresses to go with them. Toblen, the party thought, would know where in Phandalin each of these people lived.
+
+They found him at Stonehill Inn, and as they talked, Seda Atharid walked in. Pressed about motives, she said that both Videric and Narin had seemed jumpy lately, and that she suspected the murder had something to do with an emerald Thora had turned up. Almost as an aside, she mentioned that Safrax was an old boyfriend of hers, and that the two of them fought more often than not.
+
+That was enough to send the party to Safrax's door. While the others knocked properly, Lior slipped around back to try the window, and immediately fell through it, landing in the middle of the conversation before anyone had finished their introductions. Safrax's eyes were red and swollen, grief for Thora plain on his face, but he still managed his alibi: he'd been at the Miner's Exchange the whole time, in full view of witnesses. Satisfied, the party thanked him and moved on to Micah Deesian.
+
+At Micah's house, Lior turned Faelaris invisible before they knocked, and Micah let them in without suspicion. While Lior kept him talking, sitting on the edge of the bed and casting a minor illusion to fake the frame cracking under him, Faelaris slipped through the room unseen, checking the wardrobe for any sign of the missing emerald. Micah, for his part, told them plainly that he'd gone back to the Exchange that day for a pickaxe he'd left behind, and that he liked things run properly down in the mine, more of a foreman than anyone who actually held the title. Nothing in what he said tied him to the killing, so the party moved on to the house Videric and Narin shared.
+
+Videric answered the door, and answered it angry, snapping through their questions before pointing them back toward Stonehill Inn, where Narin could be found. It was while they were questioning Narin that Du'Pont observed, quietly, that Videric had been the only one of the suspects to show any real temper. That, to him, meant something was being hidden. The party doubled back and leaned harder on Videric, and this time his composure cracked. He admitted he'd been the one to spot the emerald first, and that he'd told Micah about it, after which the stone had simply vanished. He remembered something else, too: Micah had forgotten his pickaxe at the Exchange and gone back for it alone, which would have put him alone with Thora at exactly the wrong moment.
+
+With that, the party called everyone together at the Miner's Exchange to lay the whole case out. Brander walked the room through what had happened, piece by piece, until it pointed at Micah. Halia didn't wait for him to deny it; she cast hold person on him where he stood, and searched him herself. Sewn into the lining of his shirt was a large emerald. Halia paid the party a hundred gold apiece for solving it, and that afternoon they walked back to Stonehill Inn with Detective Du'Pont to celebrate.
+
+### Session 15 (21 September 2026)
+
+Morning found the party back at Stonehill Inn, and the tavern was full of familiar faces. Mirna Dendrar sat with Qelline Alderleaf, looking worried; Gwyn Oresong and her sister Elsa were there too, and Sister Garaele sat quiet in her usual corner. Toblen and Sildar were waiting with questions rather than answers for once. The murder was solved, they knew that much, but Sildar wanted to know whether the party had given any more thought to the other troubles weighing on Phandalin: the meat deliveries that had been stopped to the town, and whatever kept interfering with Daran Edermath's orchard. Over breakfast together, Sildar told them Gundren needed one more day to recover before they'd get any answers to the questions they had for him.
+
+Lior couldn't let go of something that had been sitting with him since Cragmaw Castle. Brander had mentioned it in passing: when he'd spoken with Grol's own wolf as an animal, it had told him the drow at Grol's side hadn't smelled like a true drow. Lior turned that over until a harder question came loose. Some races could change their shape entirely. Was The Spider truly a woman, as everyone assumed, or could The Spider be wearing a shape that wasn't her own at all?
+
+Corvus thought it through and guessed a man. Neither of them knew of anyone else with an interest in the map besides The Spider, which left an uncomfortable possibility hanging between them: a third party, someone who understood the inner workings of both the goblin network and The Spider's own web, or someone who had slipped loose from that web and gone rogue inside it.
+
+Pip found Brander at the table, delighted to have him back, and asked if they'd been on adventures, if they'd been brave. He said he wished he were as brave as Brander, and as brave as his friend Nars, who he mentioned, almost in passing, had gone off into the woods. The words caught Brander off guard, and his easy mood gave way to worry; he crouched down to Pip's level and asked him plainly whether he knew where Nars had gone. Pip only shrugged, not understanding why the question mattered so much, and Brander conjured a butterfly out of nothing to send him chasing it across the room while he turned the worry over in his own mind. Qelline came over to the table not long after and asked whether they'd been to Thundertree; Brander told her everything. She listened, then told him plainly that he ought to go talk to Mirna. At almost the same moment, Daran Edermath stepped into the tavern with a fresh note in hand, another one from whatever he'd taken to calling the Orchard Ghost. Corvus took it from him and caught a faint scent clinging to the paper, roses, and apples underneath. They promised Daran they'd look into it, but told him plainly they wanted to find out what had happened to Nars first.
+
+Brander crossed the room to Mirna and promised her they would find her son. When she took his hand, something passed between them that needed no words: she felt his bond to the wild, and beneath it, a loss of his own, the same loss she lived in fear of, and had already suffered once before. She told him that since Nars had been held in the Redbrand Hideout, he hadn't been the same. He seemed to be searching for something, a place to belong, though she couldn't say what he thought he'd find.
+
+The party set out for Phandalin Forest. Brander walked among the trees and reached out through his bond with nature, feeling for how the wind and the woods themselves would move around them. Faelaris was the one who spotted it first: deep gouges raked across the bark of several trees, cut by something with claws. He called the others over, and Lior moved in close to work out where the marks led. The trail brought them face to face with two strangers, a woman and a man, who introduced themselves as Aylin and Jonah and claimed to be nothing more than travelers passing through the forest. Aylin's manner was strange from the start, sharp and aggressive in a way that didn't sit right, and it was that off note that made Lior doubt her, doubt that hardened fast into certainty: she was lying. The party pressed them anyway, asking again and again if they'd seen a boy from Phandalin somewhere in these woods, but Jonah and Aylin kept insisting they knew nothing about any boy, answering every question with the same strange, clipped denial. Faelaris flicked a coin at their feet and told them, not entirely kindly, that they might want to buy some new clothes given the state of what they were wearing. Aylin had heard enough. Jonah agreed with a nod, and both of them tore open into werewolves in front of the party's eyes.
+
+The fight turned ugly fast, and it turned on Corvus. The moment he landed a hit that wounded Aylin, both werewolves converged on him at once, teeth and claws working together until he went down under them, bitten badly enough that he hit the ground. Then he rose again, and howled. The bite had taken. He turned on Faelaris, no longer entirely himself, and struck at him before anyone could stop it. Jonah and Aylin fell first, and the instant they did, Brander was already moving, reaching Corvus and pouring every ounce of his nature and healing magic into him until the man they knew came back.
+
+With the fight over, they searched what Jonah and Aylin had carried. Faelaris found a small pin shaped like a wolf's head on Jonah's body, and held it up for Corvus, who recognized it at once: a token of Malar, the Beastlord, a god who hated peaceful civilization, hated order, hated the very idea of agriculture, and who hunted for the sake of the hunt itself. Whatever Jonah and Aylin had really been, they were never simply travelers. They had been something far worse, wearing that disguise like a costume.
+
+Corvus, worn down by the bite and the fight both, asked for a moment to rest before they went any further. Lior wanted the bodies burned, and no one argued with him. Brander reached for his connection to the wild once more, calling on his druidcraft as he lit the pyre, and a faint green shimmer curled through the rising smoke as the flames took hold, sending whatever remained of Jonah and Aylin back into nature where it belonged.
+
+It was Corvus who noticed the second trail, tracks leading deeper into the forest from the direction Jonah and Aylin had first appeared. As they followed it, Brander stopped to look over the bite on Corvus's side again, more carefully this time, and didn't like what he saw. He suspected lycanthropy, though he couldn't be certain yet, and kept a careful eye on Corvus as they walked. The tracks led them, eventually, to a camp tucked deep in the trees. A crude altar built from animal skulls stood among the trunks, and the carcasses of slaughtered animals hung strung up in the branches around it. Near the altar a fire burned low, and two figures sat beside it: a large half-orc with blue-grey skin, and a small boy. Lior slipped into invisibility and crept close enough to be sure of what he was seeing. The boy was Nars. And the half-orc sitting across the fire from him was Krusk.
+
 ## NPCs
 
 ### Klarg (DEAD)
@@ -397,7 +437,7 @@ They told him everything: King Grol was dead, and Cragmaw Castle cleared out beh
 
 ### Krusk
 - **Appearance:** A muscular half-orc with blue-grey skin, dark hair pulled back, and small tusks, wearing a bone-tooth necklace, fur cloak, and leather bracers with a skull pauldron.
-- **Locations:** Stonehill Inn, Phandalin
+- **Locations:** Stonehill Inn, Phandalin, Phandalin Forest
 - **First appeared:** Session 2
 
 ### Redbrand Ruffians
@@ -472,7 +512,7 @@ They told him everything: King Grol was dead, and Cragmaw Castle cleared out beh
 
 ### Nars Dendrar
 - **Appearance:** A scrappy young human boy with messy dark brown hair and a dirt-smudged face, wearing a fur-collared brown cloak and rough leather clothing with a knife at his belt.
-- **Locations:** Redbrand Hideout, Phandalin
+- **Locations:** Redbrand Hideout, Phandalin, Phandalin Forest
 - **First appeared:** Session 4
 
 ### Ssarnak
@@ -582,13 +622,48 @@ They told him everything: King Grol was dead, and Cragmaw Castle cleared out beh
 
 ### Detective Du'Pont
 - **Appearance:** A portly, elephantine gentleman in a black top hat and tailcoat, a brass-rimmed monocle fixed over one eye, small feathered wings folded neatly at his back, examining clues through a magnifying glass held in his trunk.
-- **Locations:** Stonehill Inn, Phandalin
+- **Locations:** Stonehill Inn, Phandalin, Phandalin Miner's Exchange
 - **First appeared:** Session 13
 
 ### Gwyn Oresong
 - **Appearance:** A young scholar with curly dark hair and round wire-frame glasses, wearing blue and white traveling robes, arcane script tattooed down one forearm, an open book in hand and a satchel of scrolls slung across her back.
 - **Locations:** Stonehill Inn, Phandalin
 - **First appeared:** Session 13
+
+### Micah Deesian
+- **Appearance:** A weathered human man with short greying dark hair, a trimmed grey beard, and sharp green eyes, wearing a worn leather mining apron with a coil of rope over one shoulder, carrying a pickaxe and an oil lantern.
+- **Locations:** Phandalin, Phandalin Miner's Exchange
+- **First appeared:** Session 14
+
+### Narin Tafa
+- **Appearance:** A muscular young human man with short damp dark hair and stubble, wearing a pendant necklace and a worn leather mining harness over a loose shirt, carrying a heavy sledgehammer over one shoulder.
+- **Locations:** Phandalin, Phandalin Miner's Exchange
+- **First appeared:** Session 14
+
+### Seda Atharid
+- **Appearance:** A freckled young human woman with reddish-brown hair pulled back, wearing worn mining overalls over a collared shirt and carrying a pickaxe over one shoulder.
+- **Locations:** Phandalin, Phandalin Miner's Exchange, Stonehill Inn
+- **First appeared:** Session 14
+
+### Safrax Toilpick
+- **Appearance:** A haggard, older human man with unkempt blond hair and a drooping mustache, red-rimmed eyes and a bruised face, wiping his face with a cloth while carrying a pickaxe over his shoulder.
+- **Locations:** Phandalin, Phandalin Miner's Exchange
+- **First appeared:** Session 14
+
+### Videric Flintshield
+- **Appearance:** A stocky, red-haired human man with a thick braided beard and a stern expression, wearing a worn leather mining apron and a lantern on his belt, carrying a large sledgehammer over one shoulder.
+- **Locations:** Phandalin, Phandalin Miner's Exchange
+- **First appeared:** Session 14
+
+### Jonah Grayward (DEAD)
+- **Appearance:** A rugged human man with short sandy hair, a stubbled, scarred jaw, and a hard stare, wearing tattered fur-trimmed leather and a weathered cloak, a sword and dagger at his belt.
+- **Locations:** Phandalin Forest
+- **First appeared:** Session 15
+
+### Aylin Shadow (DEAD)
+- **Appearance:** A rugged human woman with dark hair pulled into a high ponytail, pale watchful eyes, and dirt-streaked, scarred skin, wearing tattered fur-lined leather and a torn cloak, a knife at her belt.
+- **Locations:** Phandalin Forest
+- **First appeared:** Session 15
 
 ## Locations
 
@@ -614,7 +689,7 @@ They told him everything: King Grol was dead, and Cragmaw Castle cleared out beh
 - Unbreakable Arrow, longsword, shield and longbow were found (S2).
 - Stolen goods from Lionshield Coster were found (S2).
 
-### Phandalin (S2, S3, S4, S5, S13)
+### Phandalin (S2, S3, S4, S5, S13, S14)
 - The party arrived after rescuing Sildar (S2).
 - First encounter with the Redbrand Ruffians (S2).
 - The party investigated the town and spoke with residents (S3).
@@ -624,8 +699,9 @@ They told him everything: King Grol was dead, and Cragmaw Castle cleared out beh
 - The party shopped and prepared for further travels (S5).
 - The party arrived carrying Gundren Rockseeker and were met by Sildar Hallwinter, Elmina Barthen, and Daran Edermath (S13).
 - Sildar revealed that Krusk had been paying orcs to stop deliveries to Phandalin, and that a murder had taken place in town, bringing the detective Du'Pont from Waterdeep to assist the Lords' Alliance (S13).
+- The party helped Detective Du'Pont investigate the murder of Thora Coalbreaker, visiting and questioning suspects Safrax Toilpick, Micah Deesian, Videric Flintshield, and Narin Tafa across town before unmasking Micah as the killer (S14).
 
-### Stonehill Inn (S2, S3, S4, S5, S13)
+### Stonehill Inn (S2, S3, S4, S5, S13, S14, S15)
 - The party gathered information about the Redbrands and the town (S2).
 - Overnight stay before infiltrating the Redbrand Hideout (S4).
 - Celebration in the party's honor after Glasstaff was captured (S5).
@@ -633,6 +709,9 @@ They told him everything: King Grol was dead, and Cragmaw Castle cleared out beh
 - Toblen and Trilena Stonehill gave Gundren Rockseeker a bed while Sildar poured drinks and heard the party's account of Cragmaw Castle (S13).
 - Detective Du'Pont arrived at the inn and announced that Phandalin had a murder to solve (S13).
 - Sister Garaele and Gwyn Oresong, Elsa's visiting sister, were also at the inn (S13).
+- Toblen helped the party track down addresses for Halia Thornton's list of suspects, and Seda Atharid pointed the party toward the missing emerald and toward Videric and Narin as motives (S14).
+- The party gathered the suspects here to reveal Micah Deesian as Thora Coalbreaker's killer, then celebrated the case's end with Detective Du'Pont (S14).
+- Stonehill Inn was full of familiar faces for breakfast, including Mirna Dendrar and Qelline Alderleaf, Gwyn and Elsa Oresong, and Sister Garaele; Toblen and Sildar asked about the murder and Phandalin's other troubles, Sildar said Gundren needed another day to recover before he could answer their questions, Qelline and Daran Edermath stopped by with a new Orchard Ghost note, and Mirna asked the party to find her missing son Nars (S15).
 
 ### Lionshield Coster (S3)
 - The party met Linene Graywind and asked about Harbin Wester (S3).
@@ -649,8 +728,10 @@ They told him everything: King Grol was dead, and Cragmaw Castle cleared out beh
 ### Edermath Orchard (S3)
 - The party met Daran Edermath and received information about Halia and the Sleeping Giant (S3).
 
-### Phandalin Miner's Exchange (S3)
+### Phandalin Miner's Exchange (S3, S14)
 - The party met Halia Thornton who confirmed Redbrands gather at the Sleeping Giant (S3).
+- Thora Coalbreaker was found murdered here, killed by a blow from behind; the party examined the scene and found blood wiped on a nearby plant (S14).
+- Halia Thornton gave Corvus a list of suspects, and the party later exposed Micah Deesian as the killer here, finding a stolen emerald sewn into his shirt (S14).
 
 ### Sleeping Giant (S3)
 - The party fought the Redbrands (S3).
@@ -778,6 +859,10 @@ They told him everything: King Grol was dead, and Cragmaw Castle cleared out beh
 - Gundren Rockseeker was found alive, badly beaten, in King Grol's chamber (S12).
 - King Grol was killed after Brander and Lior slipped in invisible and overheard him haggling over a map with a drow who, by the testimony of his own wolf, was not truly a drow at all; she tore the map free and vanished the instant the fight broke out (S12).
 
+### Phandalin Forest (S15)
+- The party tracked claw marks through the trees and were ambushed by the werewolves Jonah Grayward and Aylin Shadow, who carried a pin of Malar; Corvus was bitten before the party burned the bodies (S15).
+- Following a second trail, the party found a hidden camp marked by an altar of animal skulls and slaughtered animals strung up between the trees, where Krusk and the missing Nars Dendrar sat together at a fire (S15).
+
 ## Factions
 
 ### 🎵 Harpers
@@ -805,9 +890,10 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 ### Active
 - Investigate the location on Hamun's map, 100 miles southwest of Old Owl Well. (from Session 8)
 - Find out more about the goblins with elongated skulls moving through the region. (from Session 11)
-- Help Detective Du'Pont solve the murder in Phandalin. (from Session 13)
 - Find out who or what the Orchard Ghost is that keeps troubling Daran Edermath. (from Session 13)
 - Wait for Gundren Rockseeker to recover. (from Session 13)
+- Find out why Nars Dendrar is at Krusk's camp in Phandalin Forest, and bring him back to Mirna. (from Session 15)
+- Find out whether Corvus has been infected with lycanthropy after being bitten by the werewolf Aylin Shadow. (from Session 15)
 
 ### Completed
 - ~~Find out what the orcs were guarding at Butterskull Ranch.~~ (from Session 8)
@@ -829,3 +915,4 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 - ~~Survive Venomfang's ambush at the tower.~~ (from Session 10)
 - ~~Fight through Cragmaw Castle.~~ (from Session 11)
 - ~~Escort Gundren Rockseeker safely back to Phandalin.~~ (from Session 12)
+- ~~Help Detective Du'Pont solve the murder in Phandalin.~~ (from Session 13)
