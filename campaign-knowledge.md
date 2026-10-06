@@ -4,25 +4,25 @@
 
 ## The Party
 
-### Lior Fenn (Halfling Rogue, Level 3)
+### Lior Fenn (Halfling Rogue, Level 4)
 - **Player:** Måns
 - **Motivation:** Sona misstaget som kostade någon livet
 - **Faction:** Zhentarim / Harpers
 - **Appearance:** A young man with tousled dark brown hair and a roguish smirk, wearing layered brown leather armor with numerous buckles and straps, a red scarf around his neck, holding a coin.
 
-### Brander (Goliath Paladin, Level 3)
+### Brander (Goliath Paladin, Level 4)
 - **Player:** Olof
 - **Motivation:** Skydda människor som inte kan skydda sig själva
 - **Faction:** Order of the Gauntlet / Emerald Enclave (Springwarden)
 - **Appearance:** A powerfully built man with grey skin, a dark mohawk, tribal tattoos covering his arms and torso, wearing fur-lined leather armor with a greatsword strapped to his back.
 
-### Corvus Blackwell (Human Wizard, Level 3)
+### Corvus Blackwell (Human Wizard, Level 4)
 - **Player:** Johan
 - **Motivation:** Bli mäktig nog att aldrig vara beroende av någon igen
 - **Faction:** Harpers / Lords Alliance
 - **Appearance:** A lean young man with messy black hair and pale skin, wearing a dark leather coat with a grey scarf, conjuring flame in one outstretched hand, with a book and vials at his belt.
 
-### Faelaris Starwoven (Elf Ranger, Level 3)
+### Faelaris Starwoven (Elf Ranger, Level 4)
 - **Player:** Gustaf
 - **Motivation:** Bevisa att han kan vara något annat än bara kungason
 - **Faction:** Harpers / Emerald Enclave
