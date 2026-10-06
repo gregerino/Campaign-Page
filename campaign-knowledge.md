@@ -398,6 +398,42 @@ Corvus, worn down by the bite and the fight both, asked for a moment to rest bef
 
 It was Corvus who noticed the second trail, tracks leading deeper into the forest from the direction Jonah and Aylin had first appeared. As they followed it, Brander stopped to look over the bite on Corvus's side again, more carefully this time, and didn't like what he saw. He suspected lycanthropy, though he couldn't be certain yet, and kept a careful eye on Corvus as they walked. The tracks led them, eventually, to a camp tucked deep in the trees. A crude altar built from animal skulls stood among the trunks, and the carcasses of slaughtered animals hung strung up in the branches around it. Near the altar a fire burned low, and two figures sat beside it: a large half-orc with blue-grey skin, and a small boy. Lior slipped into invisibility and crept close enough to be sure of what he was seeing. The boy was Nars. And the half-orc sitting across the fire from him was Krusk.
 
+### Session 16 (5 Oktober 2026)
+
+Hidden by his Invisibility spell, Lior crept close enough to hear every word spoken at the fire. Krusk sat working over a deer carcass and didn't look up when Nars came stumbling in. "You breathe like a deer that knows it's being hunted, boy. Sit." Nars insisted he'd run the whole way and that no one had followed him. "Someone always follows," Krusk answered. "The only question is how soon." He handed the boy his knife and showed him how to cut: along the sinew, never across it.
+
+Nars worked in silence for a while before he spoke again. His mother had cried when he left. Of course she had, Krusk said; that is what mothers do when their child runs toward the forest instead of home. But Nars said she didn't understand, that no one in the village did. They talked about his father as if he were a broken cart: mend it, replace it, move on. Krusk told him that grief in a village is quiet and quick, because remembering hurts and they have little time for it. Out here, he said, Nars could grieve for as long as he needed. The forest is never in a hurry.
+
+Then Nars said that Krusk and his father used to argue. Krusk set the knife down. Yes, he admitted, often. Had he hated him? No. Nars's father had been stubborn as an oak and honest as an axe-blow; the two of them had wanted different things for this forest and said so out loud, but you don't hate a man for standing straight. After a pause Krusk added that it wasn't the forest that had taken his father. It was people, the kind who live in houses and think walls keep them safe.
+
+Nars begged to stay and learn everything. He never wanted to be weak again, the way he had been when the Redbrands took them. Krusk snorted softly. He had been a child with a knife at his throat; that wasn't weakness, it was bad luck. Weakness was failing to learn anything from it. The forest was no hiding place, Krusk warned him. It was honest, and gave you exactly what you deserved, and took just as readily. When Nars said he wasn't afraid, Krusk looked him in the eye for the first time. Then he was a fool, and foolish hunters become prey. "Be afraid. And go anyway. That's all courage is."
+
+Nars pointed at the scars on Krusk's forearm and said his father had told him Krusk once wrestled a bear. Krusk only smiled crookedly; his father had believed many things. Could Nars become like him, just as strong? Krusk was quiet for a long time, and when he answered his voice was grave. Some gifts can't be taken back. Once you walk that path there's no way home again, not until you understand what it costs. Not tonight. "But later?" Nars pressed. "Later," Krusk said, turning back to the deer. In the morning Nars would send word to his mother that he was alive, because no one would ever be able to say that Krusk stole a man's son. And after that, they would hunt together, the two of them, when the moon was new.
+
+Lior listened long enough to wonder whether the boy truly wanted to be there, and Nars sounded sincere. Then Krusk spoke again without looking up: "You've come a long way, halfling. Sit by the fire if you come in peace." Lior was invisible, but Krusk had never needed to see him. A hunter and an orc, his senses were sharper than most, and he had caught the scent of a halfling on the wind long before. He had known Lior was there all along. Lior took a seat on a log beside them and searched for the right words, while back among the trees Corvus, rattled by what was unfolding, quietly cast Mage Armor on himself.
+
+Lior went straight to the heart of it and raised the large sum of gold that had been paid to the orcs at Butterskull Ranch. That was a heavy accusation to carry into someone's camp, Krusk said, and he asked for proof. Lior answered with a Minor Illusion: the orc the party had captured at Butterskull Ranch, shimmering into being by the fire and repeating what it had told them, that an orc in Phandalin had paid good coin to have Big Al taken.
+
+Brander, meanwhile, crept forward through the forest, using his magic to set leaves rustling on the far side of the clearing to draw attention away, and slipped unseen to a closer tree where he could hear every word. What he heard was a boy pulled two ways: Nars wanted to prove he was no helpless child, yet he missed his family. Lior kept talking, gently now, trying to coax Nars home. "I understand you've lost your father, and that you want to protect your family and feel you need to be able to take care of them. I understand that's why you're here. But I don't think you should lie to your family about it. They're worried about you." At the same moment he tried to slip a Sleep spell over Krusk, and Krusk did not take it kindly. He rose to his feet in irritation, and in that same instant Brander stepped out from behind his tree. "Easy, Krusk." Brander pointed out that what Lior had shown did not bode well for him, being the only orc in Phandalin.
+
+Krusk said the ranch had simply stopped delivering, but Lior caught the lie at once: he had never mentioned the ranch at all. Cornered, Krusk explained why he had done it, if not quite what he had done, though the truth was plain enough. Krusk was the reason the meat deliveries to Phandalin had stopped. With no meat coming in, the town needed a hunter, and he could provide. And the mine shafts needed timber, so every cart the town didn't need was a tree that would not be felled. He wanted to save the forest from being cut down. With that laid bare, Nars began to understand that Krusk was not the right person to lead him. He stood and turned to Brander and asked whether he could come back. Brander and Corvus, who had now stepped forward too, told him this was not his place; his place was with his family, in Phandalin. They took Nars with them and left Krusk alone at his camp, and behind them a howl rose and drifted farther and farther away.
+
+Back in Phandalin they brought Nars home to Mirna Dendrar. She saw them coming up the path, opened the door, and broke into tears. Nars stopped, caught his breath, then ran to his mother, and she wrapped her arms around him. Holding him tight, tears in her eyes, she looked up at the party and silently mouthed: "Thank you."
+
+Corvus was uneasy on the walk away, his thoughts on the bite in his side, and he suggested that Elara Thistlebrook, Phandalin's apothecary, might be able to help. At Thistlebrook Remedies Corvus showed her the wound. Elara said she could help and led him into the back of the shop, Lior and Brander trailing after. There she gathered bottles and herbs, ground some of them down in a mortar, and warned Corvus that this would hurt. He screamed. Then she cast Remove Curse, holding her hand over the bite while a violet-blue shimmer glowed beneath her palm, and asked him to come back in a few days so she could change the dressing. On the way out, Lior left 5 gold on the counter without anyone seeing.
+
+As the party made their way back toward Stonehill Inn, they glanced over at Edermath Orchard and saw Faelaris lying in wait, watching for the Orchard Ghost. At the inn Toblen greeted Corvus with a shot of something restorative and told them Gundren should be well enough to talk tomorrow. They ordered food and went to sleep.
+
+The next morning they came downstairs to find Sildar sitting with a dwarf: Gundren Rockseeker, who waved them over. Lior started with questions. Did he remember a drow? Gundren told his story from the beginning: the journey from Neverwinter, the goblin ambush, being dragged to Cragmaw Castle, questioned by a drow, and how the map was lost. Luckily he still carried the location of Wave Echo Cave in his head. Lior conjured a map with Minor Illusion, and Gundren marked the spot. Gundren knew the Forge of Spells was real and that it lay within Wave Echo Cave, and he believed that was why The Spider wanted to get there. He knew The Spider only by name, and that they were a drow, but had never seen them. He admitted he had not told the party everything before they set out for Phandalin; he wanted this to succeed to restore his honor. The Rockseekers were known as mining entrepreneurs, but the family had seen several failed mining ventures before, and Wave Echo Cave was their chance to restore the Rockseeker name. When Brander asked about his brothers, Gundren said he believed Nundro and Tharden were somewhere around Wave Echo Cave.
+
+Lior turned to Sildar and told him Nars was home and Krusk would not be coming back. Sildar thanked them and rewarded the party for everything they had done around Phandalin: the murder, Nars's disappearance, and Faelaris's watch on Edermath Orchard. He set down a heavy sack of 700 gold for the party to share.
+
+The party decided to go ahead and scout Wave Echo Cave first, with Gundren to follow together with Faelaris. Just as they were getting up, Corvus noticed a hooded man at the bar. He recognized the symbol on the cloak, a violet quill: The Ninth Quill. The man turned and lowered his hood. Elowen Marsh. A million thoughts raced through Corvus's head. Elowen was furious and wanted back what Corvus had stolen years earlier, the black stone Corvus had been carrying. He had studied the magic surrounding the stone, he said, he understood it, and now he wanted it back.
+
+Lior and Brander moved toward the exit, and Corvus backed toward the door without ever turning his back on Elowen, who followed them out. In the street outside Stonehill Inn, Elowen demanded: "THE STONE, CORVUS. NOW." Corvus threatened him and told him to leave town, that he never wanted to see him again. Lior drew his bow and Brander raised his weapon. Flames bloomed in Elowen's hands, and a magical battle broke out in the streets of Phandalin. Corvus hurled his Fireball at Elowen, who parried it with ease. Elowen charged magic missiles that sent shockwaves through the air, badly wounding both Brander and Corvus. After a short, fierce fight Elowen exploded in lightning, throwing Brander and Sildar, who had just joined the fight, backward to the ground. Seeing Brander fall, Lior screamed "BRANDEER!" and ran at Elowen in a rage, daggers raised, and struck him hard between the collarbone and the neck. Elowen fell dead. Lior threw himself at Brander and poured a healing potion into him, and Brander came back to life while Corvus helped Sildar to his feet.
+
+The walls of Stonehill Inn were scarred by the blast, but the party was alive. Corvus felt relief, as if a stone had been lifted from his shoulders; the feeling of being hunted was gone. But he was left with a great many questions about what he had stolen and what he was carrying. Searching Elowen's body, he found a scroll written in a language he did not recognize. The party went back inside Stonehill Inn to heal, and Faelaris joined them, having heard the blast down at the inn, with new information about the case of the Orchard Ghost.
+
 ## NPCs
 
 ### Klarg (DEAD)
@@ -605,9 +641,9 @@ It was Corvus who noticed the second trail, tracks leading deeper into the fores
 - **Locations:** Cragmaw Castle
 - **First appeared:** Session 12
 
-### Elowen Marsh
+### Elowen Marsh (DEAD)
 - **Appearance:** A stern, watchful wizard glimpsed only in memory, presiding over his study and library with quiet, exacting patience, testing his students as much as teaching them.
-- **Locations:** 
+- **Locations:** Stonehill Inn, Phandalin
 - **First appeared:** Session 12
 
 ### Gundren Rockseeker
@@ -689,7 +725,7 @@ It was Corvus who noticed the second trail, tracks leading deeper into the fores
 - Unbreakable Arrow, longsword, shield and longbow were found (S2).
 - Stolen goods from Lionshield Coster were found (S2).
 
-### Phandalin (S2, S3, S4, S5, S13, S14)
+### Phandalin (S2, S3, S4, S5, S13, S14, S16)
 - The party arrived after rescuing Sildar (S2).
 - First encounter with the Redbrand Ruffians (S2).
 - The party investigated the town and spoke with residents (S3).
@@ -700,8 +736,9 @@ It was Corvus who noticed the second trail, tracks leading deeper into the fores
 - The party arrived carrying Gundren Rockseeker and were met by Sildar Hallwinter, Elmina Barthen, and Daran Edermath (S13).
 - Sildar revealed that Krusk had been paying orcs to stop deliveries to Phandalin, and that a murder had taken place in town, bringing the detective Du'Pont from Waterdeep to assist the Lords' Alliance (S13).
 - The party helped Detective Du'Pont investigate the murder of Thora Coalbreaker, visiting and questioning suspects Safrax Toilpick, Micah Deesian, Videric Flintshield, and Narin Tafa across town before unmasking Micah as the killer (S14).
+- The party brought Nars home to a tearful Mirna Dendrar (S16).
 
-### Stonehill Inn (S2, S3, S4, S5, S13, S14, S15)
+### Stonehill Inn (S2, S3, S4, S5, S13, S14, S15, S16)
 - The party gathered information about the Redbrands and the town (S2).
 - Overnight stay before infiltrating the Redbrand Hideout (S4).
 - Celebration in the party's honor after Glasstaff was captured (S5).
@@ -712,6 +749,7 @@ It was Corvus who noticed the second trail, tracks leading deeper into the fores
 - Toblen helped the party track down addresses for Halia Thornton's list of suspects, and Seda Atharid pointed the party toward the missing emerald and toward Videric and Narin as motives (S14).
 - The party gathered the suspects here to reveal Micah Deesian as Thora Coalbreaker's killer, then celebrated the case's end with Detective Du'Pont (S14).
 - Stonehill Inn was full of familiar faces for breakfast, including Mirna Dendrar and Qelline Alderleaf, Gwyn and Elsa Oresong, and Sister Garaele; Toblen and Sildar asked about the murder and Phandalin's other troubles, Sildar said Gundren needed another day to recover before he could answer their questions, Qelline and Daran Edermath stopped by with a new Orchard Ghost note, and Mirna asked the party to find her missing son Nars (S15).
+- Gundren Rockseeker told his full story, marked Wave Echo Cave on Lior's illusory map, and Sildar paid the party 700 gold; then Elowen Marsh of The Ninth Quill confronted Corvus over the black stone, and Lior killed him in a magical battle in the street outside that scarred the inn's walls (S16).
 
 ### Lionshield Coster (S3)
 - The party met Linene Graywind and asked about Harbin Wester (S3).
@@ -725,8 +763,9 @@ It was Corvus who noticed the second trail, tracks leading deeper into the fores
 - The party met Sister Garaele who told them about the book she is searching for (S3).
 - Sister Garaele gave the party a silver comb to deliver to the banshee Agatha (S3).
 
-### Edermath Orchard (S3)
+### Edermath Orchard (S3, S16)
 - The party met Daran Edermath and received information about Halia and the Sleeping Giant (S3).
+- Faelaris lay in wait at the orchard, watching for the Orchard Ghost, and later returned with new information about the case (S16).
 
 ### Phandalin Miner's Exchange (S3, S14)
 - The party met Halia Thornton who confirmed Redbrands gather at the Sleeping Giant (S3).
@@ -751,8 +790,9 @@ It was Corvus who noticed the second trail, tracks leading deeper into the fores
 - The letter from "The Spider" to Glasstaff was found (S4).
 - Glasstaff was chased and captured after fleeing (S5).
 
-### Thistlebrook Remedies (S5)
+### Thistlebrook Remedies (S5, S16)
 - The party bought healing potions and Alchemist's Fire (S5).
+- Elara Thistlebrook treated Corvus's werewolf bite with herbs and Remove Curse, and asked him to return in a few days to change the dressing; Lior secretly left 5 gold on the counter (S16).
 
 ### Barthen's Provisions (S2, S5)
 - Corvus shopped with Elmina Barthen (S2).
@@ -859,9 +899,10 @@ It was Corvus who noticed the second trail, tracks leading deeper into the fores
 - Gundren Rockseeker was found alive, badly beaten, in King Grol's chamber (S12).
 - King Grol was killed after Brander and Lior slipped in invisible and overheard him haggling over a map with a drow who, by the testimony of his own wolf, was not truly a drow at all; she tore the map free and vanished the instant the fight broke out (S12).
 
-### Phandalin Forest (S15)
+### Phandalin Forest (S15, S16)
 - The party tracked claw marks through the trees and were ambushed by the werewolves Jonah Grayward and Aylin Shadow, who carried a pin of Malar; Corvus was bitten before the party burned the bodies (S15).
 - Following a second trail, the party found a hidden camp marked by an altar of animal skulls and slaughtered animals strung up between the trees, where Krusk and the missing Nars Dendrar sat together at a fire (S15).
+- At Krusk's camp, Lior exposed Krusk as the one who paid the orcs to stop Phandalin's deliveries; Krusk confessed he did it to protect the forest from logging, and Nars chose to return home with the party, leaving Krusk alone as a howl faded into the trees (S16).
 
 ## Factions
 
@@ -891,9 +932,10 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 - Investigate the location on Hamun's map, 100 miles southwest of Old Owl Well. (from Session 8)
 - Find out more about the goblins with elongated skulls moving through the region. (from Session 11)
 - Find out who or what the Orchard Ghost is that keeps troubling Daran Edermath. (from Session 13)
-- Wait for Gundren Rockseeker to recover. (from Session 13)
-- Find out why Nars Dendrar is at Krusk's camp in Phandalin Forest, and bring him back to Mirna. (from Session 15)
-- Find out whether Corvus has been infected with lycanthropy after being bitten by the werewolf Aylin Shadow. (from Session 15)
+- Find Wave Echo Cave together with Gundren Rockseeker. (from Session 16)
+- Find Gundren's brothers Nundro and Tharden around Wave Echo Cave. (from Session 16)
+- Find out what the black stone Corvus stole from Elowen Marsh really is, and decipher the scroll found on Elowen's body. (from Session 16)
+- Return to Elara Thistlebrook to change the dressing on Corvus's bite. (from Session 16)
 
 ### Completed
 - ~~Find out what the orcs were guarding at Butterskull Ranch.~~ (from Session 8)
@@ -916,3 +958,6 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 - ~~Fight through Cragmaw Castle.~~ (from Session 11)
 - ~~Escort Gundren Rockseeker safely back to Phandalin.~~ (from Session 12)
 - ~~Help Detective Du'Pont solve the murder in Phandalin.~~ (from Session 13)
+- ~~Wait for Gundren Rockseeker to recover.~~ (from Session 13)
+- ~~Find out why Nars Dendrar is at Krusk's camp in Phandalin Forest, and bring him back to Mirna.~~ (from Session 15)
+- ~~Find out whether Corvus has been infected with lycanthropy after being bitten by the werewolf Aylin Shadow.~~ (from Session 15)
