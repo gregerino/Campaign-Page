@@ -434,6 +434,34 @@ Lior and Brander moved toward the exit, and Corvus backed toward the door withou
 
 The walls of Stonehill Inn were scarred by the blast, but the party was alive. Corvus felt relief, as if a stone had been lifted from his shoulders; the feeling of being hunted was gone. But he was left with a great many questions about what he had stolen and what he was carrying. Searching Elowen's body, he found a scroll written in a language he did not recognize. The party went back inside Stonehill Inn to heal, and Faelaris joined them, having heard the blast down at the inn, with new information about the case of the Orchard Ghost.
 
+### Session 17 (19 Oktober 2026)
+
+In the moments after the battle, all of Phandalin had gathered around Stonehill Inn. Lior knelt over Brander, trying to coax the life back into him, until he heard him breathe. Gundren stepped into the doorway and watched Elara and Trilena carry Sildar inside, wondering what on earth had happened. Corvus stood frozen, unable to take in what had just happened. Brander laid his hands on himself, and a green shimmering light brought some of his strength back. Gundren nodded toward the party and asked them to come inside. Lior picked up a stone from the street and tried to set it back into the hole Elowen's explosion had torn in the wall, but it only fell to the ground again while the townsfolk looked on, whispering.
+
+The party went back inside, and Faelaris left the crowd to follow them in. Corvus came to as the others moved past him, and followed them to get away from the crowd. Brander washed off the mud from lying in the street. Gundren asked what had happened. Lior put the blame on Corvus, and Gundren asked again. Corvus explained that his past had caught up with him: Elowen had been his old master, the man he had been forced to flee after being accused of theft. Gundren told them they could rest before setting out for Wave Echo Cave. Faelaris then told the party what he had seen during his watch: a figure walking through the night in Edermath Orchard.
+
+Halia Thornton walked into Stonehill Inn, came over to the table and asked to speak with Corvus alone. She had hinted before that Corvus was carrying something, and he was curious how she knew, and what it was. Out of curiosity, he followed her out. Halia knew who Corvus was. She wanted his help with something only he could help her with: she wanted The Spider brought in alive. When he asked why he should, she explained that they belonged to sister organizations, and tossed him a pouch of gold. Corvus told her 100 gold wasn't much to him, so she offered him answers to whatever questions he might have. On her coat Corvus noticed an emblem resembling a winged lizard or dragon hunting something. Corvus told her they had a deal, and they shook on it.
+
+Back at Stonehill Inn the rest of the party sat waiting. Brander nursed an ale and thanked the gods that the fight had gone their way. Gundren, who knew Halia could be sly, asked what she had wanted. Corvus said she had wanted to talk about the past, but Lior could tell there was more behind his words. Lior pressed Faelaris for more about the Orchard Ghost, and Faelaris repeated what he had seen: a masked man moving from the orchard and on beyond the hills past the Town Square. The party decided to pick up the trail, but first wanted to find someone to help Toblen repair Stonehill Inn. Gundren suggested the smith Alger and his apprentice Maza.
+
+At the Smithy they met Alger Frakk. Lior explained that they needed help with the wall of Stonehill Inn after the explosion, and offered a gold piece per man per day. Alger called Maza Fieldsalder over, explained the job, and both accepted; they would round up more hands. Brander asked whether Alger could help him powder some silver. He set the silver down, and Alger said he could do it if Brander came back in the afternoon. Lior ran down to Stonehill Inn and left 20 gold on the bar for the repairs.
+
+Following Faelaris, the party crossed the Town Square and went on over the hills beyond it until they reached a cave. Brander crept closer and heard something inside: something or someone rummaging through things and notes, muttering to himself. Lior cast Invisibility on Corvus, who was still hurt from the battle, and the party decided to sneak in. Lior and Faelaris slipped in unnoticed and saw a man in fine clothes and a white mask, with slicked-back hair and a cloak. Lior cast a Minor Illusion of Daran's voice, and the man jumped. Lior went back out to tell Brander what had happened, then returned and cast another Minor Illusion, four apples dropping into a pile in front of the man. Faelaris put out the second light in the cave, and the man, even more frightened, moved into the glow of the last torch. Brander moved in, his armor rattling, and the man spun toward the darkness: "Who's there?!" Faelaris spoke to him out of the dark and asked why he was harassing Daran. The man insisted he had never harassed him.
+
+Faelaris put out the last light, and the man said he wasn't afraid. Faelaris shot an arrow past his head. He still wasn't afraid. Faelaris shot again and hit him in the thigh. The man sent his bats at Faelaris, and they bit him, while the man hurled arcane magic at Faelaris and missed in the dark. Lior crept around the man in the darkness, waiting for Faelaris's next move. The bats bit Faelaris again, and as he closed in, the man cast his arcane magic once more and Faelaris fell. Just before the killing blow, a counterspell came out of the darkness. Someone had run into the cave: Daran. Brander ran in after him, asked Daran the way in the dark, and Daran showed him. Brander reached Faelaris, laid his hands on him and healed him back onto his feet.
+
+Lior, still in the darkness, wanted to end the fight and tried to put the man to sleep with magic, but failed. Faelaris licked his wounds and tried to bandage them in the middle of the fight. Brander tried to bluff, warning the man that Phandalin's soldiers were waiting outside the cave, but the man knew there were no soldiers in Phandalin and that they were trying to trick him. Corvus ran into the dark. Daran cast a light in front of the man, and for the first time everyone could see him. Lior walked up to him, drew his daggers and drove them into him again and again until he was on his knees, bleeding. Faelaris, in all his fury, loosed one last arrow straight through the mask and into the man's eye. The man fell to the floor, dead.
+
+Daran went over to the body, lifted the mask, and saw that it was Eric Oprah. He was bewildered. Faelaris asked who Eric was. Daran asked why they had killed him. He had expected more of Faelaris; there had been no need to kill him, and Daran had wanted to know why Eric had done what he did. Faelaris tried to explain that something had stirred the anger in him, but Daran wouldn't listen. He walked away.
+
+Lior pointed out that so far they were on fairly good terms with Phandalin. Had they killed Daran too, no one would ever have known. The alternative was to take responsibility, carry the body into Phandalin and explain that this was the Orchard Ghost. Brander was uneasy with where the conversation was going; he didn't want to see any more needless death. The party carried the body back to Phandalin, Brander bearing Eric in his own bedroll. Sister Garaele saw them crossing the Town Square, and Brander asked her how they honored the remains of capable warriors. She told him they could bury him on Umbrage Hill, a hill south of Phandalin with a good view, a worthy place. Sister Garaele and Brander set out for it, while Lior, Faelaris and Corvus went back toward Stonehill Inn. On the hill, Brander laid Eric on a patch of grass looking out over the slope and used his magic to draw a layer of earth over him. He planted apple seeds in the soil and cast a druidic spell, and an apple sapling grew up over the grave. Sister Garaele laid her hand on Brander's shoulder and said it was a worthy resting place for Eric. They walked back toward Phandalin in silence.
+
+At Stonehill Inn, Lior and Faelaris had said nothing to Gundren about what had happened; Lior had helped with the wall just to avoid talking to him. Around ten people had turned out to help repair it. Sildar came over to Brander and asked him to keep an eye on Gundren, and to make sure he came home again. Looks were turning toward their table, angry looks from people who had seen the party come down from the hills carrying a body. Toblen came over and said it would probably be best if the party took a break from Phandalin for a day or two, to let things calm down. Lior and Brander went to bed after Toblen's words.
+
+Faelaris left Stonehill Inn and headed up toward Edermath Orchard. On the way he ran into Elmina Barthen, who asked where he was going; he lied and said he was taking a night walk. In truth he meant to pin a note to Daran's door, saying his apples weren't thriving as well as he thought and offering tips and advice. Just as he was about to put it up, the door opened. It was Bertrice Edermath. Faelaris lied that he wanted to give a report on how the hunt for the Orchard Ghost had gone, and Bertrice called for her father. Daran shut the door in Faelaris's face. He knocked again and got no answer. At last the door opened, and Daran told Faelaris to go home, that he was disappointed in him, and slammed the door. Faelaris pounded on it and demanded to talk, but Daran would not listen. He told him to leave one last time. He had saved Faelaris in the cave, and Faelaris had killed someone out of anger.
+
+On his way back to Stonehill Inn, the sky opened. It was Aelar, his father. He asked Faelaris who he was, and told him his steps were not worthy. He wanted him to prove that he was more than he thought he was. Faelaris looked down at the ground, disappointed and sorrowful, wondering who he was, knowing that what he had done was not right. He went back to Stonehill Inn to rest, waiting for the morning that would take them to Wave Echo Cave.
+
 ## NPCs
 
 ### Klarg (DEAD)
@@ -493,7 +521,7 @@ The walls of Stonehill Inn were scarred by the blast, but the party was alive. C
 
 ### Daran Edermath
 - **Appearance:** An elderly half-elf with long white hair, dark grey skin, and pointed ears, wearing ornate leather armor with a blue cloak.
-- **Locations:** Edermath Orchard, Phandalin
+- **Locations:** Edermath Orchard, Phandalin, Eric's Weird Cave
 - **First appeared:** Session 3
 
 ### Bertrice Edermath
@@ -508,7 +536,7 @@ The walls of Stonehill Inn were scarred by the blast, but the party was alive. C
 
 ### Sister Garaele
 - **Appearance:** An elven woman with long dark hair, pale skin, and pointed ears, wearing an elegant blue and silver clerical robe with ornate embroidery.
-- **Locations:** Shrine of Luck, Phandalin, Stonehill Inn
+- **Locations:** Shrine of Luck, Phandalin, Stonehill Inn, Umbrage Hill
 - **First appeared:** Session 3
 
 ### Halia Thornton
@@ -701,6 +729,21 @@ The walls of Stonehill Inn were scarred by the blast, but the party was alive. C
 - **Locations:** Phandalin Forest
 - **First appeared:** Session 15
 
+### Alger Frakk
+- **Appearance:** Phandalin's smith, who agreed to help repair the wall of Stonehill Inn and to powder silver for Brander.
+- **Locations:** Smithy, Phandalin
+- **First appeared:** Session 17
+
+### Maza Fieldsalder
+- **Appearance:** Alger Frakk's apprentice at the Smithy, who joined the repairs on Stonehill Inn.
+- **Locations:** Smithy, Phandalin
+- **First appeared:** Session 17
+
+### Eric Oprah (DEAD)
+- **Appearance:** A man in fine clothes and a cloak, with slicked-back hair and a white mask, who commanded bats and wielded arcane magic. Unmasked as the Orchard Ghost.
+- **Locations:** Eric's Weird Cave, Edermath Orchard, Umbrage Hill
+- **First appeared:** Session 17
+
 ## Locations
 
 ### Triboar Trail (S1, S2, S6, S7, S8, S13)
@@ -725,7 +768,7 @@ The walls of Stonehill Inn were scarred by the blast, but the party was alive. C
 - Unbreakable Arrow, longsword, shield and longbow were found (S2).
 - Stolen goods from Lionshield Coster were found (S2).
 
-### Phandalin (S2, S3, S4, S5, S13, S14, S16)
+### Phandalin (S2, S3, S4, S5, S13, S14, S16, S17)
 - The party arrived after rescuing Sildar (S2).
 - First encounter with the Redbrand Ruffians (S2).
 - The party investigated the town and spoke with residents (S3).
@@ -737,8 +780,9 @@ The walls of Stonehill Inn were scarred by the blast, but the party was alive. C
 - Sildar revealed that Krusk had been paying orcs to stop deliveries to Phandalin, and that a murder had taken place in town, bringing the detective Du'Pont from Waterdeep to assist the Lords' Alliance (S13).
 - The party helped Detective Du'Pont investigate the murder of Thora Coalbreaker, visiting and questioning suspects Safrax Toilpick, Micah Deesian, Videric Flintshield, and Narin Tafa across town before unmasking Micah as the killer (S14).
 - The party brought Nars home to a tearful Mirna Dendrar (S16).
+- The townsfolk gathered around the scarred Stonehill Inn after the battle; later the party carried Eric Oprah's body back into town, and angry looks followed them until Toblen suggested they leave Phandalin for a day or two (S17).
 
-### Stonehill Inn (S2, S3, S4, S5, S13, S14, S15, S16)
+### Stonehill Inn (S2, S3, S4, S5, S13, S14, S15, S16, S17)
 - The party gathered information about the Redbrands and the town (S2).
 - Overnight stay before infiltrating the Redbrand Hideout (S4).
 - Celebration in the party's honor after Glasstaff was captured (S5).
@@ -750,6 +794,7 @@ The walls of Stonehill Inn were scarred by the blast, but the party was alive. C
 - The party gathered the suspects here to reveal Micah Deesian as Thora Coalbreaker's killer, then celebrated the case's end with Detective Du'Pont (S14).
 - Stonehill Inn was full of familiar faces for breakfast, including Mirna Dendrar and Qelline Alderleaf, Gwyn and Elsa Oresong, and Sister Garaele; Toblen and Sildar asked about the murder and Phandalin's other troubles, Sildar said Gundren needed another day to recover before he could answer their questions, Qelline and Daran Edermath stopped by with a new Orchard Ghost note, and Mirna asked the party to find her missing son Nars (S15).
 - Gundren Rockseeker told his full story, marked Wave Echo Cave on Lior's illusory map, and Sildar paid the party 700 gold; then Elowen Marsh of The Ninth Quill confronted Corvus over the black stone, and Lior killed him in a magical battle in the street outside that scarred the inn's walls (S16).
+- Corvus told Gundren that Elowen had been his old master, Faelaris reported a figure in Edermath Orchard, and Lior paid 20 gold toward repairing the wall while around ten townsfolk helped rebuild it; Sildar asked Brander to make sure Gundren came home (S17).
 
 ### Lionshield Coster (S3)
 - The party met Linene Graywind and asked about Harbin Wester (S3).
@@ -763,14 +808,16 @@ The walls of Stonehill Inn were scarred by the blast, but the party was alive. C
 - The party met Sister Garaele who told them about the book she is searching for (S3).
 - Sister Garaele gave the party a silver comb to deliver to the banshee Agatha (S3).
 
-### Edermath Orchard (S3, S16)
+### Edermath Orchard (S3, S16, S17)
 - The party met Daran Edermath and received information about Halia and the Sleeping Giant (S3).
 - Faelaris lay in wait at the orchard, watching for the Orchard Ghost, and later returned with new information about the case (S16).
+- Faelaris came to the orchard at night to leave Daran a note; Bertrice answered, and Daran told Faelaris he was disappointed in him and shut the door (S17).
 
-### Phandalin Miner's Exchange (S3, S14)
+### Phandalin Miner's Exchange (S3, S14, S17)
 - The party met Halia Thornton who confirmed Redbrands gather at the Sleeping Giant (S3).
 - Thora Coalbreaker was found murdered here, killed by a blow from behind; the party examined the scene and found blood wiped on a nearby plant (S14).
 - Halia Thornton gave Corvus a list of suspects, and the party later exposed Micah Deesian as the killer here, finding a stolen emerald sewn into his shirt (S14).
+- Halia Thornton told Corvus she knew who he was, that they belonged to sister organizations, and struck a deal with him to bring her The Spider alive (S17).
 
 ### Sleeping Giant (S3)
 - The party fought the Redbrands (S3).
@@ -904,6 +951,15 @@ The walls of Stonehill Inn were scarred by the blast, but the party was alive. C
 - Following a second trail, the party found a hidden camp marked by an altar of animal skulls and slaughtered animals strung up between the trees, where Krusk and the missing Nars Dendrar sat together at a fire (S15).
 - At Krusk's camp, Lior exposed Krusk as the one who paid the orcs to stop Phandalin's deliveries; Krusk confessed he did it to protect the forest from logging, and Nars chose to return home with the party, leaving Krusk alone as a howl faded into the trees (S16).
 
+### Smithy (S17)
+- The party hired Alger Frakk and his apprentice Maza Fieldsalder to repair Stonehill Inn's wall at a gold piece per man per day, and Brander asked Alger to powder silver for him (S17).
+
+### Eric's Weird Cave (S17)
+- Beyond the hills past the Town Square, the party found the masked Orchard Ghost among his notes; after a fight in the dark in which Daran Edermath saved Faelaris with a counterspell, the man was killed and unmasked as Eric Oprah (S17).
+
+### Umbrage Hill (S17)
+- Brander and Sister Garaele buried Eric Oprah on this hill south of Phandalin, and Brander grew an apple sapling over the grave (S17).
+
 ## Factions
 
 ### 🎵 Harpers
@@ -931,11 +987,13 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 ### Active
 - Investigate the location on Hamun's map, 100 miles southwest of Old Owl Well. (from Session 8)
 - Find out more about the goblins with elongated skulls moving through the region. (from Session 11)
-- Find out who or what the Orchard Ghost is that keeps troubling Daran Edermath. (from Session 13)
 - Find Wave Echo Cave together with Gundren Rockseeker. (from Session 16)
 - Find Gundren's brothers Nundro and Tharden around Wave Echo Cave. (from Session 16)
 - Find out what the black stone Corvus stole from Elowen Marsh really is, and decipher the scroll found on Elowen's body. (from Session 16)
 - Return to Elara Thistlebrook to change the dressing on Corvus's bite. (from Session 16)
+- Bring The Spider to Halia Thornton alive. (from Session 17)
+- Keep Gundren safe on the way to Wave Echo Cave and bring him home, as Sildar asked. (from Session 17)
+- Collect Brander's powdered silver from Alger Frakk. (from Session 17)
 
 ### Completed
 - ~~Find out what the orcs were guarding at Butterskull Ranch.~~ (from Session 8)
@@ -958,6 +1016,7 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 - ~~Fight through Cragmaw Castle.~~ (from Session 11)
 - ~~Escort Gundren Rockseeker safely back to Phandalin.~~ (from Session 12)
 - ~~Help Detective Du'Pont solve the murder in Phandalin.~~ (from Session 13)
+- ~~Find out who or what the Orchard Ghost is that keeps troubling Daran Edermath.~~ (from Session 13)
 - ~~Wait for Gundren Rockseeker to recover.~~ (from Session 13)
 - ~~Find out why Nars Dendrar is at Krusk's camp in Phandalin Forest, and bring him back to Mirna.~~ (from Session 15)
 - ~~Find out whether Corvus has been infected with lycanthropy after being bitten by the werewolf Aylin Shadow.~~ (from Session 15)
