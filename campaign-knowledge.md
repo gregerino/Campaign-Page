@@ -462,6 +462,34 @@ Faelaris left Stonehill Inn and headed up toward Edermath Orchard. On the way he
 
 On his way back to Stonehill Inn, the sky opened. It was Aelar, his father. He asked Faelaris who he was, and told him his steps were not worthy. He wanted him to prove that he was more than he thought he was. Faelaris looked down at the ground, disappointed and sorrowful, wondering who he was, knowing that what he had done was not right. He went back to Stonehill Inn to rest, waiting for the morning that would take them to Wave Echo Cave.
 
+### Session 18 (2 November 2026)
+
+The morning they were to leave, Bertrice Edermath found them before they could reach the edge of town. She held a letter in her hand, crumpled from how tightly she was gripping it, and her voice shook as she asked the question she already feared the answer to: was it really Eric who had died? Lior gave Faelaris a small push forward. Faelaris tried to lie, pretending he did not know who the masked man had been, but Bertrice saw straight through him. "You're young," he told her. "You'll find someone new." For a moment she only stared at him. Then she stepped forward, shoved him hard in the chest, and told him to leave Phandalin and never come back. With her words still hanging in the air, the party gathered up Gundren and left the town behind.
+
+They had not gone far before Gwyn Oresong caught up with them, curious where they were headed. At the name Wave Echo Cave her eyes lit up; dwarven history had always fascinated her. Then she turned to Corvus and asked whether he had found anything on the wizard the other day. Corvus hesitated, then drew out the scroll he had taken from Elowen's body. Gwyn studied it closely. It was written in Netherese, she said, an ancient tongue, and it spoke of a stone that seeks its siblings, a stone that awakens near psionic minds. Corvus did not understand a word of what that meant. Gwyn, on the other hand, looked as though she had been handed a treasure.
+
+The road wound on toward the hills, and there, as if he had been waiting for them, stood Bramblewick Quickpocket with his wares freshly stocked. Brander asked, quietly, whether he had anything that could bring back the dead. Bramblewick produced a Spell Scroll of Revivify, and Brander paid for it without haggling. The others filled their packs with potions of healing for the journey ahead, and Lior, unable to resist, asked for a potion without being told what was in it. Bramblewick grinned, brewed something up on the spot and pressed it into his hand. Then, with a wish of good luck, he vanished in a puff of smoke.
+
+Higher in the hills, a stream ran through a stretch of forest, and the party stopped beside it to talk through their plan. Gundren hoped his brothers might already be at Wave Echo Cave, ready to help with whatever came next. They were still talking when the hobgoblins stepped out from between the trees. The Spider had sent them, they said, and The Spider knew the party was coming.
+
+Steel and magic broke the forest quiet. Corvus hurled a Chromatic Orb that tore through two hobgoblins at once before their captain turned it aside. Gundren charged in roaring, his warhammer caving in the skull of one of the smaller soldiers, and the captain cut back at him. Brander waded in after the dwarf, hammering the captain until he sank to his knees. Lior darted through the chaos, kicked one corpse into the stream and rifled through another, coming up with a stained scrap of paper: a wanted poster, bearing the faces of the whole party. The captain staggered back to his feet, and as Brander and Gundren pressed him, Faelaris loosed a single arrow between them. It struck the hobgoblin between the eyes, and he fell.
+
+In the silence that followed, Gundren looked down at the body. This was the one who had tortured him in Cragmaw Hideout, he said, and he was glad he was gone. Brander stood beside him and said nothing, watching the old pain move across the dwarf's face. Then, watching the bodies Lior had sent drifting off down the stream, Brander decided he could do one better and tried to heave the captain into the water after them, but there was nothing left in his arms after the fight. Faelaris knelt by the body and cut off one of the captain's ears as a trophy. Then they moved on.
+
+By the time they reached the mouth of Wave Echo Cave, Gundren wanted to rest before going in, and no one argued. They found a hollow out of sight where they could still watch the entrance, and lit a small fire. Gundren sat before it, staring into the dark of the cave. Lior crept close to the opening to see what he could learn, but found only footprints: no guards, no movement, nothing at all. He returned to camp. Corvus turned Gwyn's scroll over in his hands, still unable to make sense of it, and kept coming back to the same question. Was the stone he had stolen the one the scroll spoke of, or something else entirely? He had felt it, he was sure of that. He just could not be certain what it was. Brander sat whittling a stick he had cut from a tree until a small wooden hand took shape in his fingers. Gundren began to speak of Nundro and Tharden; he had seen no sign of their camp anywhere, and the worry was wearing on him. He still hoped Wave Echo Cave would be the place where his family's fortunes were restored. Faelaris sat apart, turning over his father's words, and the thought of pinning the hobgoblin's ear to Daran's door with an arrow. But beneath it all was shame: things had gone too far, and he had put his companions in a hard place back in Phandalin.
+
+Lior woke first. A strong wind tugged at the tent cloth, but the sun was breaking through into the glade and melting the spring frost from the grass. He was ready for Wave Echo Cave, and set about making breakfast. Gundren rose, took the cup of coffee Lior offered, drained it in one go, and declared himself ready to find his brothers. Lior woke the others, a cup of coffee for each of them.
+
+At the edge of the cave, where the grass gave way to stone, Brander made a flower bloom and tucked it away with him. Gundren lit a torch, Lior kindled his ring torch, and the others lit theirs, all but Faelaris, whose eyes needed no light and who took the lead. They moved slowly into the dark. Behind a stone pillar they found a camp, and in it lay Tharden, dead. Gundren threw himself over his brother, weeping, pounding the stone floor with his fists. Ahead, Faelaris reached a ledge and looked down. Below lay a goblin with an elongated skull, its skin shimmering faintly green. He called back to the others.
+
+Gundren asked Brander to look at Tharden. Brander knelt and examined the wound: a knife, its blade coated in drow poison. He told Gundren gently what had happened, and that it would have been quick. Drow poison is potent.
+
+The drop from the ledge was deep, and below it the cave split in two, one way leading west and the other east. Lior tied a rope around a rock and they climbed down. Lior went to the dead goblin first. There was not a wound on it, yet blood had run from its eyes and ears. In Corvus's bag, the stone turned ice-cold against his thigh. Gundren came down last, and without a word tossed Tharden's cloak to Corvus, asking him to put it to good use. Corvus flipped a coin to choose their path. North, it said.
+
+The old tunnels of Wave Echo Cave were low and close; Brander had to stoop to fit, and for a while they wandered the passages with Faelaris in front. Then something heavy dropped from the ceiling: a great yellow, gelatinous mass that surged toward them. Faelaris's arrow punched into it and hung there in the jelly. Corvus pressed a hand to his crown and loosed fire from it. And then Lior came flying off Gundren's back, his dagger ablaze, and carved the thing clean in two. Both halves slumped to the floor and lay still. Brander picked up a small piece and tasted it. It was acrid, and it burned his mouth.
+
+Deeper in, the tunnel opened onto a great underground pool. They were making their way along the shore when a massive reptilian tail lashed out of the water and coiled around Gundren, crushing him. The party spun and fought. Brander and Lior struck the same spot again and again until the coils loosened and Gundren tore free, and the dwarf swung his hammer with such fury that the serpent collapsed, dead. Breathing hard, dripping, torches flickering against the water, the party stood in the heart of Wave Echo Cave.
+
 ## NPCs
 
 ### Klarg (DEAD)
@@ -526,7 +554,7 @@ On his way back to Stonehill Inn, the sky opened. It was Aelar, his father. He a
 
 ### Bertrice Edermath
 - **Appearance:** A young human woman with curly dark hair and green eyes, wearing a floral headscarf, olive-green dress, and an embroidered apron.
-- **Locations:** Edermath Orchard
+- **Locations:** Edermath Orchard, Phandalin
 - **First appeared:** Session 3
 
 ### Harbin Wester
@@ -676,7 +704,7 @@ On his way back to Stonehill Inn, the sky opened. It was Aelar, his father. He a
 
 ### Gundren Rockseeker
 - **Appearance:** A dwarf prospector, bruised and bloodied nearly beyond recognition, found alive but barely conscious in King Grol's chamber.
-- **Locations:** Cragmaw Castle, Neverwinter Wood, The Dogwater Inn, Phandalin, Stonehill Inn
+- **Locations:** Cragmaw Castle, Neverwinter Wood, The Dogwater Inn, Phandalin, Stonehill Inn, Wave Echo Cave
 - **First appeared:** Session 12
 
 ### Unknown Drow
@@ -744,6 +772,16 @@ On his way back to Stonehill Inn, the sky opened. It was Aelar, his father. He a
 - **Locations:** Eric's Weird Cave, Edermath Orchard, Umbrage Hill
 - **First appeared:** Session 17
 
+### Hobgoblin Captain (DEAD)
+- **Appearance:** A hobgoblin captain posted with his soldiers by a forest stream in the hills by The Spider. He had tortured Gundren in Cragmaw Hideout, and was killed by an arrow between the eyes from Faelaris.
+- **Locations:** Wave Echo Cave
+- **First appeared:** Session 18
+
+### Tharden Rockseeker (DEAD)
+- **Appearance:** Gundren's brother, found dead in his camp behind a stone pillar just inside Wave Echo Cave, stabbed with a blade coated in drow poison.
+- **Locations:** Wave Echo Cave
+- **First appeared:** Session 18
+
 ## Locations
 
 ### Triboar Trail (S1, S2, S6, S7, S8, S13)
@@ -768,7 +806,7 @@ On his way back to Stonehill Inn, the sky opened. It was Aelar, his father. He a
 - Unbreakable Arrow, longsword, shield and longbow were found (S2).
 - Stolen goods from Lionshield Coster were found (S2).
 
-### Phandalin (S2, S3, S4, S5, S13, S14, S16, S17)
+### Phandalin (S2, S3, S4, S5, S13, S14, S16, S17, S18)
 - The party arrived after rescuing Sildar (S2).
 - First encounter with the Redbrand Ruffians (S2).
 - The party investigated the town and spoke with residents (S3).
@@ -781,6 +819,7 @@ On his way back to Stonehill Inn, the sky opened. It was Aelar, his father. He a
 - The party helped Detective Du'Pont investigate the murder of Thora Coalbreaker, visiting and questioning suspects Safrax Toilpick, Micah Deesian, Videric Flintshield, and Narin Tafa across town before unmasking Micah as the killer (S14).
 - The party brought Nars home to a tearful Mirna Dendrar (S16).
 - The townsfolk gathered around the scarred Stonehill Inn after the battle; later the party carried Eric Oprah's body back into town, and angry looks followed them until Toblen suggested they leave Phandalin for a day or two (S17).
+- Bertrice Edermath confronted Faelaris about Eric's death and told him to leave Phandalin and never come back; on the way out of town, Gwyn Oresong read Elowen's scroll for Corvus (S18).
 
 ### Stonehill Inn (S2, S3, S4, S5, S13, S14, S15, S16, S17)
 - The party gathered information about the Redbrands and the town (S2).
@@ -960,6 +999,11 @@ On his way back to Stonehill Inn, the sky opened. It was Aelar, his father. He a
 ### Umbrage Hill (S17)
 - Brander and Sister Garaele buried Eric Oprah on this hill south of Phandalin, and Brander grew an apple sapling over the grave (S17).
 
+### Wave Echo Cave (S18)
+- On the way, by a forest stream up in the hills, the party killed hobgoblins sent by The Spider and their captain, and found a wanted poster for the whole party (S18).
+- The party camped in sight of the cave mouth, then went in at dawn and found Tharden Rockseeker dead behind a stone pillar, killed with drow poison, and a long-skulled goblin dead below the ledge, bleeding from its eyes and ears (S18).
+- Heading north into the old tunnels, the party killed a gelatinous mass that dropped from the ceiling, and a great serpent that seized Gundren by a large underground pool (S18).
+
 ## Factions
 
 ### 🎵 Harpers
@@ -987,13 +1031,13 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 ### Active
 - Investigate the location on Hamun's map, 100 miles southwest of Old Owl Well. (from Session 8)
 - Find out more about the goblins with elongated skulls moving through the region. (from Session 11)
-- Find Wave Echo Cave together with Gundren Rockseeker. (from Session 16)
-- Find Gundren's brothers Nundro and Tharden around Wave Echo Cave. (from Session 16)
 - Find out what the black stone Corvus stole from Elowen Marsh really is, and decipher the scroll found on Elowen's body. (from Session 16)
 - Return to Elara Thistlebrook to change the dressing on Corvus's bite. (from Session 16)
 - Bring The Spider to Halia Thornton alive. (from Session 17)
 - Keep Gundren safe on the way to Wave Echo Cave and bring him home, as Sildar asked. (from Session 17)
 - Collect Brander's powdered silver from Alger Frakk. (from Session 17)
+- Find Nundro Rockseeker inside Wave Echo Cave. (from Session 18)
+- Find out who killed Tharden Rockseeker with a drow-poisoned blade. (from Session 18)
 
 ### Completed
 - ~~Find out what the orcs were guarding at Butterskull Ranch.~~ (from Session 8)
@@ -1020,3 +1064,5 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 - ~~Wait for Gundren Rockseeker to recover.~~ (from Session 13)
 - ~~Find out why Nars Dendrar is at Krusk's camp in Phandalin Forest, and bring him back to Mirna.~~ (from Session 15)
 - ~~Find out whether Corvus has been infected with lycanthropy after being bitten by the werewolf Aylin Shadow.~~ (from Session 15)
+- ~~Find Wave Echo Cave together with Gundren Rockseeker.~~ (from Session 16)
+- ~~Find Gundren's brothers Nundro and Tharden around Wave Echo Cave.~~ (from Session 16)
