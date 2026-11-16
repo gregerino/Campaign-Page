@@ -739,6 +739,11 @@ Nundro was alive. And the battle raged on.
 - **Locations:** Cragmaw Castle, Neverwinter Wood, The Dogwater Inn, Phandalin, Stonehill Inn, Wave Echo Cave
 - **First appeared:** Session 12
 
+### Unknown Drow
+- **Appearance:** A striking figure with a drow's dark skin, white hair, and cold bearing, met in Grol's chamber mid-bargain over a map, which she tore from his grasp the instant the fighting began. The chieftain's own wolf swore she was no true drow at all, and no one has learned what she truly is.
+- **Locations:** Cragmaw Castle
+- **First appeared:** Session 12
+
 ### Detective Du'Pont
 - **Appearance:** A portly, elephantine gentleman in a black top hat and tailcoat, a brass-rimmed monocle fixed over one eye, small feathered wings folded neatly at his back, examining clues through a magnifying glass held in his trunk.
 - **Locations:** Stonehill Inn, Phandalin, Phandalin Miner's Exchange
@@ -810,9 +815,9 @@ Nundro was alive. And the battle raged on.
 - **First appeared:** Session 18
 
 ### Vhalak (DEAD)
-- **Appearance:** A doppelganger in The Spider's service. At Cragmaw Castle he wore the shape of a white-haired drow woman, bargaining with King Grol over a map that he tore from Grol's grasp the instant the fighting began; the chieftain's own wolf swore he was no true drow. In Wave Echo Cave he led the bugbears at the waterfall, still in a drow's shape, until Corvus's Chromatic Orb blew a hole through him and he fell dead into the waterfall, where his body shifted into something skinless and bluish, with glowing eyes and no mouth or nose.
-- **Locations:** Cragmaw Castle, Wave Echo Cave
-- **First appeared:** Session 12
+- **Appearance:** A doppelganger in The Spider's service who led the bugbears at the waterfall in Wave Echo Cave while wearing the shape of a drow. Gundren knew him from Cragmaw Castle. Corvus's Chromatic Orb blew a hole through him and he fell dead into the waterfall, where his body shifted into something skinless and bluish, with glowing eyes and no mouth or nose.
+- **Locations:** Wave Echo Cave
+- **First appeared:** Session 19
 
 ### The Spider
 - **Appearance:** A male drow wearing a spider-shaped brooch, who has made his lair in Wave Echo Cave with bugbears in his service. He wields necrotic magic, knows Lior and invoked Szass Tam, and wants to reach the Forge of Spells but cannot get past the undead himself. Last seen atop the great statue in his chamber, mid-battle, taunting Gundren that Nundro is still alive.
