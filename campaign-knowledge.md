@@ -510,7 +510,7 @@ They whispered their plan. Lior gave Brander a pat on the shoulder, and Brander 
 
 Corvus answered first, flinging a fireball into the heart of them that set the bugbears howling. The fight raged along the slick stone, and when Corvus finally loosed a Chromatic Orb it punched a hole clean through Vhalak, sent him toppling dead into the waterfall, and went on ricocheting wildly around the chamber. Faelaris looked down into the churning water and watched the body change. The drow's face slid away, and what was left was skinless and bluish, with glowing eyes and no mouth or nose at all. It was just as they had heard in Cragmaw Castle. This had never been a drow. But there was no time to stare. Bugbears still stood on the ledge, and the party fell on them together: Brander's axe, Gundren's hammer, Faelaris's arrows and Corvus's magic, until one by one the brutes fell and only the companions remained, breathing hard and alive on the cliff edge above the roaring water.
 
-In the quiet that followed, Gundren turned to Lior and asked what he had seen behind that door. Three figures, Lior told him, and one that looked like a drow. A man or a woman? A man, Lior thought. Gundren frowned. He knew Vhalak had been at Cragmaw Castle, he said, and a female drow had been there too, though never at the same time. But a male drow? That, he did not know. And Lior, thinking of the shape they had seen in the water, was suddenly somewhere else entirely. Thay. A cold chamber, and a creature just like it, a doppelganger they had been sent to wipe from existence with necrotic magic. The memory came and went like a flash, and left him knowing exactly what Vhalak had been.
+In the quiet that followed, Gundren turned to Lior and asked what he had seen behind that door. Three figures, Lior told him, and one that looked like a drow. A man or a woman? A man, Lior thought. Gundren frowned. He knew Vhalak had been at Cragmaw Castle, he said. But a male drow? That, he did not know. And Lior, thinking of the shape they had seen in the water, was suddenly somewhere else entirely. Thay. A cold chamber, and a creature just like it, a doppelganger they had been sent to wipe from existence with necrotic magic. The memory came and went like a flash, and left him knowing exactly what Vhalak had been.
 
 They gathered themselves before the door and laid their plan. Faelaris would wear Vhalak's face through Disguise Self and walk in as though nothing had happened. Brander drank Lior's potion of invisibility and would walk at his side, unseen. Lior would slip in once every eye had turned from the door, while Gundren and Corvus waited just outside, ready to burst in. Corvus wove a shell of magical armour around himself. Brander shaped a little hand of clay, no bigger than a flower, and held it a moment. Then they opened the door.
 
@@ -739,11 +739,6 @@ Nundro was alive. And the battle raged on.
 - **Locations:** Cragmaw Castle, Neverwinter Wood, The Dogwater Inn, Phandalin, Stonehill Inn, Wave Echo Cave
 - **First appeared:** Session 12
 
-### Unknown Drow
-- **Appearance:** A striking figure with a drow's dark skin, white hair, and cold bearing, met in Grol's chamber mid-bargain over a map, which she tore from his grasp the instant the fighting began. The chieftain's own wolf swore she was no true drow at all, and no one has learned what she truly is.
-- **Locations:** Cragmaw Castle
-- **First appeared:** Session 12
-
 ### Detective Du'Pont
 - **Appearance:** A portly, elephantine gentleman in a black top hat and tailcoat, a brass-rimmed monocle fixed over one eye, small feathered wings folded neatly at his back, examining clues through a magnifying glass held in his trunk.
 - **Locations:** Stonehill Inn, Phandalin, Phandalin Miner's Exchange
@@ -815,9 +810,9 @@ Nundro was alive. And the battle raged on.
 - **First appeared:** Session 18
 
 ### Vhalak (DEAD)
-- **Appearance:** A doppelganger in The Spider's service who led the bugbears at the waterfall in Wave Echo Cave while wearing the shape of a drow. Gundren knew him from Cragmaw Castle. Corvus's Chromatic Orb blew a hole through him and he fell dead into the waterfall, where his body shifted into something skinless and bluish, with glowing eyes and no mouth or nose.
-- **Locations:** Wave Echo Cave
-- **First appeared:** Session 19
+- **Appearance:** A doppelganger in The Spider's service. At Cragmaw Castle he wore the shape of a white-haired drow woman, bargaining with King Grol over a map that he tore from Grol's grasp the instant the fighting began; the chieftain's own wolf swore he was no true drow. In Wave Echo Cave he led the bugbears at the waterfall, still in a drow's shape, until Corvus's Chromatic Orb blew a hole through him and he fell dead into the waterfall, where his body shifted into something skinless and bluish, with glowing eyes and no mouth or nose.
+- **Locations:** Cragmaw Castle, Wave Echo Cave
+- **First appeared:** Session 12
 
 ### The Spider
 - **Appearance:** A male drow wearing a spider-shaped brooch, who has made his lair in Wave Echo Cave with bugbears in his service. He wields necrotic magic, knows Lior and invoked Szass Tam, and wants to reach the Forge of Spells but cannot get past the undead himself. Last seen atop the great statue in his chamber, mid-battle, taunting Gundren that Nundro is still alive.

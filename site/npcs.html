@@ -64,9 +64,9 @@
   <footer class="main-footer" data-i18n="home.footer">A campaign chronicle from the Forgotten Realms, Phandalin, Sword Coast</footer>
   <button class="scroll-top" aria-label="Scroll to top">↑</button>
 
-  <script src="assets/js/data.js?v=12"></script>
-  <script src="assets/js/i18n.js?v=12"></script>
-  <script src="assets/js/app.js?v=12"></script>
+  <script src="assets/js/data.js?v=13"></script>
+  <script src="assets/js/i18n.js?v=13"></script>
+  <script src="assets/js/app.js?v=13"></script>
   <script>
     function renderNPCs() {
       const grid = document.getElementById('npc-grid');
@@ -85,8 +85,8 @@
 
         card.innerHTML = `
           <div class="npc-portrait">
-            <img src="${npc.image}" alt="${npc.name}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
-            <div class="npc-portrait-placeholder" style="display:none; position:absolute; inset:0; align-items:center; justify-content:center;">${initials}</div>
+            ${npc.image ? `<img src="${npc.image}" alt="${npc.name}" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">` : ''}
+            <div class="npc-portrait-placeholder" style="display:${npc.image ? 'none' : 'flex'}; position:absolute; inset:0; align-items:center; justify-content:center;">${initials}</div>
           </div>
           <div class="npc-info">
             <div class="npc-name">${npc.name}</div>
