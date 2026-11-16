@@ -490,6 +490,28 @@ The old tunnels of Wave Echo Cave were low and close; Brander had to stoop to fi
 
 Deeper in, the tunnel opened onto a great underground pool. They were making their way along the shore when a massive reptilian tail lashed out of the water and coiled around Gundren, crushing him. The party spun and fought. Brander and Lior struck the same spot again and again until the coils loosened and Gundren tore free, and the dwarf swung his hammer with such fury that the serpent collapsed, dead. Breathing hard, dripping, torches flickering against the water, the party stood in the heart of Wave Echo Cave.
 
+### Session 19 (16 November 2026)
+
+Brander waded out into the cold water toward the dead serpent's head. He wanted one of its teeth, and after some effort he wrenched one loose from its jaws. Gundren called out that he could see something in the water beneath the carcass. Brander looked closer, then dove, while Lior watched from the shore. Down in the dark lay the skeleton Gundren had glimpsed, a satchel still hanging around it. Brander took the satchel, and the skull as well, and came up freezing. He tossed both onto the stone and rubbed himself warm before the party went through the bag together: three rings and a staff. Brander cleaned them off one by one.
+
+They were still talking when voices and footsteps came toward them. The party pressed themselves against the walls as two bugbears with torches entered, grumbling about someone they called "the grey", about how hungry they were and how they were not being fed. The party made the decision together: attack. Faelaris's arrow opened the fight, and the first bugbear fell quickly. The second held its ground and brought a hammer down over Brander's head, dropping him to the floor. Then Lior came rushing in, just like that time in Phandalin, and cut the last bugbear down. Afterwards Gundren reached out a hand and pulled Brander to his feet. "Up, soldier. We've still got a job to do, and I know you promised Sildar I'd make it home."
+
+Gundren wanted to know what the bugbears had been saying. Faelaris explained, and Gundren shook his head: it could not be The Spider, for he had never been called that. The party slid one of the bodies into the water so that it would look as if the serpent had killed it. Gundren suggested they turn back and gather their strength, but the party wanted to stay by the water, so they set up a small camp there and rested.
+
+Faelaris crept into the tunnel the bugbears had come from, found a door and pressed his ear against it. Behind it he heard gruff voices. He slipped back quietly and told the others. After about an hour's rest they moved on through the tunnel, past the door.
+
+Ahead, Faelaris scouted a cave opening where several bugbears had gathered, and among them a third voice, more patient, colder. Lior went to the door on the other side of the tunnel, eased it open and peeked in: a drow leaning over a wooden table, a black staff propped against it. He closed the door, went back and told the others what he had seen, and the party talked through their next move. Lior gave Brander a pat, and Brander turned invisible. Lior began to sneak along the wall. Brander crept forward unseen and slammed into one of the bugbears on the ledge like a charging rhinoceros, sending it over into the waterfall to tumble away. The drow standing there spoke: "Intruders. The Spider is waiting for you." Then he saw Gundren come around the corner. "The Spider has been longing for you." Gundren answered: "Vhalak, time to die!"
+
+Corvus hurled a fireball into the fight, scorching the bugbears. After a hard exchange he loosed a Chromatic Orb that punched a hole straight through Vhalak, and he toppled dead into the waterfall while the orb went on bouncing around the chamber. Faelaris watched the body in the water change its shape into something skinless and bluish, with glowing eyes and no mouth or nose. It was just as they had heard in Cragmaw Castle: this was something that was not a drow. The fight went on, for there were still bugbears standing. Brander swung his axe, Gundren his hammer, Faelaris loosed arrows and Corvus cast his magic, and one by one they fell, until only the party remained, alive on the cliff edge.
+
+Gundren asked Lior what he had seen behind the door. Three figures, Lior said, and a drow-like shape. A man or a woman, Gundren wanted to know. A man, Lior thought. Gundren explained that he knew Vhalak had been at Cragmaw Castle, along with a female drow, so if there was a male drow in there, he did not know who it was. And Lior, thinking back to the body they had fished out of the water, remembered what he had seen in Thay: a doppelganger.
+
+They gathered themselves and made a plan for the door. Faelaris would use Disguise Self to look like Vhalak and walk straight in. Brander took Lior's potion of invisibility and would go in with him. Lior would slip in once no one was watching the door, while Gundren and Corvus waited outside, ready to rush in if needed. Corvus wrapped himself in magical armour, and Brander conjured a small hand made of clay, no bigger than a flower. Then they went in.
+
+Inside, Faelaris was met by a drow and two bugbears, while Brander crept in unseen. On the drow's chest was a brooch shaped like a spider: this was The Spider. He came toward Faelaris wanting a report on the intruders in Wave Echo Cave, and Faelaris did his best to imitate Vhalak from what he had heard. The Spider wanted to know more about how close they had come to the Forge of Spells, since they had not yet reached it, and whether all the bugbears had made it past the Flameskull, something Faelaris did not understand at all. He tried to lie his way to something sensible. Just then Lior crept forward, and The Spider saw him. He welcomed him and said it was good that he was here, and tried to bargain: he wanted to reach the Forge of Spells, but could not get there himself because of all the undead. Lior refused to work with him. The Spider hurled a spell at him, and Lior ducked behind a pillar. The battle had begun.
+
+Faelaris fired at him and took cover behind a pillar. Lior dashed forward, threw himself at The Spider with a dagger in each hand, and hid behind a pillar again. The Spider followed slowly, casting a necrotic spell as he spoke: "Szass Tam would have been disappointed in you, Lior." And Lior understood that The Spider had ties to Thay. The magic struck him hard, and he came close to falling. The party kept raining blows and spells on The Spider, and Gundren charged in with his hammer raised high. The Spider teleported up onto the great statue in the room, his hands glowing with necrotic magic, and called out across the chamber: "Gundren, so you live. A pity you won't live long enough to see Nundro again." Nundro was alive. And the battle raged on.
+
 ## NPCs
 
 ### Klarg (DEAD)
@@ -782,6 +804,16 @@ Deeper in, the tunnel opened onto a great underground pool. They were making the
 - **Locations:** Wave Echo Cave
 - **First appeared:** Session 18
 
+### Vhalak (DEAD)
+- **Appearance:** A doppelganger in The Spider's service who led the bugbears at the waterfall in Wave Echo Cave while wearing the shape of a drow. Gundren knew him from Cragmaw Castle. Corvus's Chromatic Orb blew a hole through him and he fell dead into the waterfall, where his body shifted into something skinless and bluish, with glowing eyes and no mouth or nose.
+- **Locations:** Wave Echo Cave
+- **First appeared:** Session 19
+
+### Nezznar "The Spider"
+- **Appearance:** A male drow wearing a spider-shaped brooch, who has made his lair in Wave Echo Cave with bugbears in his service. He wields necrotic magic, knows Lior and invoked Szass Tam, and wants to reach the Forge of Spells but cannot get past the undead himself. Last seen atop the great statue in his chamber, mid-battle, taunting Gundren that Nundro is still alive.
+- **Locations:** Wave Echo Cave
+- **First appeared:** Session 19
+
 ## Locations
 
 ### Triboar Trail (S1, S2, S6, S7, S8, S13)
@@ -999,10 +1031,13 @@ Deeper in, the tunnel opened onto a great underground pool. They were making the
 ### Umbrage Hill (S17)
 - Brander and Sister Garaele buried Eric Oprah on this hill south of Phandalin, and Brander grew an apple sapling over the grave (S17).
 
-### Wave Echo Cave (S18)
+### Wave Echo Cave (S18, S19)
 - On the way, by a forest stream up in the hills, the party killed hobgoblins sent by The Spider and their captain, and found a wanted poster for the whole party (S18).
 - The party camped in sight of the cave mouth, then went in at dawn and found Tharden Rockseeker dead behind a stone pillar, killed with drow poison, and a long-skulled goblin dead below the ledge, bleeding from its eyes and ears (S18).
 - Heading north into the old tunnels, the party killed a gelatinous mass that dropped from the ceiling, and a great serpent that seized Gundren by a large underground pool (S18).
+- Brander dove into the underground pool beneath the dead serpent and brought up a satchel holding three rings and a staff from a skeleton, and the party killed two hungry bugbears who came grumbling about "the grey" (S19).
+- At a large chamber with a waterfall, the party killed the doppelganger Vhalak and his bugbears (S19).
+- In The Spider's chamber, Faelaris posed as Vhalak until The Spider spotted Lior; The Spider tried to bargain for help reaching the Forge of Spells, then attacked, and revealed that Nundro is still alive (S19).
 
 ## Factions
 
@@ -1038,6 +1073,9 @@ A fanatical sect devoted to serving dragons and, ultimately, to raising them as 
 - Collect Brander's powdered silver from Alger Frakk. (from Session 17)
 - Find Nundro Rockseeker inside Wave Echo Cave. (from Session 18)
 - Find out who killed Tharden Rockseeker with a drow-poisoned blade. (from Session 18)
+- Defeat The Spider in his chamber in Wave Echo Cave. (from Session 19)
+- Find out what the Forge of Spells is, which The Spider is trying to reach. (from Session 19)
+- Find out what the three rings and the staff from the skeleton in the underground pool can do. (from Session 19)
 
 ### Completed
 - ~~Find out what the orcs were guarding at Butterskull Ranch.~~ (from Session 8)
